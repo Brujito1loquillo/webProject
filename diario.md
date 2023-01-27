@@ -34,3 +34,9 @@ Sigo con esto.
 ### U1.1.3
 Lo cierto es que ni siquiera he buscado apuntes, busque en internet [este post](https://stackoverflow.com/questions/18935539/authenticate-with-github-using-a-token) donde decian que tenia que cambiar la url del origen. Lo he hecho y he puesto la url con usr y token.
 Voy a intentar descargar lo que hay en el repo (Por cierto, estoy escribiendo desde GitHub, como es logico ya que no puedo escribir desde mi local pq no se subiria mi drama a internet instantaneamente...) y luego a subir todas las capturas para linkarlas a la guia y luego crear un nuevo fichero indice.
+
+### U1.1.4
+Noticias frescas, la cosa es que sufro de dislexia, lo cual no tiene mucha relevancia en la vida del 99.9999% de los mortales, pero resulta que la gran parte de mi vida se basa en escribir, tanto en mi vida social y hobbies, como en mi aprendizaje y profesión (esta tan hermosa de programar).
+Adivinan quien es el genio que comu url del remoto puso https**::**//\[...], pues lo más seguro es que sí que lo hicieron.
+El caso. una vez haces el _set-url_ del remoto CORRECTAMENTE... luego tienes que asociar las ramas con _git branch_. Pues ahora solo queda hacer pruebas de descarga y subida.
+Si hay alguien en este planeta o fuera de el leiendo esto, desenme suerte.
