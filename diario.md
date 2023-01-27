@@ -21,7 +21,11 @@ $ git branch --set-upstream-to=[remot/branca-remota] [branca-local]
 
 Vamos a provar.
 
-## U1.1.1
+### U1.1.1
 No funciona... lamentablemente.
 me da una información cuando lo ejecuto de mis posibilidades para poder hacer eso que quiero las cuales no me parecen lo que busco, no es que quiera que mi rama local se llame _main_, quiero que se mantenga el nombre de _master_ en local. La otra opcion que me da es cambiar de rama remota y crear una nueva que si se llamaria _master_ pero entonces tendria dos ramas y no es lo que busco.
 Voy a buscar la manera de asociar mi rama local con una rama remota de nombre diferente.
+
+### U1.1.2
+Lo cierto es que me lo esperaba, resulta que antiguamente tu podias autentificarte mientras hacias un push, lo cual tiene sentido, resulta que ahora al sincronizar el origen tienes que poner tu usario y tu token, lo caul recuerdo que se hablo en clase y no se donde leches lo tendre apuntado.
+Sigo con esto.
