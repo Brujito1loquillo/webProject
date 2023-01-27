@@ -3,5 +3,5 @@
 /.settings/*
 
 # Capturas inseguras
-/unsafeScrnShots/*
+/.unsafeScrnShots/*
 
