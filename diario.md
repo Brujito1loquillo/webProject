@@ -47,3 +47,15 @@ Bueno... hice un push, ¿Conclusión preeliminar? Creo que _local/master_ no est
 ### U1.1.6
 Despues de hacer un _merge_ puedo escribir al fin desde mi sistema en local y estoy casi llorando.
 
+### U1.1.7
+Lo cireto es que puedo escribir desde mi sistema, me puedo bajar ficheros, todo Ok, pero no puedo subirlos, estoy llorando pero mal.
+
+### U1.1.8
+Pues lo cierto es que ya estoy tabajando desde mi eclipes, me falta averiguar unas cuantas cosillas, como de manera normal no voy a tener que hacer pulls, ya que siempre trabajare desde mi disco con linux (Parrot-OS) del pull me puedo olvidar un poco.
+Pero para que se suban los cambios tendre que generar commits y pushes.
+Solo he tardado como 2h en hacer esto, realmente 135 minutos segun Trello, osea que 2h y 15 mins en poder sincronizarlo todo para que funcione.
+
+Vamos a por el objetivo 2, crear el index.php mas cutre de la historia pq tengo sueño ya y me voy a ir a dormir. Mañana creare un archivo donde explique todo lo que hay que hacer para que github te deje trabajar (Aunque no estoy muy seguro de que funcione al 100% si se trabaja desde cero, pero lo que mas me suene si que lo pondre) y esto lo voy a apuntar en todo.md.
+
+### U1.1.9
+Por cierto, tengo que cambiar el directorio de mi apache pq he cambiado de ruta del proyecto, divertidismo todo.
