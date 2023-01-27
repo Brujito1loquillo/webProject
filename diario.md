@@ -64,3 +64,6 @@ Por cierto, tengo que cambiar el directorio de mi apache pq he cambiado de ruta 
 Pues ya he creado el index.php, cutre, pero funciona.
 Tenia que crear el conf del sitio del apache, habilitar el nuevo puerto para esta web (para mantener las otras operativas sin tener que hacerme un DNS interno).
 Lo cual para mi es mas que un abance para poder empezar a subir mis cosetes aqui e ir trabajando. Cierro mi sesision despues de 2h y media. Me voy a dormir que mañana tengo clase y tengo que hacer un monton de partituras para la banda y no voy a poder, me da a mi.
+
+### U1.6
+Bueno, pues al final me he enrredadi haciendo que el -gitignore no subiera los archivos del proyecto de eclipse y las capturas de comandos que enseñan el token y demas. Total, la ultima actualización es esta. Recordatorio mental: "NO PONER # EN NOMBRES DE CARPETAS, PRINCIPALMENTE SI SE VAN A EXCLUIR*
