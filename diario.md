@@ -40,3 +40,6 @@ Noticias frescas, la cosa es que sufro de dislexia, lo cual no tiene mucha relev
 Adivinan quien es el genio que comu url del remoto puso https**::**//\[...], pues lo más seguro es que sí que lo hicieron.
 El caso. una vez haces el _set-url_ del remoto CORRECTAMENTE... luego tienes que asociar las ramas con _git branch_. Pues ahora solo queda hacer pruebas de descarga y subida.
 Si hay alguien en este planeta o fuera de el leiendo esto, desenme suerte.
+
+### U1.1.5
+Bueno... hice un push, ¿Conclusión preeliminar? Creo que _local/master_ no esta bien asociada con _origin/main_ y se crea la rama nueva cuando hago un push, voy a mirar a ver por que sucede esto.
