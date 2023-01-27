@@ -43,3 +43,7 @@ Si hay alguien en este planeta o fuera de el leiendo esto, desenme suerte.
 
 ### U1.1.5
 Bueno... hice un push, ¿Conclusión preeliminar? Creo que _local/master_ no esta bien asociada con _origin/main_ y se crea la rama nueva cuando hago un push, voy a mirar a ver por que sucede esto.
+
+### U1.1.6
+Despues de hacer un _merge_ puedo escribir al fin desde mi sistema en local y estoy casi llorando.
+
