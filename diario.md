@@ -29,3 +29,8 @@ Voy a buscar la manera de asociar mi rama local con una rama remota de nombre di
 ### U1.1.2
 Lo cierto es que me lo esperaba, resulta que antiguamente tu podias autentificarte mientras hacias un push, lo cual tiene sentido, resulta que ahora al sincronizar el origen tienes que poner tu usario y tu token, lo caul recuerdo que se hablo en clase y no se donde leches lo tendre apuntado.
 Sigo con esto.
+
+
+### U1.1.3
+Lo cierto es que ni siquiera he buscado apuntes, busque en internet [este post](https://stackoverflow.com/questions/18935539/authenticate-with-github-using-a-token) donde decian que tenia que cambiar la url del origen. Lo he hecho y he puesto la url con usr y token.
+Voy a intentar descargar lo que hay en el repo (Por cierto, estoy escribiendo desde GitHub, como es logico ya que no puedo escribir desde mi local pq no se subiria mi drama a internet instantaneamente...) y luego a subir todas las capturas para linkarlas a la guia y luego crear un nuevo fichero indice.
