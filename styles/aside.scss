@@ -1,0 +1,56 @@
+:root {
+	--aside-areas:
+		"title"
+		"menu"
+		"menu"
+		"menu"
+		"menu"
+		"menu"
+		"menu"
+		"menu"
+		"footer"
+		"footer";
+}
+
+* {}
+
+html {
+	body {
+		header {}
+		
+		aside {
+			display: grid;
+			grid-template-columns: 100%;
+			grid-template-rows: var(--body-rows);
+			grid-template-areas: var(--aside-areas);
+			
+			#title {
+				background-color: mediumpurple;
+				
+				grid-area: title;
+			}
+			
+			#menu {
+				background-color: deeppink;
+				
+				grid-area: menu;
+				
+				.uf, .ex {
+					display: none;
+				}
+				
+				.visible {
+					display: list-item;
+				}
+			}
+			
+			#footer {
+				background-color: darkmagenta;
+				
+				grid-area: footer;
+			}
+		}
+		
+		main {}
+	}
+}

@@ -1,0 +1,40 @@
+:root {
+  --aside-areas:
+  	"title"
+  	"menu"
+  	"menu"
+  	"menu"
+  	"menu"
+  	"menu"
+  	"menu"
+  	"menu"
+  	"footer"
+  	"footer";
+}
+
+html body aside {
+  display: grid;
+  grid-template-columns: 100%;
+  grid-template-rows: var(--body-rows);
+  grid-template-areas: var(--aside-areas);
+}
+html body aside #title {
+  background-color: mediumpurple;
+  grid-area: title;
+}
+html body aside #menu {
+  background-color: deeppink;
+  grid-area: menu;
+}
+html body aside #menu .uf, html body aside #menu .ex {
+  display: none;
+}
+html body aside #menu .visible {
+  display: list-item;
+}
+html body aside #footer {
+  background-color: darkmagenta;
+  grid-area: footer;
+}
+
+/*# sourceMappingURL=aside.css.map */
