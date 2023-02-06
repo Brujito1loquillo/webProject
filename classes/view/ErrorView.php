@@ -27,6 +27,8 @@ class ErrorView extends View {
         LogModel::create(new Log("Metodo ErrorLog->show(\$e)."));
         
         require_once "tmplt/head.php";
+        require_once "tmplt/header.php";
+        require_once "tmplt/aside.php";
         require_once "tmplt/error.php";
         require_once "tmplt/end.php";
     }

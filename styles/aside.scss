@@ -7,12 +7,16 @@
 		"menu"
 		"menu"
 		"menu"
-		"menu"
+		"footer"
 		"footer"
 		"footer";
 }
 
 * {}
+
+img {
+	max-width: 100%;
+}
 
 html {
 	body {
@@ -35,8 +39,14 @@ html {
 				
 				grid-area: menu;
 				
+				ul * {
+					list-style: none;
+				}
+				
+				
 				.uf, .ex {
 					display: none;
+					padding-left: 5%;
 				}
 				
 				.visible {
@@ -44,10 +54,70 @@ html {
 				}
 			}
 			
+			/* #footer { background-color: darkmagenta; grid-area: footer; display: grid; grid-template-rows: repeat(3, 33%); grid-template-areas: "usr" "lang" "resources";
+				& > div { display: flex; justify-content: center; // align-content: center; // align-items: center;
+					a { height: fit-content; max-height: 90%; overflow: auto;
+						img { max-height: 90%; } } }
+				
+				#usr { background-color: cyan; grid-area: usr; }
+				
+				#lang { background-color: magenta; // display: flex; // justify-content: center; // align-items: center; grid-area: lang; /* div { max-width: 100%; } * / }
+				
+				#resources { background-color: lima; grid-area: resources; } /* a { // margin: auto 0; img { max-height: 90%; } } * / } */
+			
 			#footer {
-				background-color: darkmagenta;
+				background-color: red;
 				
 				grid-area: footer;
+				
+				display: grid;
+				
+				--footer-rows: 3;
+				grid-template-rows: repeat(var(--footer-rows), calc(100% / var(--footer-rows)));
+				grid-template-areas:
+				"resources"
+				"usr"
+				"lang";
+				
+				& > div {
+					display: flex;
+					// justify-content: center;
+					justify-content: space-around;
+					// flex-wrap: nowrap;
+					// flex-wrap: wrap;
+					flex-wrap: nowrap;
+					// align-content: center;
+					align-items: center;
+					
+					a {
+						// max-height: 100%;
+						// max-height: 90%;
+						// height: fit-content;
+						height: 80%;
+						
+						img {
+							max-height: 100%;
+						}
+					}
+				}
+				
+				#usr {
+					background-color: lightgoldenrodyellow;
+					
+					grid-area: usr;
+				}
+				
+				#lang {
+					background-color: lightsalmon;
+					
+					grid-area: lang;
+				}
+				
+				#resources {
+					background-color: springgreen;
+					
+					grid-area: resources;
+				}
 			}
 		}
 		

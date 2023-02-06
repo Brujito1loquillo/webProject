@@ -12,9 +12,19 @@ abstract class FrontController { //extends Controller {
         if ($_SERVER["REQUEST_METHOD"] === "GET" && count($_GET) === 0) {
             $controller = "HomeController";
             $method = "show";
+        } else if ($_SERVER["REQUEST_METHOD"] === "GET") {
+            // var_dump($_SERVER["REQUEST_URI"]);
+            $uri = $_SERVER["REQUEST_URI"];
+            $uri = substr($uri, - strlen($uri) +2);
+            // Parametros con el split by /
+            // $uriParams = ;
+            
+            
+            var_dump($uri);
+            
         } else {
             throw new Exception("Ha habido una llegada con parametros no controlados");
-        }
+        } 
         
         /* ************************************* *
          * AUTENTIFICATION CONTROLLER AND METHOD *

@@ -44,6 +44,25 @@ abstract class LangController { // extends Controller {
             }
         }
     }
+    
+    public static function showLangs() {
+        LogModel::create(new Log("Metodo LangController::showLangs()."));
+        
+        $langs = scandir("langs");
+        
+        $out = "";
+        
+        foreach ($langs as $key => $lang) {
+            if (!fnmatch(".*", $lang)) {
+                $lang = substr($lang, 0, strlen($lang) - 4);
+                
+                //$out .= "<div id =\"$lang\"><a href=\"?langController/setLang/$lang\"><img title=\"$lang\" alt=\"$lang\" src=\"img/icons/langs/$lang.png\" /></a></div>";
+                $out .= "<a href=\"?langController/setLang/$lang\"><img title=\"$lang\" alt=\"$lang\" src=\"img/icons/langs/$lang.png\" /></a>";
+            }
+        }
+        
+        return $out;
+    }
 }
 
 ?>
