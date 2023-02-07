@@ -39,6 +39,7 @@ html body aside #title {
 html body aside #menu {
   background-color: deeppink;
   grid-area: menu;
+  overflow-y: scroll;
 }
 html body aside #menu ul * {
   list-style: none;

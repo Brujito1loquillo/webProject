@@ -1,4 +1,616 @@
 
+[2023-02-07 17:43:51] - Metodo LangController::showLangs().
+[2023-02-07 17:43:51] - Cargando aside.css.
+[2023-02-07 17:43:51] - Cargando main.css.
+[2023-02-07 17:43:51] - Cargando ficheros CSS.
+[2023-02-07 17:43:51] - Cargando main.js.
+[2023-02-07 17:43:51] - Cargando menu.js.
+[2023-02-07 17:43:51] - Cargando ficheros JS.
+[2023-02-07 17:43:51] - Metodo HomeView->show().
+[2023-02-07 17:43:51] - Metodo MenuController::getMenu($lang)
+[2023-02-07 17:43:51] - La clase existe y se va a cargar.
+[2023-02-07 17:43:51] - La clase es de tipo: controller.
+[2023-02-07 17:43:51] - Cargando clase MenuController.
+[2023-02-07 17:43:51] - Llamada a MenuController::getMenu().
+[2023-02-07 17:43:51] - Metodo LangController::getLang().
+[2023-02-07 17:43:51] - La clase existe y se va a cargar.
+[2023-02-07 17:43:51] - La clase es de tipo: controller.
+[2023-02-07 17:43:51] - Cargando clase LangController.
+[2023-02-07 17:43:51] - Llamada a LangController::getLang().
+[2023-02-07 17:43:51] - Metodo View::__construct().
+[2023-02-07 17:43:51] - Llamada a View::__construct().
+[2023-02-07 17:43:51] - Metodo HomeView::__construct().
+[2023-02-07 17:43:51] - La clase existe y se va a cargar.
+[2023-02-07 17:43:51] - La clase es de tipo: view.
+[2023-02-07 17:43:51] - Cargando clase View.
+[2023-02-07 17:43:51] - La clase existe y se va a cargar.
+[2023-02-07 17:43:51] - La clase es de tipo: view.
+[2023-02-07 17:43:51] - Cargando clase HomeView.
+[2023-02-07 17:43:51] - Llamada a HomeView->show().
+[2023-02-07 17:43:51] - Metodo HomeController::show().
+[2023-02-07 17:43:51] - La clase existe y se va a cargar.
+[2023-02-07 17:43:51] - La clase es de tipo: controller.
+[2023-02-07 17:43:51] - Cargando clase HomeController.
+[2023-02-07 17:43:51] - Metodo FrontController::dispatch().
+[2023-02-07 17:43:51] - La clase existe y se va a cargar.
+[2023-02-07 17:43:51] - La clase es de tipo: controller.
+[2023-02-07 17:43:51] - Cargando clase FrontController.
+[2023-02-07 17:43:51] - Llamada a FrontController::dispatch().
+[2023-02-07 17:43:51] - ## Nueva Carga ##
+
+[2023-02-07 17:43:34] - Metodo LangController::showLangs().
+[2023-02-07 17:43:34] - Cargando aside.css.
+[2023-02-07 17:43:34] - Cargando main.css.
+[2023-02-07 17:43:34] - Cargando ficheros CSS.
+[2023-02-07 17:43:34] - Cargando main.js.
+[2023-02-07 17:43:34] - Cargando menu.js.
+[2023-02-07 17:43:34] - Cargando ficheros JS.
+[2023-02-07 17:43:34] - Metodo ErrorLog->show($e).
+[2023-02-07 17:43:34] - Metodo MenuController::getMenu($lang)
+[2023-02-07 17:43:34] - La clase existe y se va a cargar.
+[2023-02-07 17:43:34] - La clase es de tipo: controller.
+[2023-02-07 17:43:34] - Cargando clase MenuController.
+[2023-02-07 17:43:34] - Llamada a MenuController::getMenu().
+[2023-02-07 17:43:34] - Metodo LangController::getLang().
+[2023-02-07 17:43:34] - La clase existe y se va a cargar.
+[2023-02-07 17:43:34] - La clase es de tipo: controller.
+[2023-02-07 17:43:34] - Cargando clase LangController.
+[2023-02-07 17:43:34] - Llamada a LangController::getLang().
+[2023-02-07 17:43:34] - Metodo View::__construct().
+[2023-02-07 17:43:34] - Llamada a View::__construct().
+[2023-02-07 17:43:34] - Metodo ErrorLog::__construct().
+[2023-02-07 17:43:34] - La clase existe y se va a cargar.
+[2023-02-07 17:43:34] - La clase es de tipo: view.
+[2023-02-07 17:43:34] - Cargando clase View.
+[2023-02-07 17:43:34] - La clase existe y se va a cargar.
+[2023-02-07 17:43:34] - La clase es de tipo: view.
+[2023-02-07 17:43:34] - Cargando clase ErrorView.
+[2023-02-07 17:43:34] - Llamando a ErrorView->show($e)
+[2023-02-07 17:43:34] - Algo ha fallado y se ha recogido una excepcion: El controlador solicitado, , no existe.
+[2023-02-07 17:43:34] - Metodo FrontController::dispatch().
+[2023-02-07 17:43:34] - La clase existe y se va a cargar.
+[2023-02-07 17:43:34] - La clase es de tipo: controller.
+[2023-02-07 17:43:34] - Cargando clase FrontController.
+[2023-02-07 17:43:34] - Llamada a FrontController::dispatch().
+[2023-02-07 17:43:34] - ## Nueva Carga ##
+
+[2023-02-07 17:36:33] - Metodo LangController::showLangs().
+[2023-02-07 17:36:33] - Cargando aside.css.
+[2023-02-07 17:36:33] - Cargando main.css.
+[2023-02-07 17:36:33] - Cargando ficheros CSS.
+[2023-02-07 17:36:33] - Cargando main.js.
+[2023-02-07 17:36:33] - Cargando menu.js.
+[2023-02-07 17:36:33] - Cargando ficheros JS.
+[2023-02-07 17:36:33] - Metodo ErrorLog->show($e).
+[2023-02-07 17:36:33] - Metodo MenuController::getMenu($lang)
+[2023-02-07 17:36:33] - La clase existe y se va a cargar.
+[2023-02-07 17:36:33] - La clase es de tipo: controller.
+[2023-02-07 17:36:33] - Cargando clase MenuController.
+[2023-02-07 17:36:33] - Llamada a MenuController::getMenu().
+[2023-02-07 17:36:33] - Metodo LangController::getLang().
+[2023-02-07 17:36:33] - La clase existe y se va a cargar.
+[2023-02-07 17:36:33] - La clase es de tipo: controller.
+[2023-02-07 17:36:33] - Cargando clase LangController.
+[2023-02-07 17:36:33] - Llamada a LangController::getLang().
+[2023-02-07 17:36:33] - Metodo View::__construct().
+[2023-02-07 17:36:33] - Llamada a View::__construct().
+[2023-02-07 17:36:33] - Metodo ErrorLog::__construct().
+[2023-02-07 17:36:33] - La clase existe y se va a cargar.
+[2023-02-07 17:36:33] - La clase es de tipo: view.
+[2023-02-07 17:36:33] - Cargando clase View.
+[2023-02-07 17:36:33] - La clase existe y se va a cargar.
+[2023-02-07 17:36:33] - La clase es de tipo: view.
+[2023-02-07 17:36:32] - Cargando clase ErrorView.
+[2023-02-07 17:36:32] - Llamando a ErrorView->show($e)
+[2023-02-07 17:36:32] - Algo ha fallado y se ha recogido una excepcion: El controlador solicitado, , no existe.
+[2023-02-07 17:36:32] - Metodo FrontController::dispatch().
+[2023-02-07 17:36:32] - La clase existe y se va a cargar.
+[2023-02-07 17:36:32] - La clase es de tipo: controller.
+[2023-02-07 17:36:32] - Cargando clase FrontController.
+[2023-02-07 17:36:32] - Llamada a FrontController::dispatch().
+[2023-02-07 17:36:32] - ## Nueva Carga ##
+
+[2023-02-07 17:36:29] - Metodo LangController::showLangs().
+[2023-02-07 17:36:29] - Cargando aside.css.
+[2023-02-07 17:36:29] - Cargando main.css.
+[2023-02-07 17:36:29] - Cargando ficheros CSS.
+[2023-02-07 17:36:29] - Cargando main.js.
+[2023-02-07 17:36:29] - Cargando menu.js.
+[2023-02-07 17:36:29] - Cargando ficheros JS.
+[2023-02-07 17:36:29] - Metodo HomeView->show().
+[2023-02-07 17:36:29] - Metodo MenuController::getMenu($lang)
+[2023-02-07 17:36:29] - La clase existe y se va a cargar.
+[2023-02-07 17:36:29] - La clase es de tipo: controller.
+[2023-02-07 17:36:29] - Cargando clase MenuController.
+[2023-02-07 17:36:29] - Llamada a MenuController::getMenu().
+[2023-02-07 17:36:29] - Metodo LangController::getLang().
+[2023-02-07 17:36:29] - La clase existe y se va a cargar.
+[2023-02-07 17:36:29] - La clase es de tipo: controller.
+[2023-02-07 17:36:29] - Cargando clase LangController.
+[2023-02-07 17:36:29] - Llamada a LangController::getLang().
+[2023-02-07 17:36:29] - Metodo View::__construct().
+[2023-02-07 17:36:29] - Llamada a View::__construct().
+[2023-02-07 17:36:29] - Metodo HomeView::__construct().
+[2023-02-07 17:36:29] - La clase existe y se va a cargar.
+[2023-02-07 17:36:29] - La clase es de tipo: view.
+[2023-02-07 17:36:29] - Cargando clase View.
+[2023-02-07 17:36:29] - La clase existe y se va a cargar.
+[2023-02-07 17:36:29] - La clase es de tipo: view.
+[2023-02-07 17:36:29] - Cargando clase HomeView.
+[2023-02-07 17:36:29] - Llamada a HomeView->show().
+[2023-02-07 17:36:29] - Metodo HomeController::show().
+[2023-02-07 17:36:29] - La clase existe y se va a cargar.
+[2023-02-07 17:36:29] - La clase es de tipo: controller.
+[2023-02-07 17:36:29] - Cargando clase HomeController.
+[2023-02-07 17:36:29] - Metodo FrontController::dispatch().
+[2023-02-07 17:36:29] - La clase existe y se va a cargar.
+[2023-02-07 17:36:29] - La clase es de tipo: controller.
+[2023-02-07 17:36:28] - Cargando clase FrontController.
+[2023-02-07 17:36:28] - Llamada a FrontController::dispatch().
+[2023-02-07 17:36:28] - ## Nueva Carga ##
+
+[2023-02-07 17:07:18] - Metodo LangController::showLangs().
+[2023-02-07 17:07:18] - Cargando aside.css.
+[2023-02-07 17:07:18] - Cargando main.css.
+[2023-02-07 17:07:18] - Cargando ficheros CSS.
+[2023-02-07 17:07:18] - Cargando main.js.
+[2023-02-07 17:07:18] - Cargando menu.js.
+[2023-02-07 17:07:18] - Cargando ficheros JS.
+[2023-02-07 17:07:18] - Metodo HomeView->show().
+[2023-02-07 17:07:18] - Metodo MenuController::getMenu($lang)
+[2023-02-07 17:07:18] - La clase existe y se va a cargar.
+[2023-02-07 17:07:18] - La clase es de tipo: controller.
+[2023-02-07 17:07:18] - Cargando clase MenuController.
+[2023-02-07 17:07:18] - Llamada a MenuController::getMenu().
+[2023-02-07 17:07:18] - Metodo LangController::getLang().
+[2023-02-07 17:07:18] - La clase existe y se va a cargar.
+[2023-02-07 17:07:18] - La clase es de tipo: controller.
+[2023-02-07 17:07:18] - Cargando clase LangController.
+[2023-02-07 17:07:18] - Llamada a LangController::getLang().
+[2023-02-07 17:07:18] - Metodo View::__construct().
+[2023-02-07 17:07:18] - Llamada a View::__construct().
+[2023-02-07 17:07:18] - Metodo HomeView::__construct().
+[2023-02-07 17:07:18] - La clase existe y se va a cargar.
+[2023-02-07 17:07:18] - La clase es de tipo: view.
+[2023-02-07 17:07:18] - Cargando clase View.
+[2023-02-07 17:07:18] - La clase existe y se va a cargar.
+[2023-02-07 17:07:18] - La clase es de tipo: view.
+[2023-02-07 17:07:18] - Cargando clase HomeView.
+[2023-02-07 17:07:18] - Llamada a HomeView->show().
+[2023-02-07 17:07:18] - Metodo HomeController::show().
+[2023-02-07 17:07:18] - La clase existe y se va a cargar.
+[2023-02-07 17:07:18] - La clase es de tipo: controller.
+[2023-02-07 17:07:18] - Cargando clase HomeController.
+[2023-02-07 17:07:18] - Metodo FrontController::dispatch().
+[2023-02-07 17:07:18] - La clase existe y se va a cargar.
+[2023-02-07 17:07:18] - La clase es de tipo: controller.
+[2023-02-07 17:07:18] - Cargando clase FrontController.
+[2023-02-07 17:07:18] - Llamada a FrontController::dispatch().
+[2023-02-07 17:07:18] - ## Nueva Carga ##
+
+[2023-02-07 17:06:43] - Metodo LangController::showLangs().
+[2023-02-07 17:06:43] - Cargando aside.css.
+[2023-02-07 17:06:42] - Cargando main.css.
+[2023-02-07 17:06:42] - Cargando ficheros CSS.
+[2023-02-07 17:06:42] - Cargando main.js.
+[2023-02-07 17:06:42] - Cargando menu.js.
+[2023-02-07 17:06:42] - Cargando ficheros JS.
+[2023-02-07 17:06:42] - Metodo ErrorLog->show($e).
+[2023-02-07 17:06:42] - Metodo MenuController::getMenu($lang)
+[2023-02-07 17:06:42] - La clase existe y se va a cargar.
+[2023-02-07 17:06:42] - La clase es de tipo: controller.
+[2023-02-07 17:06:42] - Cargando clase MenuController.
+[2023-02-07 17:06:42] - Llamada a MenuController::getMenu().
+[2023-02-07 17:06:42] - Metodo LangController::getLang().
+[2023-02-07 17:06:42] - La clase existe y se va a cargar.
+[2023-02-07 17:06:42] - La clase es de tipo: controller.
+[2023-02-07 17:06:42] - Cargando clase LangController.
+[2023-02-07 17:06:42] - Llamada a LangController::getLang().
+[2023-02-07 17:06:42] - Metodo View::__construct().
+[2023-02-07 17:06:42] - Llamada a View::__construct().
+[2023-02-07 17:06:42] - Metodo ErrorLog::__construct().
+[2023-02-07 17:06:42] - La clase existe y se va a cargar.
+[2023-02-07 17:06:42] - La clase es de tipo: view.
+[2023-02-07 17:06:42] - Cargando clase View.
+[2023-02-07 17:06:42] - La clase existe y se va a cargar.
+[2023-02-07 17:06:42] - La clase es de tipo: view.
+[2023-02-07 17:06:42] - Cargando clase ErrorView.
+[2023-02-07 17:06:42] - Llamando a ErrorView->show($e)
+[2023-02-07 17:06:42] - Algo ha fallado y se ha recogido una excepcion: El controlador solicitado, , no existe.
+[2023-02-07 17:06:42] - Metodo FrontController::dispatch().
+[2023-02-07 17:06:42] - La clase existe y se va a cargar.
+[2023-02-07 17:06:42] - La clase es de tipo: controller.
+[2023-02-07 17:06:42] - Cargando clase FrontController.
+[2023-02-07 17:06:42] - Llamada a FrontController::dispatch().
+[2023-02-07 17:06:42] - ## Nueva Carga ##
+
+[2023-02-07 17:06:39] - Metodo LangController::showLangs().
+[2023-02-07 17:06:39] - Cargando aside.css.
+[2023-02-07 17:06:39] - Cargando main.css.
+[2023-02-07 17:06:39] - Cargando ficheros CSS.
+[2023-02-07 17:06:39] - Cargando main.js.
+[2023-02-07 17:06:39] - Cargando menu.js.
+[2023-02-07 17:06:39] - Cargando ficheros JS.
+[2023-02-07 17:06:39] - Metodo HomeView->show().
+[2023-02-07 17:06:39] - Metodo MenuController::getMenu($lang)
+[2023-02-07 17:06:39] - La clase existe y se va a cargar.
+[2023-02-07 17:06:39] - La clase es de tipo: controller.
+[2023-02-07 17:06:39] - Cargando clase MenuController.
+[2023-02-07 17:06:39] - Llamada a MenuController::getMenu().
+[2023-02-07 17:06:39] - Metodo LangController::getLang().
+[2023-02-07 17:06:39] - La clase existe y se va a cargar.
+[2023-02-07 17:06:39] - La clase es de tipo: controller.
+[2023-02-07 17:06:39] - Cargando clase LangController.
+[2023-02-07 17:06:39] - Llamada a LangController::getLang().
+[2023-02-07 17:06:39] - Metodo View::__construct().
+[2023-02-07 17:06:39] - Llamada a View::__construct().
+[2023-02-07 17:06:39] - Metodo HomeView::__construct().
+[2023-02-07 17:06:39] - La clase existe y se va a cargar.
+[2023-02-07 17:06:39] - La clase es de tipo: view.
+[2023-02-07 17:06:39] - Cargando clase View.
+[2023-02-07 17:06:39] - La clase existe y se va a cargar.
+[2023-02-07 17:06:39] - La clase es de tipo: view.
+[2023-02-07 17:06:39] - Cargando clase HomeView.
+[2023-02-07 17:06:39] - Llamada a HomeView->show().
+[2023-02-07 17:06:39] - Metodo HomeController::show().
+[2023-02-07 17:06:39] - La clase existe y se va a cargar.
+[2023-02-07 17:06:39] - La clase es de tipo: controller.
+[2023-02-07 17:06:39] - Cargando clase HomeController.
+[2023-02-07 17:06:39] - Metodo FrontController::dispatch().
+[2023-02-07 17:06:39] - La clase existe y se va a cargar.
+[2023-02-07 17:06:39] - La clase es de tipo: controller.
+[2023-02-07 17:06:39] - Cargando clase FrontController.
+[2023-02-07 17:06:39] - Llamada a FrontController::dispatch().
+[2023-02-07 17:06:39] - ## Nueva Carga ##
+
+[2023-02-07 17:06:02] - Metodo LangController::showLangs().
+[2023-02-07 17:06:02] - Cargando aside.css.
+[2023-02-07 17:06:02] - Cargando main.css.
+[2023-02-07 17:06:02] - Cargando ficheros CSS.
+[2023-02-07 17:06:02] - Cargando main.js.
+[2023-02-07 17:06:02] - Cargando menu.js.
+[2023-02-07 17:06:02] - Cargando ficheros JS.
+[2023-02-07 17:06:02] - Metodo HomeView->show().
+[2023-02-07 17:06:02] - Metodo MenuController::getMenu($lang)
+[2023-02-07 17:06:02] - La clase existe y se va a cargar.
+[2023-02-07 17:06:02] - La clase es de tipo: controller.
+[2023-02-07 17:06:02] - Cargando clase MenuController.
+[2023-02-07 17:06:02] - Llamada a MenuController::getMenu().
+[2023-02-07 17:06:02] - Metodo LangController::getLang().
+[2023-02-07 17:06:02] - La clase existe y se va a cargar.
+[2023-02-07 17:06:02] - La clase es de tipo: controller.
+[2023-02-07 17:06:02] - Cargando clase LangController.
+[2023-02-07 17:06:02] - Llamada a LangController::getLang().
+[2023-02-07 17:06:02] - Metodo View::__construct().
+[2023-02-07 17:06:02] - Llamada a View::__construct().
+[2023-02-07 17:06:02] - Metodo HomeView::__construct().
+[2023-02-07 17:06:02] - La clase existe y se va a cargar.
+[2023-02-07 17:06:02] - La clase es de tipo: view.
+[2023-02-07 17:06:02] - Cargando clase View.
+[2023-02-07 17:06:02] - La clase existe y se va a cargar.
+[2023-02-07 17:06:02] - La clase es de tipo: view.
+[2023-02-07 17:06:02] - Cargando clase HomeView.
+[2023-02-07 17:06:02] - Llamada a HomeView->show().
+[2023-02-07 17:06:02] - Metodo HomeController::show().
+[2023-02-07 17:06:02] - La clase existe y se va a cargar.
+[2023-02-07 17:06:02] - La clase es de tipo: controller.
+[2023-02-07 17:06:02] - Cargando clase HomeController.
+[2023-02-07 17:06:02] - Metodo FrontController::dispatch().
+[2023-02-07 17:06:02] - La clase existe y se va a cargar.
+[2023-02-07 17:06:02] - La clase es de tipo: controller.
+[2023-02-07 17:06:02] - Cargando clase FrontController.
+[2023-02-07 17:06:02] - Llamada a FrontController::dispatch().
+[2023-02-07 17:06:02] - ## Nueva Carga ##
+
+[2023-02-07 17:03:12] - Metodo LangController::showLangs().
+[2023-02-07 17:03:12] - Cargando aside.css.
+[2023-02-07 17:03:12] - Cargando main.css.
+[2023-02-07 17:03:12] - Cargando ficheros CSS.
+[2023-02-07 17:03:12] - Cargando main.js.
+[2023-02-07 17:03:12] - Cargando menu.js.
+[2023-02-07 17:03:12] - Cargando ficheros JS.
+[2023-02-07 17:03:12] - Metodo HomeView->show().
+[2023-02-07 17:03:12] - Metodo MenuController::getMenu($lang)
+[2023-02-07 17:03:12] - La clase existe y se va a cargar.
+[2023-02-07 17:03:12] - La clase es de tipo: controller.
+[2023-02-07 17:03:12] - Cargando clase MenuController.
+[2023-02-07 17:03:12] - Llamada a MenuController::getMenu().
+[2023-02-07 17:03:12] - Metodo LangController::getLang().
+[2023-02-07 17:03:12] - La clase existe y se va a cargar.
+[2023-02-07 17:03:12] - La clase es de tipo: controller.
+[2023-02-07 17:03:12] - Cargando clase LangController.
+[2023-02-07 17:03:12] - Llamada a LangController::getLang().
+[2023-02-07 17:03:12] - Metodo View::__construct().
+[2023-02-07 17:03:12] - Llamada a View::__construct().
+[2023-02-07 17:03:12] - Metodo HomeView::__construct().
+[2023-02-07 17:03:12] - La clase existe y se va a cargar.
+[2023-02-07 17:03:12] - La clase es de tipo: view.
+[2023-02-07 17:03:12] - Cargando clase View.
+[2023-02-07 17:03:12] - La clase existe y se va a cargar.
+[2023-02-07 17:03:12] - La clase es de tipo: view.
+[2023-02-07 17:03:12] - Cargando clase HomeView.
+[2023-02-07 17:03:12] - Llamada a HomeView->show().
+[2023-02-07 17:03:12] - Metodo HomeController::show().
+[2023-02-07 17:03:12] - La clase existe y se va a cargar.
+[2023-02-07 17:03:12] - La clase es de tipo: controller.
+[2023-02-07 17:03:12] - Cargando clase HomeController.
+[2023-02-07 17:03:12] - Metodo FrontController::dispatch().
+[2023-02-07 17:03:12] - La clase existe y se va a cargar.
+[2023-02-07 17:03:12] - La clase es de tipo: controller.
+[2023-02-07 17:03:12] - Cargando clase FrontController.
+[2023-02-07 17:03:12] - Llamada a FrontController::dispatch().
+[2023-02-07 17:03:12] - ## Nueva Carga ##
+
+[2023-02-07 17:02:46] - Metodo LangController::showLangs().
+[2023-02-07 17:02:46] - Cargando aside.css.
+[2023-02-07 17:02:46] - Cargando main.css.
+[2023-02-07 17:02:46] - Cargando ficheros CSS.
+[2023-02-07 17:02:46] - Cargando main.js.
+[2023-02-07 17:02:46] - Cargando menu.js.
+[2023-02-07 17:02:46] - Cargando ficheros JS.
+[2023-02-07 17:02:46] - Metodo HomeView->show().
+[2023-02-07 17:02:46] - Metodo MenuController::getMenu($lang)
+[2023-02-07 17:02:46] - La clase existe y se va a cargar.
+[2023-02-07 17:02:46] - La clase es de tipo: controller.
+[2023-02-07 17:02:46] - Cargando clase MenuController.
+[2023-02-07 17:02:46] - Llamada a MenuController::getMenu().
+[2023-02-07 17:02:46] - Metodo LangController::getLang().
+[2023-02-07 17:02:46] - La clase existe y se va a cargar.
+[2023-02-07 17:02:46] - La clase es de tipo: controller.
+[2023-02-07 17:02:46] - Cargando clase LangController.
+[2023-02-07 17:02:46] - Llamada a LangController::getLang().
+[2023-02-07 17:02:46] - Metodo View::__construct().
+[2023-02-07 17:02:46] - Llamada a View::__construct().
+[2023-02-07 17:02:46] - Metodo HomeView::__construct().
+[2023-02-07 17:02:46] - La clase existe y se va a cargar.
+[2023-02-07 17:02:46] - La clase es de tipo: view.
+[2023-02-07 17:02:46] - Cargando clase View.
+[2023-02-07 17:02:46] - La clase existe y se va a cargar.
+[2023-02-07 17:02:46] - La clase es de tipo: view.
+[2023-02-07 17:02:46] - Cargando clase HomeView.
+[2023-02-07 17:02:46] - Llamada a HomeView->show().
+[2023-02-07 17:02:46] - Metodo HomeController::show().
+[2023-02-07 17:02:46] - La clase existe y se va a cargar.
+[2023-02-07 17:02:46] - La clase es de tipo: controller.
+[2023-02-07 17:02:46] - Cargando clase HomeController.
+[2023-02-07 17:02:46] - Metodo FrontController::dispatch().
+[2023-02-07 17:02:46] - La clase existe y se va a cargar.
+[2023-02-07 17:02:46] - La clase es de tipo: controller.
+[2023-02-07 17:02:46] - Cargando clase FrontController.
+[2023-02-07 17:02:46] - Llamada a FrontController::dispatch().
+[2023-02-07 17:02:46] - ## Nueva Carga ##
+
+[2023-02-07 17:00:09] - Metodo LangController::showLangs().
+[2023-02-07 17:00:09] - Cargando aside.css.
+[2023-02-07 17:00:09] - Cargando main.css.
+[2023-02-07 17:00:09] - Cargando ficheros CSS.
+[2023-02-07 17:00:09] - Cargando main.js.
+[2023-02-07 17:00:09] - Cargando menu.js.
+[2023-02-07 17:00:09] - Cargando ficheros JS.
+[2023-02-07 17:00:09] - Metodo HomeView->show().
+[2023-02-07 17:00:09] - Metodo MenuController::getMenu($lang)
+[2023-02-07 17:00:09] - La clase existe y se va a cargar.
+[2023-02-07 17:00:09] - La clase es de tipo: controller.
+[2023-02-07 17:00:09] - Cargando clase MenuController.
+[2023-02-07 17:00:09] - Llamada a MenuController::getMenu().
+[2023-02-07 17:00:09] - Metodo LangController::getLang().
+[2023-02-07 17:00:09] - La clase existe y se va a cargar.
+[2023-02-07 17:00:09] - La clase es de tipo: controller.
+[2023-02-07 17:00:09] - Cargando clase LangController.
+[2023-02-07 17:00:09] - Llamada a LangController::getLang().
+[2023-02-07 17:00:09] - Metodo View::__construct().
+[2023-02-07 17:00:09] - Llamada a View::__construct().
+[2023-02-07 17:00:09] - Metodo HomeView::__construct().
+[2023-02-07 17:00:09] - La clase existe y se va a cargar.
+[2023-02-07 17:00:09] - La clase es de tipo: view.
+[2023-02-07 17:00:09] - Cargando clase View.
+[2023-02-07 17:00:09] - La clase existe y se va a cargar.
+[2023-02-07 17:00:09] - La clase es de tipo: view.
+[2023-02-07 17:00:09] - Cargando clase HomeView.
+[2023-02-07 17:00:09] - Llamada a HomeView->show().
+[2023-02-07 17:00:09] - Metodo HomeController::show().
+[2023-02-07 17:00:09] - La clase existe y se va a cargar.
+[2023-02-07 17:00:09] - La clase es de tipo: controller.
+[2023-02-07 17:00:09] - Cargando clase HomeController.
+[2023-02-07 17:00:09] - Metodo FrontController::dispatch().
+[2023-02-07 17:00:09] - La clase existe y se va a cargar.
+[2023-02-07 17:00:09] - La clase es de tipo: controller.
+[2023-02-07 17:00:09] - Cargando clase FrontController.
+[2023-02-07 17:00:09] - Llamada a FrontController::dispatch().
+[2023-02-07 17:00:09] - ## Nueva Carga ##
+
+[2023-02-07 16:59:55] - Metodo LangController::showLangs().
+[2023-02-07 16:59:55] - Cargando aside.css.
+[2023-02-07 16:59:55] - Cargando main.css.
+[2023-02-07 16:59:55] - Cargando ficheros CSS.
+[2023-02-07 16:59:55] - Cargando main.js.
+[2023-02-07 16:59:55] - Cargando menu.js.
+[2023-02-07 16:59:55] - Cargando ficheros JS.
+[2023-02-07 16:59:55] - Metodo HomeView->show().
+[2023-02-07 16:59:55] - Metodo MenuController::getMenu($lang)
+[2023-02-07 16:59:55] - La clase existe y se va a cargar.
+[2023-02-07 16:59:55] - La clase es de tipo: controller.
+[2023-02-07 16:59:55] - Cargando clase MenuController.
+[2023-02-07 16:59:55] - Llamada a MenuController::getMenu().
+[2023-02-07 16:59:55] - Metodo LangController::getLang().
+[2023-02-07 16:59:55] - La clase existe y se va a cargar.
+[2023-02-07 16:59:55] - La clase es de tipo: controller.
+[2023-02-07 16:59:55] - Cargando clase LangController.
+[2023-02-07 16:59:55] - Llamada a LangController::getLang().
+[2023-02-07 16:59:55] - Metodo View::__construct().
+[2023-02-07 16:59:55] - Llamada a View::__construct().
+[2023-02-07 16:59:55] - Metodo HomeView::__construct().
+[2023-02-07 16:59:55] - La clase existe y se va a cargar.
+[2023-02-07 16:59:55] - La clase es de tipo: view.
+[2023-02-07 16:59:55] - Cargando clase View.
+[2023-02-07 16:59:55] - La clase existe y se va a cargar.
+[2023-02-07 16:59:55] - La clase es de tipo: view.
+[2023-02-07 16:59:55] - Cargando clase HomeView.
+[2023-02-07 16:59:55] - Llamada a HomeView->show().
+[2023-02-07 16:59:55] - Metodo HomeController::show().
+[2023-02-07 16:59:55] - La clase existe y se va a cargar.
+[2023-02-07 16:59:55] - La clase es de tipo: controller.
+[2023-02-07 16:59:55] - Cargando clase HomeController.
+[2023-02-07 16:59:55] - Metodo FrontController::dispatch().
+[2023-02-07 16:59:55] - La clase existe y se va a cargar.
+[2023-02-07 16:59:55] - La clase es de tipo: controller.
+[2023-02-07 16:59:55] - Cargando clase FrontController.
+[2023-02-07 16:59:55] - Llamada a FrontController::dispatch().
+[2023-02-07 16:59:55] - ## Nueva Carga ##
+
+[2023-02-07 16:46:55] - Metodo LangController::showLangs().
+[2023-02-07 16:46:55] - Cargando aside.css.
+[2023-02-07 16:46:55] - Cargando main.css.
+[2023-02-07 16:46:55] - Cargando ficheros CSS.
+[2023-02-07 16:46:55] - Cargando main.js.
+[2023-02-07 16:46:55] - Cargando menu.js.
+[2023-02-07 16:46:55] - Cargando ficheros JS.
+[2023-02-07 16:46:55] - Metodo HomeView->show().
+[2023-02-07 16:46:55] - Metodo MenuController::getMenu($lang)
+[2023-02-07 16:46:55] - La clase existe y se va a cargar.
+[2023-02-07 16:46:55] - La clase es de tipo: controller.
+[2023-02-07 16:46:55] - Cargando clase MenuController.
+[2023-02-07 16:46:55] - Llamada a MenuController::getMenu().
+[2023-02-07 16:46:55] - Metodo LangController::getLang().
+[2023-02-07 16:46:55] - La clase existe y se va a cargar.
+[2023-02-07 16:46:55] - La clase es de tipo: controller.
+[2023-02-07 16:46:55] - Cargando clase LangController.
+[2023-02-07 16:46:55] - Llamada a LangController::getLang().
+[2023-02-07 16:46:55] - Metodo View::__construct().
+[2023-02-07 16:46:55] - Llamada a View::__construct().
+[2023-02-07 16:46:55] - Metodo HomeView::__construct().
+[2023-02-07 16:46:55] - La clase existe y se va a cargar.
+[2023-02-07 16:46:55] - La clase es de tipo: view.
+[2023-02-07 16:46:55] - Cargando clase View.
+[2023-02-07 16:46:55] - La clase existe y se va a cargar.
+[2023-02-07 16:46:55] - La clase es de tipo: view.
+[2023-02-07 16:46:55] - Cargando clase HomeView.
+[2023-02-07 16:46:55] - Llamada a HomeView->show().
+[2023-02-07 16:46:55] - Metodo HomeController::show().
+[2023-02-07 16:46:55] - La clase existe y se va a cargar.
+[2023-02-07 16:46:55] - La clase es de tipo: controller.
+[2023-02-07 16:46:55] - Cargando clase HomeController.
+[2023-02-07 16:46:55] - Metodo FrontController::dispatch().
+[2023-02-07 16:46:55] - La clase existe y se va a cargar.
+[2023-02-07 16:46:55] - La clase es de tipo: controller.
+[2023-02-07 16:46:55] - Cargando clase FrontController.
+[2023-02-07 16:46:55] - Llamada a FrontController::dispatch().
+[2023-02-07 16:46:55] - ## Nueva Carga ##
+
+[2023-02-07 16:31:24] - Metodo LangController::showLangs().
+[2023-02-07 16:31:24] - Cargando aside.css.
+[2023-02-07 16:31:24] - Cargando main.css.
+[2023-02-07 16:31:24] - Cargando ficheros CSS.
+[2023-02-07 16:31:24] - Cargando main.js.
+[2023-02-07 16:31:24] - Cargando menu.js.
+[2023-02-07 16:31:24] - Cargando ficheros JS.
+[2023-02-07 16:31:24] - Metodo HomeView->show().
+[2023-02-07 16:31:24] - Metodo MenuController::getMenu($lang)
+[2023-02-07 16:31:24] - La clase existe y se va a cargar.
+[2023-02-07 16:31:24] - La clase es de tipo: controller.
+[2023-02-07 16:31:24] - Cargando clase MenuController.
+[2023-02-07 16:31:24] - Llamada a MenuController::getMenu().
+[2023-02-07 16:31:24] - Metodo LangController::getLang().
+[2023-02-07 16:31:24] - La clase existe y se va a cargar.
+[2023-02-07 16:31:24] - La clase es de tipo: controller.
+[2023-02-07 16:31:24] - Cargando clase LangController.
+[2023-02-07 16:31:24] - Llamada a LangController::getLang().
+[2023-02-07 16:31:24] - Metodo View::__construct().
+[2023-02-07 16:31:24] - Llamada a View::__construct().
+[2023-02-07 16:31:24] - Metodo HomeView::__construct().
+[2023-02-07 16:31:24] - La clase existe y se va a cargar.
+[2023-02-07 16:31:24] - La clase es de tipo: view.
+[2023-02-07 16:31:24] - Cargando clase View.
+[2023-02-07 16:31:24] - La clase existe y se va a cargar.
+[2023-02-07 16:31:24] - La clase es de tipo: view.
+[2023-02-07 16:31:24] - Cargando clase HomeView.
+[2023-02-07 16:31:24] - Llamada a HomeView->show().
+[2023-02-07 16:31:24] - Metodo HomeController::show().
+[2023-02-07 16:31:24] - La clase existe y se va a cargar.
+[2023-02-07 16:31:24] - La clase es de tipo: controller.
+[2023-02-07 16:31:24] - Cargando clase HomeController.
+[2023-02-07 16:31:24] - Metodo FrontController::dispatch().
+[2023-02-07 16:31:24] - La clase existe y se va a cargar.
+[2023-02-07 16:31:24] - La clase es de tipo: controller.
+[2023-02-07 16:31:24] - Cargando clase FrontController.
+[2023-02-07 16:31:24] - Llamada a FrontController::dispatch().
+[2023-02-07 16:31:24] - ## Nueva Carga ##
+
+[2023-02-07 16:31:16] - Metodo LangController::showLangs().
+[2023-02-07 16:31:16] - Cargando aside.css.
+[2023-02-07 16:31:16] - Cargando main.css.
+[2023-02-07 16:31:16] - Cargando ficheros CSS.
+[2023-02-07 16:31:16] - Cargando main.js.
+[2023-02-07 16:31:16] - Cargando menu.js.
+[2023-02-07 16:31:16] - Cargando ficheros JS.
+[2023-02-07 16:31:16] - Metodo ErrorLog->show($e).
+[2023-02-07 16:31:16] - Metodo MenuController::getMenu($lang)
+[2023-02-07 16:31:16] - La clase existe y se va a cargar.
+[2023-02-07 16:31:16] - La clase es de tipo: controller.
+[2023-02-07 16:31:16] - Cargando clase MenuController.
+[2023-02-07 16:31:16] - Llamada a MenuController::getMenu().
+[2023-02-07 16:31:16] - Metodo LangController::getLang().
+[2023-02-07 16:31:16] - La clase existe y se va a cargar.
+[2023-02-07 16:31:16] - La clase es de tipo: controller.
+[2023-02-07 16:31:16] - Cargando clase LangController.
+[2023-02-07 16:31:16] - Llamada a LangController::getLang().
+[2023-02-07 16:31:16] - Metodo View::__construct().
+[2023-02-07 16:31:16] - Llamada a View::__construct().
+[2023-02-07 16:31:16] - Metodo ErrorLog::__construct().
+[2023-02-07 16:31:16] - La clase existe y se va a cargar.
+[2023-02-07 16:31:16] - La clase es de tipo: view.
+[2023-02-07 16:31:16] - Cargando clase View.
+[2023-02-07 16:31:16] - La clase existe y se va a cargar.
+[2023-02-07 16:31:16] - La clase es de tipo: view.
+[2023-02-07 16:31:16] - Cargando clase ErrorView.
+[2023-02-07 16:31:16] - Llamando a ErrorView->show($e)
+[2023-02-07 16:31:16] - Algo ha fallado y se ha recogido una excepcion: El controlador solicitado, , no existe.
+[2023-02-07 16:31:16] - Metodo FrontController::dispatch().
+[2023-02-07 16:31:16] - La clase existe y se va a cargar.
+[2023-02-07 16:31:16] - La clase es de tipo: controller.
+[2023-02-07 16:31:16] - Cargando clase FrontController.
+[2023-02-07 16:31:16] - Llamada a FrontController::dispatch().
+[2023-02-07 16:31:16] - ## Nueva Carga ##
+
+[2023-02-07 16:31:03] - Metodo LangController::showLangs().
+[2023-02-07 16:31:03] - Cargando aside.css.
+[2023-02-07 16:31:03] - Cargando main.css.
+[2023-02-07 16:31:03] - Cargando ficheros CSS.
+[2023-02-07 16:31:03] - Cargando main.js.
+[2023-02-07 16:31:03] - Cargando menu.js.
+[2023-02-07 16:31:03] - Cargando ficheros JS.
+[2023-02-07 16:31:03] - Metodo HomeView->show().
+[2023-02-07 16:31:03] - Metodo MenuController::getMenu($lang)
+[2023-02-07 16:31:03] - La clase existe y se va a cargar.
+[2023-02-07 16:31:03] - La clase es de tipo: controller.
+[2023-02-07 16:31:03] - Cargando clase MenuController.
+[2023-02-07 16:31:03] - Llamada a MenuController::getMenu().
+[2023-02-07 16:31:03] - Metodo LangController::getLang().
+[2023-02-07 16:31:03] - La clase existe y se va a cargar.
+[2023-02-07 16:31:03] - La clase es de tipo: controller.
+[2023-02-07 16:31:03] - Cargando clase LangController.
+[2023-02-07 16:31:03] - Llamada a LangController::getLang().
+[2023-02-07 16:31:03] - Metodo View::__construct().
+[2023-02-07 16:31:03] - Llamada a View::__construct().
+[2023-02-07 16:31:03] - Metodo HomeView::__construct().
+[2023-02-07 16:31:03] - La clase existe y se va a cargar.
+[2023-02-07 16:31:03] - La clase es de tipo: view.
+[2023-02-07 16:31:03] - Cargando clase View.
+[2023-02-07 16:31:03] - La clase existe y se va a cargar.
+[2023-02-07 16:31:03] - La clase es de tipo: view.
+[2023-02-07 16:31:03] - Cargando clase HomeView.
+[2023-02-07 16:31:03] - Llamada a HomeView->show().
+[2023-02-07 16:31:03] - Metodo HomeController::show().
+[2023-02-07 16:31:03] - La clase existe y se va a cargar.
+[2023-02-07 16:31:03] - La clase es de tipo: controller.
+[2023-02-07 16:31:03] - Cargando clase HomeController.
+[2023-02-07 16:31:03] - Metodo FrontController::dispatch().
+[2023-02-07 16:31:03] - La clase existe y se va a cargar.
+[2023-02-07 16:31:03] - La clase es de tipo: controller.
+[2023-02-07 16:31:03] - Cargando clase FrontController.
+[2023-02-07 16:31:03] - Llamada a FrontController::dispatch().
+[2023-02-07 16:31:03] - ## Nueva Carga ##
+
 [2023-02-03 19:07:06] - Metodo LangController::showLangs().
 [2023-02-03 19:07:06] - Cargando aside.css.
 [2023-02-03 19:07:06] - Cargando main.css.

@@ -39,6 +39,8 @@ html {
 				
 				grid-area: menu;
 				
+				overflow-y: scroll;
+				
 				ul * {
 					list-style: none;
 				}
