@@ -1,9 +1,9 @@
 <main>
-	<h1>
-		<?php
+	<!-- h1>
+		< ?php
             echo $this->lang["exceptions"]["title"];
-		?>
-	</h1>
+		? >
+	</h1 -->
 	<p>
 		<?php
             echo $e->getMessage();

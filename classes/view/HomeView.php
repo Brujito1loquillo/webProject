@@ -7,6 +7,8 @@ class HomeView extends View {
         
         LogModel::create(new Log("Llamada a View::__construct()."));
         parent::__construct();
+        
+        $this->title = $this->lang["home"]["title"];
     }
     
     public function show() {

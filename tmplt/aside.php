@@ -37,7 +37,7 @@
         </div>
         
         <div id="resources">
-        	<a href="?php/show">
+        	<a href="?PhP/show">
         		<img title="PhP" alt="PhP" src="img/icons/resources/php.png" />
         	</a>
         </div>

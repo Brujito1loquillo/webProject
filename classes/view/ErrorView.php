@@ -21,6 +21,8 @@ class ErrorView extends View {
         
         LogModel::create(new Log("Llamada a View::__construct()."));
         parent::__construct();
+        
+        $this->title = $this->lang["exceptions"]["title"];
     }
     
     public function show (Exception $e) {

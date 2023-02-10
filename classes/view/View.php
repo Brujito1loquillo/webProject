@@ -7,6 +7,8 @@ class View {
     protected $css = ["main", "aside"];
     protected $js = ["menu", "main"];
     
+    protected $title = "";
+    
     public function __construct () {
         LogModel::create(new Log("Metodo View::__construct()."));
         
