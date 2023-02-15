@@ -1,16 +1,15 @@
-# GitHub
-Fichero con toda la información para crear repositorio local y remoto y sincronizar.
+# 2023-02-14
+Pues esta es la versión 0.6 del proyecto, la verdad es que me mosqueó tener que rehacer la parte de los logs.
+Cosas que pasan, vamos a mejorar eso desde el principio y a rehacer el codigo un poco.
 
-# index.php
-Empezar con el autoload y el try/catch con el ControllerFront::dispatch();
+Tareas:
 
-# Sistema de idiomas
-
-# Información de las practicas
-Crear un archivo con la información de las practicas
-
-# Logs
-Crear el BB. O. de Log y su clase modelo.
-Crear el fichero de logs.
-
-# Editar todo.md, README.md y diario.md desde la web
+- Alta
+	- FrontController
+	- Fichero de lengauje
+	- Home
+	- PhP Blog
+- Media
+	- M7 UF1
+		- E01
+		- E04
