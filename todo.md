@@ -51,3 +51,27 @@ Tareas:
 - Baja
 	- Controller
 		- Sanitize
+		
+## 2:59
+Las primeras clases ya estan creadas de tal manera que al mostrar los errores no sale ningun mensaje de error.
+Las prioridades han cambiado un poco.
+
+Tareas:
+
+- Alta
+	- FrontController
+	- Home
+	- PhP Blog
+	- Pagina que muestra la conexión de las aulas del instituto
+- Media
+	- M7 UF1
+		- E01
+		- E04
+	- LangController
+		- showLangs()
+	- MenuController
+		- getMenu()
+	- Fichero de lengauje
+- Baja
+	- Controller
+		- Sanitize
