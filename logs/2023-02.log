@@ -1,0 +1,2893 @@
+
+[2023-02-16 02:48:19] => ## Fin de Carga ##
+ . [2023-02-16 02:48:19] => Metodo ErrorLog->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main}).
+ . [2023-02-16 02:48:19] => La clase, MenuController, existe y se va a cargar.
+ . [2023-02-16 02:48:19] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:48:19] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:48:19] => Metodo LangController::getLang().
+ . [2023-02-16 02:48:19] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:48:19] => spl_autoload_register(LangController).
+ . [2023-02-16 02:48:19] => Llamada a LangController::getLang().
+ . [2023-02-16 02:48:19] => Metodo View::__construct().
+ . [2023-02-16 02:48:19] => Llamada a View::__construct().
+ . [2023-02-16 02:48:19] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:48:19] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:48:19] => spl_autoload_register(View).
+ . [2023-02-16 02:48:19] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:48:19] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:48:19] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:48:19] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:48:19] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:48:19] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:48:19] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:48:19] => ## Nueva Carga ##
+ . [2023-02-16 02:46:35] => ## Fin de Carga ##
+ . [2023-02-16 02:46:35] => Metodo ErrorLog->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main}).
+ . [2023-02-16 02:46:35] => La clase, MenuController, existe y se va a cargar.
+ . [2023-02-16 02:46:35] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:46:35] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:46:35] => Metodo LangController::getLang().
+ . [2023-02-16 02:46:35] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:46:35] => spl_autoload_register(LangController).
+ . [2023-02-16 02:46:35] => Llamada a LangController::getLang().
+ . [2023-02-16 02:46:35] => Metodo View::__construct().
+ . [2023-02-16 02:46:35] => Llamada a View::__construct().
+ . [2023-02-16 02:46:35] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:46:35] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:46:35] => spl_autoload_register(View).
+ . [2023-02-16 02:46:35] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:46:35] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:46:35] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:46:35] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:46:35] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:46:35] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:46:35] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:46:35] => ## Nueva Carga ##
+ . [2023-02-16 02:46:08] => Metodo ErrorLog->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main}).
+ . [2023-02-16 02:46:08] => La clase, MenuController, existe y se va a cargar.
+ . [2023-02-16 02:46:08] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:46:08] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:46:08] => Metodo LangController::getLang().
+ . [2023-02-16 02:46:08] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:46:08] => spl_autoload_register(LangController).
+ . [2023-02-16 02:46:08] => Llamada a LangController::getLang().
+ . [2023-02-16 02:46:08] => Metodo View::__construct().
+ . [2023-02-16 02:46:08] => Llamada a View::__construct().
+ . [2023-02-16 02:46:08] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:46:08] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:46:08] => spl_autoload_register(View).
+ . [2023-02-16 02:46:08] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:46:08] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:46:08] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:46:08] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:46:08] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:46:08] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:46:08] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:46:08] => ## Nueva Carga ##
+ . [2023-02-16 02:44:52] => Metodo ErrorLog->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main}).
+ . [2023-02-16 02:44:52] => La clase, MenuController, existe y se va a cargar.
+ . [2023-02-16 02:44:52] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:44:52] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:44:52] => Metodo LangController::getLang().
+ . [2023-02-16 02:44:52] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:44:52] => spl_autoload_register(LangController).
+ . [2023-02-16 02:44:52] => Llamada a LangController::getLang().
+ . [2023-02-16 02:44:52] => Metodo View::__construct().
+ . [2023-02-16 02:44:52] => Llamada a View::__construct().
+ . [2023-02-16 02:44:52] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:44:52] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:44:52] => spl_autoload_register(View).
+ . [2023-02-16 02:44:52] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:44:52] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:44:52] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:44:52] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:44:52] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:44:52] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:44:52] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:44:52] => ## Nueva Carga ##
+ . [2023-02-16 02:42:37] => La clase, MenuController, existe y se va a cargar.
+ . [2023-02-16 02:42:37] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:42:37] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:42:37] => Metodo LangController::getLang().
+ . [2023-02-16 02:42:37] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:42:37] => spl_autoload_register(LangController).
+ . [2023-02-16 02:42:37] => Llamada a LangController::getLang().
+ . [2023-02-16 02:42:37] => Metodo View::__construct().
+ . [2023-02-16 02:42:37] => Llamada a View::__construct().
+ . [2023-02-16 02:42:37] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:42:37] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:42:37] => spl_autoload_register(View).
+ . [2023-02-16 02:42:37] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:42:37] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:42:37] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:42:37] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:42:37] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:42:37] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:42:37] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:42:37] => ## Nueva Carga ##
+ . [2023-02-16 02:40:28] => La clase, MenuController, existe y se va a cargar.
+ . [2023-02-16 02:40:28] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:40:28] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:40:28] => Metodo LangController::getLang().
+ . [2023-02-16 02:40:28] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:40:28] => spl_autoload_register(LangController).
+ . [2023-02-16 02:40:28] => Llamada a LangController::getLang().
+ . [2023-02-16 02:40:28] => Metodo View::__construct().
+ . [2023-02-16 02:40:28] => Llamada a View::__construct().
+ . [2023-02-16 02:40:28] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:40:28] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:40:28] => spl_autoload_register(View).
+ . [2023-02-16 02:40:28] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:40:28] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:40:28] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:40:28] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:40:28] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:40:28] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:40:28] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:40:28] => ## Nueva Carga ##
+ . [2023-02-16 02:40:05] => La clase, MenuController, existe y se va a cargar.
+ . [2023-02-16 02:40:05] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:40:05] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:40:05] => Metodo LangController::getLang().
+ . [2023-02-16 02:40:05] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:40:05] => spl_autoload_register(LangController).
+ . [2023-02-16 02:40:05] => Llamada a LangController::getLang().
+ . [2023-02-16 02:40:05] => Metodo View::__construct().
+ . [2023-02-16 02:40:05] => Llamada a View::__construct().
+ . [2023-02-16 02:40:05] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:40:05] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:40:05] => spl_autoload_register(View).
+ . [2023-02-16 02:40:05] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:40:05] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:40:05] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:40:05] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:40:05] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:40:05] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:40:05] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:40:05] => ## Nueva Carga ##
+ . [2023-02-16 02:38:34] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:38:34] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:38:34] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:38:34] => Metodo LangController::getLang().
+ . [2023-02-16 02:38:34] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:38:34] => spl_autoload_register(LangController).
+ . [2023-02-16 02:38:34] => Llamada a LangController::getLang().
+ . [2023-02-16 02:38:34] => Metodo View::__construct().
+ . [2023-02-16 02:38:34] => Llamada a View::__construct().
+ . [2023-02-16 02:38:34] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:38:34] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:38:34] => spl_autoload_register(View).
+ . [2023-02-16 02:38:34] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:38:34] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:38:34] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:38:34] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:38:34] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:38:34] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:38:34] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:38:34] => ## Nueva Carga ##
+ . [2023-02-16 02:38:13] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:38:13] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:38:13] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:38:13] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:38:13] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:38:13] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:38:13] => Metodo LangController::getLang().
+ . [2023-02-16 02:38:13] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:38:13] => spl_autoload_register(LangController).
+ . [2023-02-16 02:38:13] => Llamada a LangController::getLang().
+ . [2023-02-16 02:38:13] => Metodo View::__construct().
+ . [2023-02-16 02:38:13] => Llamada a View::__construct().
+ . [2023-02-16 02:38:13] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:38:13] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:38:13] => spl_autoload_register(View).
+ . [2023-02-16 02:38:13] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:38:13] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:38:13] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:38:13] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:38:13] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:38:13] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:38:13] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:38:13] => ## Nueva Carga ##
+ . [2023-02-16 02:38:13] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:38:13] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:38:13] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:38:13] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:38:12] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:38:12] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:38:12] => Metodo LangController::getLang().
+ . [2023-02-16 02:38:12] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:38:12] => spl_autoload_register(LangController).
+ . [2023-02-16 02:38:12] => Llamada a LangController::getLang().
+ . [2023-02-16 02:38:12] => Metodo View::__construct().
+ . [2023-02-16 02:38:12] => Llamada a View::__construct().
+ . [2023-02-16 02:38:12] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:38:12] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:38:12] => spl_autoload_register(View).
+ . [2023-02-16 02:38:12] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:38:12] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:38:12] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:38:12] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:38:12] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:38:12] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:38:12] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:38:12] => ## Nueva Carga ##
+ . [2023-02-16 02:38:12] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:38:12] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:38:12] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:38:12] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:38:12] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:38:12] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:38:12] => Metodo LangController::getLang().
+ . [2023-02-16 02:38:12] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:38:12] => spl_autoload_register(LangController).
+ . [2023-02-16 02:38:12] => Llamada a LangController::getLang().
+ . [2023-02-16 02:38:12] => Metodo View::__construct().
+ . [2023-02-16 02:38:12] => Llamada a View::__construct().
+ . [2023-02-16 02:38:12] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:38:12] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:38:12] => spl_autoload_register(View).
+ . [2023-02-16 02:38:12] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:38:12] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:38:12] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:38:12] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:38:12] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:38:12] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:38:12] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:38:12] => ## Nueva Carga ##
+ . [2023-02-16 02:38:12] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:38:12] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:38:12] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:38:12] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:38:12] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:38:12] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:38:12] => Metodo LangController::getLang().
+ . [2023-02-16 02:38:12] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:38:12] => spl_autoload_register(LangController).
+ . [2023-02-16 02:38:12] => Llamada a LangController::getLang().
+ . [2023-02-16 02:38:12] => Metodo View::__construct().
+ . [2023-02-16 02:38:12] => Llamada a View::__construct().
+ . [2023-02-16 02:38:12] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:38:12] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:38:12] => spl_autoload_register(View).
+ . [2023-02-16 02:38:12] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:38:12] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:38:12] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:38:12] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:38:12] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:38:12] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:38:12] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:38:12] => ## Nueva Carga ##
+ . [2023-02-16 02:38:12] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:38:12] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:38:12] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:38:12] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:38:12] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:38:12] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:38:12] => Metodo LangController::getLang().
+ . [2023-02-16 02:38:12] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:38:12] => spl_autoload_register(LangController).
+ . [2023-02-16 02:38:12] => Llamada a LangController::getLang().
+ . [2023-02-16 02:38:12] => Metodo View::__construct().
+ . [2023-02-16 02:38:12] => Llamada a View::__construct().
+ . [2023-02-16 02:38:12] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:38:12] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:38:12] => spl_autoload_register(View).
+ . [2023-02-16 02:38:12] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:38:12] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:38:12] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:38:12] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:38:12] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:38:12] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:38:12] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:38:12] => ## Nueva Carga ##
+ . [2023-02-16 02:38:12] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:38:12] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:38:12] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:38:12] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:38:12] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:38:12] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:38:12] => Metodo LangController::getLang().
+ . [2023-02-16 02:38:12] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:38:12] => spl_autoload_register(LangController).
+ . [2023-02-16 02:38:12] => Llamada a LangController::getLang().
+ . [2023-02-16 02:38:12] => Metodo View::__construct().
+ . [2023-02-16 02:38:12] => Llamada a View::__construct().
+ . [2023-02-16 02:38:12] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:38:12] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:38:12] => spl_autoload_register(View).
+ . [2023-02-16 02:38:12] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:38:12] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:38:12] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:38:12] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:38:12] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:38:12] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:38:12] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:38:12] => ## Nueva Carga ##
+ . [2023-02-16 02:38:12] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:38:12] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:38:12] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:38:12] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:38:12] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:38:12] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:38:12] => Metodo LangController::getLang().
+ . [2023-02-16 02:38:12] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:38:12] => spl_autoload_register(LangController).
+ . [2023-02-16 02:38:12] => Llamada a LangController::getLang().
+ . [2023-02-16 02:38:12] => Metodo View::__construct().
+ . [2023-02-16 02:38:12] => Llamada a View::__construct().
+ . [2023-02-16 02:38:12] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:38:12] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:38:12] => spl_autoload_register(View).
+ . [2023-02-16 02:38:12] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:38:12] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:38:12] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:38:12] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:38:12] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:38:12] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:38:12] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:38:12] => ## Nueva Carga ##
+ . [2023-02-16 02:38:12] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:38:12] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:38:12] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:38:12] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:38:12] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:38:12] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:38:12] => Metodo LangController::getLang().
+ . [2023-02-16 02:38:12] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:38:12] => spl_autoload_register(LangController).
+ . [2023-02-16 02:38:12] => Llamada a LangController::getLang().
+ . [2023-02-16 02:38:12] => Metodo View::__construct().
+ . [2023-02-16 02:38:12] => Llamada a View::__construct().
+ . [2023-02-16 02:38:12] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:38:12] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:38:12] => spl_autoload_register(View).
+ . [2023-02-16 02:38:12] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:38:12] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:38:12] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:38:12] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:38:12] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:38:12] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:38:12] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:38:12] => ## Nueva Carga ##
+ . [2023-02-16 02:38:12] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:38:12] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:38:12] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:38:12] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:38:12] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:38:12] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:38:12] => Metodo LangController::getLang().
+ . [2023-02-16 02:38:12] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:38:12] => spl_autoload_register(LangController).
+ . [2023-02-16 02:38:12] => Llamada a LangController::getLang().
+ . [2023-02-16 02:38:12] => Metodo View::__construct().
+ . [2023-02-16 02:38:12] => Llamada a View::__construct().
+ . [2023-02-16 02:38:12] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:38:12] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:38:12] => spl_autoload_register(View).
+ . [2023-02-16 02:38:12] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:38:12] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:38:12] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:38:12] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:38:12] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:38:12] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:38:12] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:38:12] => ## Nueva Carga ##
+ . [2023-02-16 02:38:12] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:38:12] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:38:12] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:38:12] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:38:12] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:38:12] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:38:12] => Metodo LangController::getLang().
+ . [2023-02-16 02:38:12] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:38:12] => spl_autoload_register(LangController).
+ . [2023-02-16 02:38:12] => Llamada a LangController::getLang().
+ . [2023-02-16 02:38:12] => Metodo View::__construct().
+ . [2023-02-16 02:38:12] => Llamada a View::__construct().
+ . [2023-02-16 02:38:12] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:38:12] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:38:12] => spl_autoload_register(View).
+ . [2023-02-16 02:38:12] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:38:12] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:38:12] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:38:12] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:38:12] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:38:12] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:38:12] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:38:12] => ## Nueva Carga ##
+ . [2023-02-16 02:38:12] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:38:12] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:38:12] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:38:12] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:38:12] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:38:12] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:38:12] => Metodo LangController::getLang().
+ . [2023-02-16 02:38:12] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:38:12] => spl_autoload_register(LangController).
+ . [2023-02-16 02:38:12] => Llamada a LangController::getLang().
+ . [2023-02-16 02:38:12] => Metodo View::__construct().
+ . [2023-02-16 02:38:12] => Llamada a View::__construct().
+ . [2023-02-16 02:38:12] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:38:12] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:38:12] => spl_autoload_register(View).
+ . [2023-02-16 02:38:12] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:38:12] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:38:12] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:38:12] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:38:12] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:38:12] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:38:12] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:38:12] => ## Nueva Carga ##
+ . [2023-02-16 02:38:12] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:38:12] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:38:12] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:38:12] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:38:12] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:38:12] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:38:12] => Metodo LangController::getLang().
+ . [2023-02-16 02:38:12] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:38:12] => spl_autoload_register(LangController).
+ . [2023-02-16 02:38:12] => Llamada a LangController::getLang().
+ . [2023-02-16 02:38:12] => Metodo View::__construct().
+ . [2023-02-16 02:38:12] => Llamada a View::__construct().
+ . [2023-02-16 02:38:12] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:38:12] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:38:12] => spl_autoload_register(View).
+ . [2023-02-16 02:38:12] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:38:12] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:38:12] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:38:12] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:38:12] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:38:12] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:38:12] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:38:12] => ## Nueva Carga ##
+ . [2023-02-16 02:38:12] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:38:12] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:38:12] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:38:12] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:38:12] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:38:12] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:38:12] => Metodo LangController::getLang().
+ . [2023-02-16 02:38:12] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:38:12] => spl_autoload_register(LangController).
+ . [2023-02-16 02:38:12] => Llamada a LangController::getLang().
+ . [2023-02-16 02:38:12] => Metodo View::__construct().
+ . [2023-02-16 02:38:12] => Llamada a View::__construct().
+ . [2023-02-16 02:38:12] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:38:12] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:38:12] => spl_autoload_register(View).
+ . [2023-02-16 02:38:12] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:38:12] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:38:12] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:38:12] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:38:12] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:38:12] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:38:12] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:38:12] => ## Nueva Carga ##
+ . [2023-02-16 02:38:12] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:38:12] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:38:12] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:38:12] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:38:12] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:38:12] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:38:12] => Metodo LangController::getLang().
+ . [2023-02-16 02:38:12] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:38:12] => spl_autoload_register(LangController).
+ . [2023-02-16 02:38:12] => Llamada a LangController::getLang().
+ . [2023-02-16 02:38:12] => Metodo View::__construct().
+ . [2023-02-16 02:38:12] => Llamada a View::__construct().
+ . [2023-02-16 02:38:12] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:38:12] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:38:12] => spl_autoload_register(View).
+ . [2023-02-16 02:38:12] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:38:12] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:38:12] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:38:12] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:38:12] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:38:12] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:38:12] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:38:12] => ## Nueva Carga ##
+ . [2023-02-16 02:38:12] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:38:12] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:38:12] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:38:12] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:38:12] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:38:12] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:38:12] => Metodo LangController::getLang().
+ . [2023-02-16 02:38:12] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:38:12] => spl_autoload_register(LangController).
+ . [2023-02-16 02:38:12] => Llamada a LangController::getLang().
+ . [2023-02-16 02:38:12] => Metodo View::__construct().
+ . [2023-02-16 02:38:12] => Llamada a View::__construct().
+ . [2023-02-16 02:38:12] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:38:12] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:38:12] => spl_autoload_register(View).
+ . [2023-02-16 02:38:12] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:38:12] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:38:12] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:38:12] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:38:12] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:38:12] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:38:12] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:38:12] => ## Nueva Carga ##
+ . [2023-02-16 02:38:12] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:38:12] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:38:12] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:38:12] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:38:12] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:38:12] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:38:12] => Metodo LangController::getLang().
+ . [2023-02-16 02:38:12] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:38:12] => spl_autoload_register(LangController).
+ . [2023-02-16 02:38:12] => Llamada a LangController::getLang().
+ . [2023-02-16 02:38:12] => Metodo View::__construct().
+ . [2023-02-16 02:38:12] => Llamada a View::__construct().
+ . [2023-02-16 02:38:12] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:38:12] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:38:12] => spl_autoload_register(View).
+ . [2023-02-16 02:38:12] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:38:12] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:38:12] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:38:12] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:38:12] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:38:12] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:38:12] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:38:12] => ## Nueva Carga ##
+ . [2023-02-16 02:38:12] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:38:12] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:38:12] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:38:12] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:38:12] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:38:12] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:38:12] => Metodo LangController::getLang().
+ . [2023-02-16 02:38:12] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:38:12] => spl_autoload_register(LangController).
+ . [2023-02-16 02:38:12] => Llamada a LangController::getLang().
+ . [2023-02-16 02:38:12] => Metodo View::__construct().
+ . [2023-02-16 02:38:12] => Llamada a View::__construct().
+ . [2023-02-16 02:38:12] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:38:12] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:38:12] => spl_autoload_register(View).
+ . [2023-02-16 02:38:12] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:38:12] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:38:12] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:38:12] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:38:12] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:38:12] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:38:12] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:38:12] => ## Nueva Carga ##
+ . [2023-02-16 02:38:12] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:38:12] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:38:12] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:38:12] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:38:12] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:38:12] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:38:12] => Metodo LangController::getLang().
+ . [2023-02-16 02:38:12] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:38:12] => spl_autoload_register(LangController).
+ . [2023-02-16 02:38:12] => Llamada a LangController::getLang().
+ . [2023-02-16 02:38:12] => Metodo View::__construct().
+ . [2023-02-16 02:38:12] => Llamada a View::__construct().
+ . [2023-02-16 02:38:12] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:38:12] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:38:12] => spl_autoload_register(View).
+ . [2023-02-16 02:38:12] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:38:12] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:38:12] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:38:12] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:38:12] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:38:12] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:38:12] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:38:12] => ## Nueva Carga ##
+ . [2023-02-16 02:38:12] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:38:12] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:38:12] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:38:12] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:38:12] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:38:12] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:38:12] => Metodo LangController::getLang().
+ . [2023-02-16 02:38:12] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:38:12] => spl_autoload_register(LangController).
+ . [2023-02-16 02:38:12] => Llamada a LangController::getLang().
+ . [2023-02-16 02:38:12] => Metodo View::__construct().
+ . [2023-02-16 02:38:12] => Llamada a View::__construct().
+ . [2023-02-16 02:38:12] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:38:12] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:38:12] => spl_autoload_register(View).
+ . [2023-02-16 02:38:12] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:38:12] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:38:12] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:38:12] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:38:12] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:38:12] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:38:12] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:38:12] => ## Nueva Carga ##
+ . [2023-02-16 02:38:12] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:38:12] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:38:12] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:38:12] => Metodo LangController::getLang().
+ . [2023-02-16 02:38:12] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:38:12] => spl_autoload_register(LangController).
+ . [2023-02-16 02:38:12] => Llamada a LangController::getLang().
+ . [2023-02-16 02:38:12] => Metodo View::__construct().
+ . [2023-02-16 02:38:12] => Llamada a View::__construct().
+ . [2023-02-16 02:38:12] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:38:12] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:38:12] => spl_autoload_register(View).
+ . [2023-02-16 02:38:12] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:38:12] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:38:12] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:38:12] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:38:12] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:38:12] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:38:12] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:38:12] => ## Nueva Carga ##
+ . [2023-02-16 02:37:58] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:58] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:58] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:58] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:58] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:58] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:58] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:58] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:58] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:58] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:58] => Metodo View::__construct().
+ . [2023-02-16 02:37:58] => Llamada a View::__construct().
+ . [2023-02-16 02:37:58] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:58] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:58] => spl_autoload_register(View).
+ . [2023-02-16 02:37:58] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:58] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:58] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:58] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:58] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:58] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:58] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:58] => ## Nueva Carga ##
+ . [2023-02-16 02:37:58] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:58] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:58] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:58] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:58] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:58] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:58] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:58] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:58] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:58] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:58] => Metodo View::__construct().
+ . [2023-02-16 02:37:58] => Llamada a View::__construct().
+ . [2023-02-16 02:37:58] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:58] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:58] => spl_autoload_register(View).
+ . [2023-02-16 02:37:58] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:58] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:58] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:58] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:58] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:58] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:58] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:58] => ## Nueva Carga ##
+ . [2023-02-16 02:37:58] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:58] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:58] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:58] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:58] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:58] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:58] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:58] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:58] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:58] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:58] => Metodo View::__construct().
+ . [2023-02-16 02:37:58] => Llamada a View::__construct().
+ . [2023-02-16 02:37:58] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:58] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:58] => spl_autoload_register(View).
+ . [2023-02-16 02:37:58] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:58] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:58] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:58] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:58] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:58] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:58] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:58] => ## Nueva Carga ##
+ . [2023-02-16 02:37:58] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:58] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:58] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:58] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:58] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:58] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:58] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:58] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:58] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:58] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:58] => Metodo View::__construct().
+ . [2023-02-16 02:37:58] => Llamada a View::__construct().
+ . [2023-02-16 02:37:58] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:58] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:58] => spl_autoload_register(View).
+ . [2023-02-16 02:37:58] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:58] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:58] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:58] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:58] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:58] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:58] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:58] => ## Nueva Carga ##
+ . [2023-02-16 02:37:58] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:58] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:58] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:58] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:58] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:58] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:58] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:58] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:58] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:58] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:58] => Metodo View::__construct().
+ . [2023-02-16 02:37:58] => Llamada a View::__construct().
+ . [2023-02-16 02:37:58] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:58] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:58] => spl_autoload_register(View).
+ . [2023-02-16 02:37:58] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:58] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:58] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:58] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:58] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:58] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:58] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:58] => ## Nueva Carga ##
+ . [2023-02-16 02:37:58] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:58] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:58] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:58] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:58] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:58] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:58] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:58] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:58] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:58] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:58] => Metodo View::__construct().
+ . [2023-02-16 02:37:58] => Llamada a View::__construct().
+ . [2023-02-16 02:37:58] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:58] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:58] => spl_autoload_register(View).
+ . [2023-02-16 02:37:58] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:58] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:58] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:58] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:58] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:58] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:58] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:58] => ## Nueva Carga ##
+ . [2023-02-16 02:37:58] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:58] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:58] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:58] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:58] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:58] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:58] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:58] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:58] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:58] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:58] => Metodo View::__construct().
+ . [2023-02-16 02:37:58] => Llamada a View::__construct().
+ . [2023-02-16 02:37:58] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:58] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:58] => spl_autoload_register(View).
+ . [2023-02-16 02:37:58] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:58] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:58] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:58] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:58] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:58] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:58] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:58] => ## Nueva Carga ##
+ . [2023-02-16 02:37:58] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:58] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:58] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:58] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:58] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:58] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:58] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:58] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:58] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:58] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:57] => Metodo View::__construct().
+ . [2023-02-16 02:37:57] => Llamada a View::__construct().
+ . [2023-02-16 02:37:57] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:57] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:57] => spl_autoload_register(View).
+ . [2023-02-16 02:37:57] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:57] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:57] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:57] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:57] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:57] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:57] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:57] => ## Nueva Carga ##
+ . [2023-02-16 02:37:57] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:57] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:57] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:57] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:57] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:57] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:57] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:57] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:57] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:57] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:57] => Metodo View::__construct().
+ . [2023-02-16 02:37:57] => Llamada a View::__construct().
+ . [2023-02-16 02:37:57] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:57] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:57] => spl_autoload_register(View).
+ . [2023-02-16 02:37:57] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:57] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:57] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:57] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:57] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:57] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:57] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:57] => ## Nueva Carga ##
+ . [2023-02-16 02:37:57] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:57] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:57] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:57] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:57] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:57] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:57] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:57] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:57] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:57] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:57] => Metodo View::__construct().
+ . [2023-02-16 02:37:57] => Llamada a View::__construct().
+ . [2023-02-16 02:37:57] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:57] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:57] => spl_autoload_register(View).
+ . [2023-02-16 02:37:57] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:57] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:57] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:57] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:57] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:57] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:57] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:57] => ## Nueva Carga ##
+ . [2023-02-16 02:37:57] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:57] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:57] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:57] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:57] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:57] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:57] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:57] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:57] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:57] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:57] => Metodo View::__construct().
+ . [2023-02-16 02:37:57] => Llamada a View::__construct().
+ . [2023-02-16 02:37:57] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:57] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:57] => spl_autoload_register(View).
+ . [2023-02-16 02:37:57] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:57] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:57] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:57] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:57] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:57] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:57] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:57] => ## Nueva Carga ##
+ . [2023-02-16 02:37:57] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:57] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:57] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:57] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:57] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:57] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:57] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:57] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:57] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:57] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:57] => Metodo View::__construct().
+ . [2023-02-16 02:37:57] => Llamada a View::__construct().
+ . [2023-02-16 02:37:57] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:57] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:57] => spl_autoload_register(View).
+ . [2023-02-16 02:37:57] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:57] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:57] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:57] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:57] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:57] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:57] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:57] => ## Nueva Carga ##
+ . [2023-02-16 02:37:57] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:57] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:57] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:57] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:57] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:57] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:57] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:57] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:57] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:57] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:57] => Metodo View::__construct().
+ . [2023-02-16 02:37:57] => Llamada a View::__construct().
+ . [2023-02-16 02:37:57] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:57] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:57] => spl_autoload_register(View).
+ . [2023-02-16 02:37:57] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:57] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:57] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:57] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:57] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:57] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:57] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:57] => ## Nueva Carga ##
+ . [2023-02-16 02:37:57] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:57] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:57] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:57] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:57] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:57] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:57] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:57] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:57] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:57] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:57] => Metodo View::__construct().
+ . [2023-02-16 02:37:57] => Llamada a View::__construct().
+ . [2023-02-16 02:37:57] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:57] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:57] => spl_autoload_register(View).
+ . [2023-02-16 02:37:57] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:57] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:57] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:57] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:57] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:57] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:57] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:57] => ## Nueva Carga ##
+ . [2023-02-16 02:37:57] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:57] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:57] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:57] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:57] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:57] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:57] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:57] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:57] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:57] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:57] => Metodo View::__construct().
+ . [2023-02-16 02:37:57] => Llamada a View::__construct().
+ . [2023-02-16 02:37:57] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:57] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:57] => spl_autoload_register(View).
+ . [2023-02-16 02:37:57] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:57] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:57] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:57] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:57] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:57] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:57] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:57] => ## Nueva Carga ##
+ . [2023-02-16 02:37:57] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:57] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:57] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:57] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:57] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:57] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:57] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:57] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:57] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:57] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:57] => Metodo View::__construct().
+ . [2023-02-16 02:37:57] => Llamada a View::__construct().
+ . [2023-02-16 02:37:57] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:57] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:57] => spl_autoload_register(View).
+ . [2023-02-16 02:37:57] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:57] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:57] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:57] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:57] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:57] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:57] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:57] => ## Nueva Carga ##
+ . [2023-02-16 02:37:57] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:57] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:57] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:57] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:57] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:57] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:57] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:57] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:57] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:57] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:57] => Metodo View::__construct().
+ . [2023-02-16 02:37:57] => Llamada a View::__construct().
+ . [2023-02-16 02:37:57] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:57] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:57] => spl_autoload_register(View).
+ . [2023-02-16 02:37:57] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:57] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:57] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:57] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:57] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:57] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:57] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:57] => ## Nueva Carga ##
+ . [2023-02-16 02:37:57] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:57] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:57] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:57] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:57] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:57] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:57] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:57] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:57] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:57] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:57] => Metodo View::__construct().
+ . [2023-02-16 02:37:57] => Llamada a View::__construct().
+ . [2023-02-16 02:37:57] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:57] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:57] => spl_autoload_register(View).
+ . [2023-02-16 02:37:57] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:57] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:57] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:57] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:57] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:57] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:57] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:57] => ## Nueva Carga ##
+ . [2023-02-16 02:37:57] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:57] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:57] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:57] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:57] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:57] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:57] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:57] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:57] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:57] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:57] => Metodo View::__construct().
+ . [2023-02-16 02:37:57] => Llamada a View::__construct().
+ . [2023-02-16 02:37:57] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:57] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:57] => spl_autoload_register(View).
+ . [2023-02-16 02:37:57] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:57] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:57] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:57] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:57] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:57] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:57] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:57] => ## Nueva Carga ##
+ . [2023-02-16 02:37:57] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:57] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:57] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:57] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:57] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:57] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:57] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:57] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:57] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:57] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:57] => Metodo View::__construct().
+ . [2023-02-16 02:37:57] => Llamada a View::__construct().
+ . [2023-02-16 02:37:57] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:57] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:57] => spl_autoload_register(View).
+ . [2023-02-16 02:37:57] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:57] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:57] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:57] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:57] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:57] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:57] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:57] => ## Nueva Carga ##
+ . [2023-02-16 02:37:27] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:27] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:27] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:27] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:27] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:27] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:27] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:27] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:27] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:27] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:27] => Metodo View::__construct().
+ . [2023-02-16 02:37:27] => Llamada a View::__construct().
+ . [2023-02-16 02:37:27] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:27] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:27] => spl_autoload_register(View).
+ . [2023-02-16 02:37:27] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:27] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:27] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:27] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:27] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:27] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:27] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:27] => ## Nueva Carga ##
+ . [2023-02-16 02:37:27] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:27] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:27] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:27] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:27] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:27] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:27] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:27] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:27] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:27] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:27] => Metodo View::__construct().
+ . [2023-02-16 02:37:27] => Llamada a View::__construct().
+ . [2023-02-16 02:37:27] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:27] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:27] => spl_autoload_register(View).
+ . [2023-02-16 02:37:27] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:27] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:27] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:27] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:27] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:27] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:27] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:27] => ## Nueva Carga ##
+ . [2023-02-16 02:37:27] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:27] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:27] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:27] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:27] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:27] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:27] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:27] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:27] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:27] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:27] => Metodo View::__construct().
+ . [2023-02-16 02:37:27] => Llamada a View::__construct().
+ . [2023-02-16 02:37:27] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:27] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:27] => spl_autoload_register(View).
+ . [2023-02-16 02:37:27] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:27] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:27] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:27] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:27] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:27] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:27] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:27] => ## Nueva Carga ##
+ . [2023-02-16 02:37:27] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:27] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:27] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:27] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:27] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:27] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:27] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:27] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:27] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:27] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:27] => Metodo View::__construct().
+ . [2023-02-16 02:37:27] => Llamada a View::__construct().
+ . [2023-02-16 02:37:27] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:27] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:27] => spl_autoload_register(View).
+ . [2023-02-16 02:37:27] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:27] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:27] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:27] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:27] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:27] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:27] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:27] => ## Nueva Carga ##
+ . [2023-02-16 02:37:27] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:27] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:27] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:27] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:27] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:27] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:27] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:27] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:27] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:27] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:27] => Metodo View::__construct().
+ . [2023-02-16 02:37:27] => Llamada a View::__construct().
+ . [2023-02-16 02:37:27] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:27] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:27] => spl_autoload_register(View).
+ . [2023-02-16 02:37:27] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:27] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:27] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:27] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:27] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:27] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:27] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:27] => ## Nueva Carga ##
+ . [2023-02-16 02:37:27] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:27] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:27] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:27] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:27] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:27] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:27] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:27] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:27] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:27] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:27] => Metodo View::__construct().
+ . [2023-02-16 02:37:27] => Llamada a View::__construct().
+ . [2023-02-16 02:37:27] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:27] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:27] => spl_autoload_register(View).
+ . [2023-02-16 02:37:27] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:27] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:27] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:27] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:27] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:27] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:27] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:27] => ## Nueva Carga ##
+ . [2023-02-16 02:37:27] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:27] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:27] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:27] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:27] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:27] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:27] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:27] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:27] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:27] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:27] => Metodo View::__construct().
+ . [2023-02-16 02:37:27] => Llamada a View::__construct().
+ . [2023-02-16 02:37:27] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:27] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:27] => spl_autoload_register(View).
+ . [2023-02-16 02:37:27] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:27] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:27] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:27] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:27] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:27] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:27] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:27] => ## Nueva Carga ##
+ . [2023-02-16 02:37:27] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:27] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:27] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:27] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:27] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:27] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:27] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:27] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:27] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:27] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:27] => Metodo View::__construct().
+ . [2023-02-16 02:37:27] => Llamada a View::__construct().
+ . [2023-02-16 02:37:27] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:27] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:27] => spl_autoload_register(View).
+ . [2023-02-16 02:37:27] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:27] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:27] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:27] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:27] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:27] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:27] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:27] => ## Nueva Carga ##
+ . [2023-02-16 02:37:27] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:27] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:27] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:27] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:27] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:27] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:27] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:27] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:27] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:27] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:27] => Metodo View::__construct().
+ . [2023-02-16 02:37:27] => Llamada a View::__construct().
+ . [2023-02-16 02:37:27] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:27] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:27] => spl_autoload_register(View).
+ . [2023-02-16 02:37:27] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:27] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:27] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:27] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:27] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:27] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:27] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:27] => ## Nueva Carga ##
+ . [2023-02-16 02:37:27] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:27] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:27] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:27] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:27] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:27] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:27] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:27] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:27] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:27] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:27] => Metodo View::__construct().
+ . [2023-02-16 02:37:27] => Llamada a View::__construct().
+ . [2023-02-16 02:37:27] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:27] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:27] => spl_autoload_register(View).
+ . [2023-02-16 02:37:27] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:27] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:27] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:27] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:27] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:27] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:27] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:27] => ## Nueva Carga ##
+ . [2023-02-16 02:37:27] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:27] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:27] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:27] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:27] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:27] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:27] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:27] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:27] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:27] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:27] => Metodo View::__construct().
+ . [2023-02-16 02:37:27] => Llamada a View::__construct().
+ . [2023-02-16 02:37:27] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:27] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:27] => spl_autoload_register(View).
+ . [2023-02-16 02:37:27] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:27] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:27] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:27] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:27] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:27] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:27] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:27] => ## Nueva Carga ##
+ . [2023-02-16 02:37:27] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:27] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:27] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:27] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:27] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:27] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:27] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:27] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:27] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:27] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:27] => Metodo View::__construct().
+ . [2023-02-16 02:37:27] => Llamada a View::__construct().
+ . [2023-02-16 02:37:27] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:27] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:27] => spl_autoload_register(View).
+ . [2023-02-16 02:37:27] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:27] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:27] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:27] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:27] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:27] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:27] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:27] => ## Nueva Carga ##
+ . [2023-02-16 02:37:27] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:27] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:27] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:27] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:27] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:27] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:27] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:27] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:27] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:27] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:27] => Metodo View::__construct().
+ . [2023-02-16 02:37:27] => Llamada a View::__construct().
+ . [2023-02-16 02:37:27] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:27] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:27] => spl_autoload_register(View).
+ . [2023-02-16 02:37:27] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:27] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:27] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:27] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:27] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:27] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:27] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:27] => ## Nueva Carga ##
+ . [2023-02-16 02:37:27] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:27] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:27] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:27] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:27] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:27] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:27] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:27] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:27] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:27] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:27] => Metodo View::__construct().
+ . [2023-02-16 02:37:27] => Llamada a View::__construct().
+ . [2023-02-16 02:37:27] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:27] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:27] => spl_autoload_register(View).
+ . [2023-02-16 02:37:27] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:27] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:27] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:27] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:27] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:27] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:27] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:27] => ## Nueva Carga ##
+ . [2023-02-16 02:37:27] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:27] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:27] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:27] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:27] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:27] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:27] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:27] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:27] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:27] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:27] => Metodo View::__construct().
+ . [2023-02-16 02:37:27] => Llamada a View::__construct().
+ . [2023-02-16 02:37:27] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:27] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:27] => spl_autoload_register(View).
+ . [2023-02-16 02:37:27] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:27] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:27] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:27] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:27] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:27] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:27] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:27] => ## Nueva Carga ##
+ . [2023-02-16 02:37:27] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:27] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:27] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:27] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:27] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:27] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:27] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:27] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:27] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:26] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:26] => Metodo View::__construct().
+ . [2023-02-16 02:37:26] => Llamada a View::__construct().
+ . [2023-02-16 02:37:26] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:26] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:26] => spl_autoload_register(View).
+ . [2023-02-16 02:37:26] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:26] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:26] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:26] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:26] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:26] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:26] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:26] => ## Nueva Carga ##
+ . [2023-02-16 02:37:26] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:26] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:26] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:26] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:26] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:26] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:26] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:26] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:26] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:26] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:26] => Metodo View::__construct().
+ . [2023-02-16 02:37:26] => Llamada a View::__construct().
+ . [2023-02-16 02:37:26] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:26] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:26] => spl_autoload_register(View).
+ . [2023-02-16 02:37:26] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:26] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:26] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:26] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:26] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:26] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:26] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:26] => ## Nueva Carga ##
+ . [2023-02-16 02:37:26] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:26] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:26] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:26] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:26] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:26] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:26] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:26] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:26] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:26] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:26] => Metodo View::__construct().
+ . [2023-02-16 02:37:26] => Llamada a View::__construct().
+ . [2023-02-16 02:37:26] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:26] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:26] => spl_autoload_register(View).
+ . [2023-02-16 02:37:26] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:26] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:26] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:26] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:26] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:26] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:26] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:26] => ## Nueva Carga ##
+ . [2023-02-16 02:37:26] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:26] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:26] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:26] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:26] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:26] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:26] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:26] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:26] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:26] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:26] => Metodo View::__construct().
+ . [2023-02-16 02:37:26] => Llamada a View::__construct().
+ . [2023-02-16 02:37:26] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:26] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:26] => spl_autoload_register(View).
+ . [2023-02-16 02:37:26] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:26] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:26] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:26] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:26] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:26] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:26] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:26] => ## Nueva Carga ##
+ . [2023-02-16 02:37:26] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:26] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:26] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:26] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:26] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:26] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:26] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:26] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:26] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:26] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:26] => Metodo View::__construct().
+ . [2023-02-16 02:37:26] => Llamada a View::__construct().
+ . [2023-02-16 02:37:26] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:26] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:26] => spl_autoload_register(View).
+ . [2023-02-16 02:37:26] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:26] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:26] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:26] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:26] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:26] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:26] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:26] => ## Nueva Carga ##
+ . [2023-02-16 02:37:21] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:21] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:21] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:21] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:21] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:21] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:21] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:21] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:21] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:21] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:21] => Metodo View::__construct().
+ . [2023-02-16 02:37:21] => Llamada a View::__construct().
+ . [2023-02-16 02:37:21] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:21] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:21] => spl_autoload_register(View).
+ . [2023-02-16 02:37:21] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:21] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:21] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:21] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:21] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:21] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:21] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:21] => ## Nueva Carga ##
+ . [2023-02-16 02:37:21] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:21] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:21] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:21] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:21] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:21] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:21] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:21] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:21] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:21] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:21] => Metodo View::__construct().
+ . [2023-02-16 02:37:21] => Llamada a View::__construct().
+ . [2023-02-16 02:37:21] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:21] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:21] => spl_autoload_register(View).
+ . [2023-02-16 02:37:21] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:21] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:21] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:21] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:21] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:21] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:21] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:21] => ## Nueva Carga ##
+ . [2023-02-16 02:37:21] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:21] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:21] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:21] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:21] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:21] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:21] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:21] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:21] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:21] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:21] => Metodo View::__construct().
+ . [2023-02-16 02:37:21] => Llamada a View::__construct().
+ . [2023-02-16 02:37:21] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:21] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:21] => spl_autoload_register(View).
+ . [2023-02-16 02:37:21] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:21] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:21] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:21] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:21] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:21] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:21] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:21] => ## Nueva Carga ##
+ . [2023-02-16 02:37:21] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:21] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:21] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:21] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:21] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:21] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:21] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:21] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:21] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:21] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:21] => Metodo View::__construct().
+ . [2023-02-16 02:37:21] => Llamada a View::__construct().
+ . [2023-02-16 02:37:21] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:21] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:21] => spl_autoload_register(View).
+ . [2023-02-16 02:37:21] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:21] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:21] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:21] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:21] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:21] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:21] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:21] => ## Nueva Carga ##
+ . [2023-02-16 02:37:21] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:21] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:21] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:21] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:21] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:21] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:21] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:21] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:21] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:21] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:21] => Metodo View::__construct().
+ . [2023-02-16 02:37:21] => Llamada a View::__construct().
+ . [2023-02-16 02:37:21] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:21] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:21] => spl_autoload_register(View).
+ . [2023-02-16 02:37:21] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:21] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:21] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:21] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:21] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:21] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:21] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:21] => ## Nueva Carga ##
+ . [2023-02-16 02:37:21] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:21] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:21] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:21] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:21] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:21] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:21] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:21] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:21] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:21] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:21] => Metodo View::__construct().
+ . [2023-02-16 02:37:21] => Llamada a View::__construct().
+ . [2023-02-16 02:37:21] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:21] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:21] => spl_autoload_register(View).
+ . [2023-02-16 02:37:21] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:21] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:21] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:21] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:21] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:21] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:21] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:21] => ## Nueva Carga ##
+ . [2023-02-16 02:37:21] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:21] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:21] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:21] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:21] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:21] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:21] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:21] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:21] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:21] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:21] => Metodo View::__construct().
+ . [2023-02-16 02:37:21] => Llamada a View::__construct().
+ . [2023-02-16 02:37:21] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:21] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:21] => spl_autoload_register(View).
+ . [2023-02-16 02:37:21] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:21] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:21] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:21] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:21] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:21] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:21] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:21] => ## Nueva Carga ##
+ . [2023-02-16 02:37:21] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:21] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:21] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:21] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:21] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:21] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:21] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:21] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:21] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:21] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:21] => Metodo View::__construct().
+ . [2023-02-16 02:37:21] => Llamada a View::__construct().
+ . [2023-02-16 02:37:21] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:21] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:21] => spl_autoload_register(View).
+ . [2023-02-16 02:37:21] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:21] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:21] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:21] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:21] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:21] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:21] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:21] => ## Nueva Carga ##
+ . [2023-02-16 02:37:21] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:21] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:21] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:21] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:21] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:21] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:21] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:21] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:21] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:21] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:21] => Metodo View::__construct().
+ . [2023-02-16 02:37:21] => Llamada a View::__construct().
+ . [2023-02-16 02:37:21] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:21] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:21] => spl_autoload_register(View).
+ . [2023-02-16 02:37:21] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:21] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:21] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:21] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:21] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:21] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:21] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:21] => ## Nueva Carga ##
+ . [2023-02-16 02:37:21] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:21] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:21] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:21] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:21] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:21] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:21] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:21] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:21] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:21] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:21] => Metodo View::__construct().
+ . [2023-02-16 02:37:21] => Llamada a View::__construct().
+ . [2023-02-16 02:37:21] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:21] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:21] => spl_autoload_register(View).
+ . [2023-02-16 02:37:21] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:21] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:21] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:21] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:21] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:21] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:21] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:21] => ## Nueva Carga ##
+ . [2023-02-16 02:37:21] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:21] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:21] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:21] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:21] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:21] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:21] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:21] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:21] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:21] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:21] => Metodo View::__construct().
+ . [2023-02-16 02:37:21] => Llamada a View::__construct().
+ . [2023-02-16 02:37:21] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:21] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:21] => spl_autoload_register(View).
+ . [2023-02-16 02:37:21] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:21] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:21] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:21] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:21] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:21] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:21] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:21] => ## Nueva Carga ##
+ . [2023-02-16 02:37:21] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:21] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:21] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:21] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:21] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:21] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:21] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:21] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:21] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:21] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:21] => Metodo View::__construct().
+ . [2023-02-16 02:37:21] => Llamada a View::__construct().
+ . [2023-02-16 02:37:21] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:21] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:21] => spl_autoload_register(View).
+ . [2023-02-16 02:37:21] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:21] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:21] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:21] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:21] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:21] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:21] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:21] => ## Nueva Carga ##
+ . [2023-02-16 02:37:21] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:21] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:21] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:21] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:21] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:21] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:21] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:21] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:21] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:21] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:21] => Metodo View::__construct().
+ . [2023-02-16 02:37:21] => Llamada a View::__construct().
+ . [2023-02-16 02:37:21] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:21] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:21] => spl_autoload_register(View).
+ . [2023-02-16 02:37:21] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:21] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:21] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:21] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:21] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:21] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:21] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:21] => ## Nueva Carga ##
+ . [2023-02-16 02:37:21] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:21] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:21] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:21] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:21] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:21] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:21] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:21] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:21] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:21] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:21] => Metodo View::__construct().
+ . [2023-02-16 02:37:21] => Llamada a View::__construct().
+ . [2023-02-16 02:37:21] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:21] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:21] => spl_autoload_register(View).
+ . [2023-02-16 02:37:21] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:21] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:21] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:21] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:21] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:21] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:21] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:21] => ## Nueva Carga ##
+ . [2023-02-16 02:37:21] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:21] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:21] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:21] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:21] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:21] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:21] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:21] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:21] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:21] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:21] => Metodo View::__construct().
+ . [2023-02-16 02:37:21] => Llamada a View::__construct().
+ . [2023-02-16 02:37:21] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:21] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:21] => spl_autoload_register(View).
+ . [2023-02-16 02:37:21] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:21] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:21] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:21] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:21] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:21] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:21] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:21] => ## Nueva Carga ##
+ . [2023-02-16 02:37:21] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:21] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:21] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:21] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:21] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:21] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:21] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:21] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:21] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:21] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:21] => Metodo View::__construct().
+ . [2023-02-16 02:37:21] => Llamada a View::__construct().
+ . [2023-02-16 02:37:21] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:21] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:21] => spl_autoload_register(View).
+ . [2023-02-16 02:37:21] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:21] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:21] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:21] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:21] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:21] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:21] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:21] => ## Nueva Carga ##
+ . [2023-02-16 02:37:21] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:21] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:21] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:21] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:21] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:21] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:21] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:21] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:21] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:21] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:21] => Metodo View::__construct().
+ . [2023-02-16 02:37:21] => Llamada a View::__construct().
+ . [2023-02-16 02:37:21] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:21] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:21] => spl_autoload_register(View).
+ . [2023-02-16 02:37:21] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:21] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:21] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:21] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:21] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:21] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:21] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:21] => ## Nueva Carga ##
+ . [2023-02-16 02:37:21] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:21] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:21] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:21] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:21] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:21] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:21] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:21] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:21] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:21] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:21] => Metodo View::__construct().
+ . [2023-02-16 02:37:21] => Llamada a View::__construct().
+ . [2023-02-16 02:37:21] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:21] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:21] => spl_autoload_register(View).
+ . [2023-02-16 02:37:21] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:21] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:21] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:21] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:21] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:21] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:21] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:21] => ## Nueva Carga ##
+ . [2023-02-16 02:37:21] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:21] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:21] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:21] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:21] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:21] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:21] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:21] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:21] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:21] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:21] => Metodo View::__construct().
+ . [2023-02-16 02:37:21] => Llamada a View::__construct().
+ . [2023-02-16 02:37:21] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:21] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:21] => spl_autoload_register(View).
+ . [2023-02-16 02:37:21] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:21] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:21] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:21] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:21] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:21] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:21] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:21] => ## Nueva Carga ##
+ . [2023-02-16 02:37:21] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:21] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:21] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:21] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:21] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:21] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:21] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:21] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:21] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:21] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:21] => Metodo View::__construct().
+ . [2023-02-16 02:37:21] => Llamada a View::__construct().
+ . [2023-02-16 02:37:21] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:21] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:21] => spl_autoload_register(View).
+ . [2023-02-16 02:37:21] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:21] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:21] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:21] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:21] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:21] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:21] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:21] => ## Nueva Carga ##
+ . [2023-02-16 02:37:20] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:20] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:20] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:20] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:20] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:20] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:20] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:20] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:20] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:20] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:20] => Metodo View::__construct().
+ . [2023-02-16 02:37:20] => Llamada a View::__construct().
+ . [2023-02-16 02:37:20] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:20] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:20] => spl_autoload_register(View).
+ . [2023-02-16 02:37:20] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:20] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:20] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:20] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:20] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:20] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:20] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:20] => ## Nueva Carga ##
+ . [2023-02-16 02:37:20] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:20] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:20] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:20] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:20] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:20] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:20] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:20] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:20] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:20] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:20] => Metodo View::__construct().
+ . [2023-02-16 02:37:20] => Llamada a View::__construct().
+ . [2023-02-16 02:37:20] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:20] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:20] => spl_autoload_register(View).
+ . [2023-02-16 02:37:20] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:20] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:20] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:20] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:20] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:20] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:20] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:20] => ## Nueva Carga ##
+ . [2023-02-16 02:37:20] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:20] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:20] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:20] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:20] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:20] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:20] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:20] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:20] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:20] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:20] => Metodo View::__construct().
+ . [2023-02-16 02:37:20] => Llamada a View::__construct().
+ . [2023-02-16 02:37:20] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:20] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:20] => spl_autoload_register(View).
+ . [2023-02-16 02:37:20] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:20] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:20] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:20] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:20] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:20] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:20] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:20] => ## Nueva Carga ##
+ . [2023-02-16 02:37:20] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:20] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:20] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:20] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:20] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:20] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:20] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:20] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:20] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:20] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:20] => Metodo View::__construct().
+ . [2023-02-16 02:37:20] => Llamada a View::__construct().
+ . [2023-02-16 02:37:20] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:20] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:20] => spl_autoload_register(View).
+ . [2023-02-16 02:37:20] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:20] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:20] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:20] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:20] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:20] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:20] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:20] => ## Nueva Carga ##
+ . [2023-02-16 02:37:20] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:20] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:20] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:20] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:20] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:20] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:20] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:20] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:20] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:20] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:20] => Metodo View::__construct().
+ . [2023-02-16 02:37:20] => Llamada a View::__construct().
+ . [2023-02-16 02:37:20] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:20] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:20] => spl_autoload_register(View).
+ . [2023-02-16 02:37:20] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:20] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:20] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:20] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:20] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:20] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:20] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:20] => ## Nueva Carga ##
+ . [2023-02-16 02:37:20] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:20] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:20] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:20] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:20] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:20] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:20] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:20] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:20] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:20] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:20] => Metodo View::__construct().
+ . [2023-02-16 02:37:20] => Llamada a View::__construct().
+ . [2023-02-16 02:37:20] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:20] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:20] => spl_autoload_register(View).
+ . [2023-02-16 02:37:20] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:20] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:20] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:20] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:20] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:20] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:20] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:20] => ## Nueva Carga ##
+ . [2023-02-16 02:37:20] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:20] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:20] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:20] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:20] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:20] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:20] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:20] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:20] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:20] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:20] => Metodo View::__construct().
+ . [2023-02-16 02:37:20] => Llamada a View::__construct().
+ . [2023-02-16 02:37:20] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:20] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:20] => spl_autoload_register(View).
+ . [2023-02-16 02:37:20] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:20] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:20] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:20] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:20] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:20] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:20] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:20] => ## Nueva Carga ##
+ . [2023-02-16 02:37:20] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:20] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:20] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:20] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:20] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:20] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:20] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:20] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:20] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:20] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:20] => Metodo View::__construct().
+ . [2023-02-16 02:37:20] => Llamada a View::__construct().
+ . [2023-02-16 02:37:20] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:20] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:20] => spl_autoload_register(View).
+ . [2023-02-16 02:37:20] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:20] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:20] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:20] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:20] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:20] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:20] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:20] => ## Nueva Carga ##
+ . [2023-02-16 02:37:20] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:20] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:20] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:20] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:20] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:20] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:20] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:20] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:20] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:20] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:20] => Metodo View::__construct().
+ . [2023-02-16 02:37:20] => Llamada a View::__construct().
+ . [2023-02-16 02:37:20] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:20] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:20] => spl_autoload_register(View).
+ . [2023-02-16 02:37:20] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:20] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:20] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:20] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:20] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:20] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:20] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:20] => ## Nueva Carga ##
+ . [2023-02-16 02:37:20] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:20] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:20] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:20] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:20] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:20] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:20] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:20] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:20] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:20] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:20] => Metodo View::__construct().
+ . [2023-02-16 02:37:20] => Llamada a View::__construct().
+ . [2023-02-16 02:37:20] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:20] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:20] => spl_autoload_register(View).
+ . [2023-02-16 02:37:20] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:20] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:20] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:20] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:20] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:20] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:20] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:20] => ## Nueva Carga ##
+ . [2023-02-16 02:37:20] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:20] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:20] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:20] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:20] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:20] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:20] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:20] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:20] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:20] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:20] => Metodo View::__construct().
+ . [2023-02-16 02:37:20] => Llamada a View::__construct().
+ . [2023-02-16 02:37:20] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:20] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:20] => spl_autoload_register(View).
+ . [2023-02-16 02:37:20] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:20] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:20] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:20] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:20] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:20] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:20] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:20] => ## Nueva Carga ##
+ . [2023-02-16 02:37:20] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:20] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:20] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:20] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:20] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:20] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:20] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:20] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:20] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:20] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:20] => Metodo View::__construct().
+ . [2023-02-16 02:37:20] => Llamada a View::__construct().
+ . [2023-02-16 02:37:20] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:20] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:20] => spl_autoload_register(View).
+ . [2023-02-16 02:37:20] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:20] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:20] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:20] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:20] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:20] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:20] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:20] => ## Nueva Carga ##
+ . [2023-02-16 02:37:20] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:20] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:20] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:20] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:20] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:20] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:20] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:20] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:20] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:20] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:20] => Metodo View::__construct().
+ . [2023-02-16 02:37:20] => Llamada a View::__construct().
+ . [2023-02-16 02:37:20] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:20] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:20] => spl_autoload_register(View).
+ . [2023-02-16 02:37:20] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:20] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:20] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:20] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:20] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:20] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:20] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:20] => ## Nueva Carga ##
+ . [2023-02-16 02:37:20] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:20] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:20] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:20] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:20] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:20] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:20] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:20] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:20] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:20] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:20] => Metodo View::__construct().
+ . [2023-02-16 02:37:20] => Llamada a View::__construct().
+ . [2023-02-16 02:37:20] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:20] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:20] => spl_autoload_register(View).
+ . [2023-02-16 02:37:20] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:20] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:20] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:20] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:20] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:20] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:20] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:20] => ## Nueva Carga ##
+ . [2023-02-16 02:37:20] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:20] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:20] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:20] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:20] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:20] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:20] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:20] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:20] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:20] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:20] => Metodo View::__construct().
+ . [2023-02-16 02:37:20] => Llamada a View::__construct().
+ . [2023-02-16 02:37:20] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:20] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:20] => spl_autoload_register(View).
+ . [2023-02-16 02:37:20] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:20] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:20] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:20] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:20] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:20] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:20] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:20] => ## Nueva Carga ##
+ . [2023-02-16 02:37:20] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:20] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:20] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:20] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:20] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:20] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:20] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:20] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:20] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:20] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:20] => Metodo View::__construct().
+ . [2023-02-16 02:37:20] => Llamada a View::__construct().
+ . [2023-02-16 02:37:20] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:20] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:20] => spl_autoload_register(View).
+ . [2023-02-16 02:37:20] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:20] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:20] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:20] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:20] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:20] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:20] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:20] => ## Nueva Carga ##
+ . [2023-02-16 02:37:20] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:20] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:20] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:20] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:20] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:20] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:20] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:20] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:20] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:20] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:20] => Metodo View::__construct().
+ . [2023-02-16 02:37:20] => Llamada a View::__construct().
+ . [2023-02-16 02:37:20] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:20] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:20] => spl_autoload_register(View).
+ . [2023-02-16 02:37:20] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:20] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:20] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:20] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:20] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:20] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:20] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:20] => ## Nueva Carga ##
+ . [2023-02-16 02:37:20] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:20] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:20] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:20] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:20] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:20] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:20] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:20] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:20] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:20] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:20] => Metodo View::__construct().
+ . [2023-02-16 02:37:20] => Llamada a View::__construct().
+ . [2023-02-16 02:37:20] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:20] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:20] => spl_autoload_register(View).
+ . [2023-02-16 02:37:20] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:20] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:20] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:20] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:20] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:20] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:20] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:20] => ## Nueva Carga ##
+ . [2023-02-16 02:37:20] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:20] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:20] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:20] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:20] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:20] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:20] => Metodo LangController::getLang().
+ . [2023-02-16 02:37:20] => La clase, LangController, existe y se va a cargar.
+ . [2023-02-16 02:37:20] => spl_autoload_register(LangController).
+ . [2023-02-16 02:37:20] => Llamada a LangController::getLang().
+ . [2023-02-16 02:37:20] => Metodo View::__construct().
+ . [2023-02-16 02:37:20] => Llamada a View::__construct().
+ . [2023-02-16 02:37:20] => Metodo ErrorView::__construct().
+ . [2023-02-16 02:37:20] => La clase, View, existe y se va a cargar.
+ . [2023-02-16 02:37:20] => spl_autoload_register(View).
+ . [2023-02-16 02:37:20] => La clase, ErrorView, existe y se va a cargar.
+ . [2023-02-16 02:37:20] => spl_autoload_register(ErrorView).
+ . [2023-02-16 02:37:20] => Llamanda a ErrorView->show(Exception: La clase, FrontController, no existe. in /home/jperezr40/datos/web/webProject/index.php:35
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home/jperezr40/datos/web/webProject/index.php(45): spl_autoload_call()
+#2 {main})
+ . [2023-02-16 02:37:20] => Algo ha fallado y se ha recogido una Excepcion: La clase, FrontController, no existe.
+ . [2023-02-16 02:37:20] => La clase, FrontController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:20] => spl_autoload_register(FrontController).
+ . [2023-02-16 02:37:20] => Llamada a FrontController::dispatch().
+ . [2023-02-16 02:37:20] => ## Nueva Carga ##
+ . [2023-02-16 02:37:20] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . [2023-02-16 02:37:20] => spl_autoload_register(MenuController).
+ . [2023-02-16 02:37:20] => Llamada a MenuController::getMenu().
+ . [2023-02-16 02:37:20] => !!!! SANITIZE !!!!
+ . [2023-02-16 02:37:20] => Metodo LangController::_setLang(es, ?).
+ . [2023-02-16 02:37:20] => Llamada a LangController::setLang("es", "?").
+ . [2023-02-16 02:37:20] => La clase, MenuController, no existe y se va a lanzar una Excepcion.
+ . 
