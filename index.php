@@ -18,7 +18,7 @@ LogModel::create(new Log("IP: {$_SERVER["REMOTE_ADDR"]}"), "visitantes");
  * CARGA DINAMICA DE CLASES *
  * ************************ */
 spl_autoload_register(function ($class) {
-    LogModel::create(new Log("spl_autoload_register($class)."));
+    LogModel::create(new Log("Funcion spl_autoload_register($class)."));
 
     $classType = "model";
     

@@ -75,3 +75,120 @@ Tareas:
 - Baja
 	- Controller
 		- Sanitize
+		
+# 2023-02-16 15:42
+Seguimos trabajando en los objetivos anteriores.
+
+Tareas:
+
+- Alta
+	- FrontController
+		- Si es un get con parametros
+		- Si es un post
+	- Home
+	- PhP Blog
+	- Pagina que muestra la conexión de las aulas del instituto
+- Media
+	- M7 UF1
+		- E01
+		- E04
+	- LangController
+		- showLangs()
+	- MenuController
+		- getMenu()
+	- Fichero de lengauje
+- Baja
+	- Controller
+		- Sanitize
+
+## 16:01
+Hehos los primeros templates y la vista de home, falta editar todos los tmplts.
+
+Tareas:
+
+- Alta
+	- Tmplts
+		- Aside
+		- End
+		- Error
+		- Head
+		- Header
+		- Home
+	- FrontController
+		- Si es un get con parametros
+		- Si es un post
+	- PhP Blog
+	- Pagina que muestra la conexión de las aulas del instituto
+- Media
+	- M7 UF1
+		- E01
+		- E04
+	- LangController
+		- showLangs()
+	- MenuController
+		- getMenu()
+	- Fichero de lengauje
+- Baja
+	- Controller
+		- Sanitize
+
+## 16:11
+Vamos a ir haciendo tmplts.
+
+Tareas:
+
+- Alta
+	- Tmplts
+		- Aside
+			- Recursos
+	- HomeView
+		- Añadir contenido
+	- FrontController
+		- Si es un get con parametros
+		- Si es un post
+	- PhP Blog
+	- Pagina que muestra la conexión de las aulas del instituto
+- Media
+	- M7 UF1
+		- E01
+		- E04
+	- LangController
+		- showLangs()
+	- MenuController
+		- getMenu()
+	- Fichero de lengauje
+- Baja
+	- Controller
+		- Sanitize
+		
+## 17:17
+Actualizacion de MenuController, de momento da el menu entero.
+Lo siguiente que voy a hacer es el contenido del home;
+
+Tareas:
+
+- Alta
+	- Tmplts
+		- Aside
+			- Recursos
+	- HomeView
+		- Añadir contenido
+	- FrontController
+		- Si es un get con parametros
+		- Si es un post
+	- PhP Blog
+	- Pagina que muestra la conexión de las aulas del instituto
+- Media
+	- M7 UF1
+		- E01
+		- E04
+	- LangController
+		- showLangs()
+	- MenuController
+		- Pagina para modulos (depende de la logica del contenido del Home)
+			- Pagina par ufs
+				- Menus parciales
+	- Fichero de lengauje
+- Baja
+	- Controller
+		- Sanitize

@@ -1,0 +1,67 @@
+* {
+	box-sizing: border-box;
+}
+
+:root {
+	--body-num-columns: 5;
+	--body-columns: repeat(var(--body-num-columns), calc(100% / var(--body-num-columns)));
+	
+	--body-num-rows: 10;
+	--body-rows: repeat(var(--body-num-rows), calc(100% / var(--body-num-rows)));
+	
+	--body-areas:
+		"aside header header header header"
+		"aside main main main main"
+		"aside main main main main"
+		"aside main main main main"
+		"aside main main main main"
+		"aside main main main main"
+		"aside main main main main"
+		"aside main main main main"
+		"aside main main main main"
+		"aside main main main main"
+	;
+}
+
+html {
+	background-color: red;
+	
+	height: 100%;
+	
+	body {
+		background-color: orange;
+		
+		margin: 0;
+		
+		height: 100%;
+		
+		display: grid;
+		grid-template-columns: var(--body-columns);
+		grid-template-rows: var(--body-rows);
+		grid-template-areas: var(--body-areas);
+		
+		header {
+			background-color: black;
+			
+			grid-area: header;
+			
+			color: lightgrey;
+			
+			h2 {
+				margin: 0;
+			}
+		}
+		
+		aside {
+			background-color: dimgrey;
+			
+			grid-area: aside;
+		}
+		
+		main {
+			background-color: #999;
+			
+			grid-area: main;
+		}
+	}
+}

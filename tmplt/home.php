@@ -1,0 +1,17 @@
+<main>
+	<section id="news">
+		<h3>
+			<?php
+			echo $this->lang["home"]["text"]["news"];
+			?>
+		</h3>
+	</section>
+	
+	<section id="destacados">
+		<h3>
+			<?php
+			echo $this->lang["home"]["text"]["destacados"];
+			?>
+		</h3>
+	</section>
+</main>

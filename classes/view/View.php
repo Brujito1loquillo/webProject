@@ -4,8 +4,10 @@ class View {
     protected $lang;
     protected $menu;
     
-    protected $css = ["main", "aside"];
-    protected $js = ["menu", "main"];
+    // protected $css = ["main", "aside"];
+    protected $css = ["main"];
+    // protected $js = ["menu", "main"];
+    protected $js = [];
     
     protected $title = "";
     

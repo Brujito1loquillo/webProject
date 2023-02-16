@@ -12,6 +12,7 @@ La intención de esta actualización es arreglar los logs y mejorar un poco la e
 	- Plantillas
 	- Error
 - Controladores
+	- FrontController
 	- Idioma
 	- Menu
 
@@ -32,6 +33,7 @@ Esta compuesta de las clases LogModel y Log.
 ### Error
 
 ## Controladores
+### FrontController
 ### Idioma
 En este apartado veremos una logica que se encargara de cargar el fichero del lenguaje que tengamos seleccionado o de asignarnos un lenguaje y cargarlo.
 #### Ficeros de Idioma
