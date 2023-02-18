@@ -192,3 +192,116 @@ Tareas:
 - Baja
 	- Controller
 		- Sanitize
+
+# 2023-02-17 17:48
+Los objetivos más importantes para hoy son los siguientes:
+Arreglar el apartado de destacados del home.
+Hacer todas las practicas de M7 que dependan de la base de datos para poder hacer el M7 UF2 E06. 
+
+Tareas:
+
+- Alta
+	- HomeView
+		- Añadir contenido
+			- Destacados
+	- M7 UF1 E08
+	- M7 UF2
+		- E02 (Necesito M7 UF1 E08)
+		- E03
+	- M7 UF2 E06
+	- Tmplts
+		- Aside
+			- Recursos
+	- FrontController
+		- Si es un get con parametros
+		- Si es un post
+	- PhP Blog
+	- Pagina que muestra la conexión de las aulas del instituto
+- Media
+	- M7 UF1
+		- E01
+		- E04
+	- LangController
+		- showLangs()
+	- MenuController
+		- Pagina para modulos (depende de la logica del contenido del Home)
+			- Pagina par ufs
+				- Menus parciales
+	- Fichero de lengauje
+- Baja
+	- Controller
+		- Sanitize
+		
+Al lio.
+
+## 19:44
+Home actualizado y funcionando de manera normal, falta diseño y añadir alguna caracteristica.
+Vamos a hacer las practicas necesarias para poder hacer la M7 UF2 E06.
+
+Tareas:
+
+- Alta
+	- M7 UF1 E07
+	- M7 UF1 E08 (Necesita M7 UF1 E07)
+	- M7 UF2
+		- E02 (Necesito M7 UF1 E08)
+		- E03
+	- M7 UF2 E06 (Necesita M7 UF2 E03 Y E04)
+	- Tmplts
+		- Aside
+			- Recursos
+	- FrontController
+		- Si es un get con parametros
+		- Si es un post
+	- PhP Blog
+	- Pagina que muestra la conexión de las aulas del instituto
+- Media
+	- M7 UF1
+		- E01
+		- E04
+	- LangController
+		- showLangs()
+	- MenuController
+		- Pagina para modulos (depende de la logica del contenido del Home)
+			- Pagina par ufs
+				- Menus parciales
+	- Fichero de lengauje
+- Baja
+	- Controller
+		- Sanitize
+		
+## 19:52
+Para hacer las practicas necesito arreglar el FrontControlle::dispatch.
+
+Tareas:
+
+- Alta
+	- FrontController
+		- Si llega un get con parametros 
+	- M7 UF1 E07
+	- M7 UF1 E08 (Necesita M7 UF1 E07)
+	- M7 UF2
+		- E02 (Necesito M7 UF1 E08)
+		- E03
+	- M7 UF2 E06 (Necesita M7 UF2 E03 Y E04)
+	- Tmplts
+		- Aside
+			- Recursos
+	- FrontController
+		- Si es un post
+	- PhP Blog
+	- Pagina que muestra la conexión de las aulas del instituto
+- Media
+	- M7 UF1
+		- E01
+		- E04
+	- LangController
+		- showLangs()
+	- MenuController
+		- Pagina para modulos (depende de la logica del contenido del Home)
+			- Pagina par ufs
+				- Menus parciales
+	- Fichero de lengauje
+- Baja
+	- Controller
+		- Sanitize

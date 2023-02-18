@@ -1,0 +1,42 @@
+html {
+	body {
+		main {
+			// background-color: white;
+			background-color: mediumpurple;
+
+			display: grid;
+			grid-template-columns: 100%;
+			grid-template-rows: repeat(2, calc(100% / 2));
+
+			// #news {background-color: lime;}
+			// #destacados {background-color: rebeccapurple;}
+			
+			section {
+				background-color: palegoldenrod;
+				// height: 100%;
+				
+				section {
+				background-color: gray;
+
+				display: flex;
+				flex-wrap: wrap;
+				
+				// height: 100%;
+				// align-items: stretch;
+				// align-items: flex-end;
+				// height: 100%;
+				// height: fit-content;
+
+				div {
+					background-color: white;
+
+					// max-width: 25%;
+					width: 25%;
+					
+					// height: 100%;
+				}
+			}
+			}
+		}
+	}
+}

@@ -5,6 +5,12 @@
 			echo $this->lang["home"]["text"]["news"];
 			?>
 		</h3>
+		
+		<section>
+			<?php
+			echo $news;
+			?>
+		</section>
 	</section>
 	
 	<section id="destacados">
@@ -13,5 +19,11 @@
 			echo $this->lang["home"]["text"]["destacados"];
 			?>
 		</h3>
+		
+		<section>
+			<?php
+			echo $destacados;
+			?>
+		</section>
 	</section>
 </main>

@@ -29,6 +29,7 @@ Esta compuesta de las clases LogModel y Log.
 
 ## Vistas
 ### Vista
+### Home
 ### Plantillas
 ### Error
 
