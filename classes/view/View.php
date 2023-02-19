@@ -20,6 +20,10 @@ class View {
         LogModel::create(new Log("Llamada a MenuController::getMenu()."));
         $this->menu = MenuController::getMenu($this->lang);
     }
+    
+    public function getLang() {
+        return $this->lang;
+    }
 }
 
 ?>

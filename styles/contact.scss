@@ -1,0 +1,43 @@
+html {
+	body {
+		main {
+		// background-color: cyan;
+		
+		form {
+			background-color: white;
+			
+			width: fit-content;
+			
+			
+			text-align: center;
+			// align-items: center; // No va
+			
+			&.send {
+				display: none;
+			}
+			
+			p.error {
+				background-color: lightcoral;
+				width: fit-content;
+			}
+		}
+		
+		#sended {
+			display: none;
+			margin: auto;
+			text-align: center;
+			// top: 50%;
+			// transform: translateY(-50%);
+
+			&.send {
+				background-color: white;
+				
+				display: block;
+				
+				width: fit-content;
+			}
+		}
+		
+		}
+	}
+}

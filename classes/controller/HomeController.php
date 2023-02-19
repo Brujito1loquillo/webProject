@@ -14,7 +14,7 @@ abstract class HomeController { // extends Controller {
         LogModel::create(new Log("Llamada a HomeController::getDestacados($view)."));
         $destacadsos = self::getDestacados($view);
         
-        LogModel::create(new Log("Llamada a HomeView->show($news)."));
+        LogModel::create(new Log("Llamada a HomeView->show(\$news, \$destacadsos)."));
         $view->show($news, $destacadsos);
     }
     

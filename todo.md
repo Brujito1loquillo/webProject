@@ -305,3 +305,107 @@ Tareas:
 - Baja
 	- Controller
 		- Sanitize
+		
+## 21:16
+He arreglado el front controller con GET pero para esta practica necesito arreglar el del POST
+
+Tareas:
+
+- Alta
+	- FrontController
+		- Si llega un post con parametros 
+	- M7 UF1 E07
+	- M7 UF1 E08 (Necesita M7 UF1 E07)
+	- M7 UF2
+		- E02 (Necesito M7 UF1 E08)
+		- E03
+	- M7 UF2 E06 (Necesita M7 UF2 E03 Y E04)
+	- Tmplts
+		- Aside
+			- Recursos
+	- PhP Blog
+	- Pagina que muestra la conexión de las aulas del instituto
+- Media
+	- M7 UF1
+		- E01
+		- E04
+	- LangController
+		- showLangs()
+	- MenuController
+		- Pagina para modulos (depende de la logica del contenido del Home)
+			- Pagina par ufs
+				- Menus parciales
+	- Fichero de lengauje
+- Baja
+	- Controller
+		- Sanitize
+
+# 2023-02-19 16:42
+Seguimos con las taraes de ayer.
+He arreglado el front controller para que coja los parametros del post y se los pase a la funcion correspondiente.
+Seguimos haciendo la practica M7 UF1 E07 que me falta solo la persistencia.
+
+Tareas:
+
+- Alta
+	- M7 UF1 E07
+	- M7 UF1 E08 (Necesita M7 UF1 E07)
+	- M7 UF2
+		- E02 (Necesito M7 UF1 E08)
+		- E03
+	- M7 UF2 E06 (Necesita M7 UF2 E03 Y E04)
+	- Tmplts
+		- Aside
+			- Recursos
+	- PhP Blog
+	- Pagina que muestra la conexión de las aulas del instituto
+- Media
+	- M7 UF1
+		- E01
+		- E04
+	- LangController
+		- showLangs()
+	- MenuController
+		- Pagina para modulos (depende de la logica del contenido del Home)
+			- Pagina par ufs
+				- Menus parciales
+	- Fichero de lengauje
+- Baja
+	- Controller
+		- Sanitize
+
+Al lio.
+
+## 17:35
+Practica M7 UF1 E07 lista
+voy a hacer un commit y seguimos con las demas
+
+Tareas:
+
+- Alta
+	- M7 UF1 E08
+	- M7 UF2
+		- E02 (Necesito M7 UF1 E08)
+		- E03
+	- M7 UF2 E06 (Necesita M7 UF2 E03 Y E04)
+	- Tmplts
+		- Aside
+			- Recursos
+	- PhP Blog
+	- Pagina que muestra la conexión de las aulas del instituto
+- Media
+	- M7 UF1
+		- E01
+		- E04
+	- LangController
+		- showLangs()
+	- MenuController
+		- Pagina para modulos (depende de la logica del contenido del Home)
+			- Pagina par ufs
+				- Menus parciales
+	- Fichero de lengauje
+- Baja
+	- Controller
+		- Sanitize
+
+Al lio.

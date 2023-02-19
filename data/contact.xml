@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+	<contact>
+		<name>Adrian</name>
+		<surname>Ursu</surname>
+		<email>aursu@gmail.com</email>
+		<message />
+		<why>
+			<other />
+		</why>
+		<device>phone</device>
+	</contact>
+	<contact>
+		<name>José-Ramón</name>
+		<surname>Pérez Ribelles</surname>
+		<email>jperezribelles9@gmail.com</email>
+		<message />
+		<why>
+			<imprube />
+		</why>
+		<device>pc</device>
+	</contact>
+	<contact>
+		<name>José-Ramón</name>
+		<surname>Pérez Ribelles</surname>
+		<email>jperezribelles9@gmail.com</email>
+		<message>Mensajeee</message>
+		<why>
+			<imprube />
+		</why>
+		<device>pc</device>
+	</contact>
+	<contact>
+		<name>José-Ramón</name>
+		<surname>Pérez Ribelles</surname>
+		<email>unalumno@iestohsicodina.cat</email>
+		<message>(10+2)*2</message>
+		<why>
+			<issiue />
+		</why>
+		<device>other</device>
+	</contact>
+</contacts>

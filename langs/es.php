@@ -6,6 +6,7 @@ $lang = [
         
         "text" => [
             "see" => "Ver más",
+            "goHome" => "Volver al inicio",
         ],
     ],
     
@@ -129,7 +130,32 @@ $lang = [
                             "href" => "?contact/show",
                             
                             "text" => [
-                                "text1" => "",
+                                "name" => "Nombre",
+                                "surname" => "Apellido",
+                                "email" => "Correo electronico",
+                                "message" => "Mensaje",
+                                "why" => "Razón del mensaje",
+                                "issiue" => "Error o fallo",
+                                "imprube" => "Propuesta de mejora",
+                                "other" => "Otro",
+                                "device" => "Seleccione su dispositivo",
+                                "select" => "Seleccione un dispositivo",
+                                "pc" => "Ordenador",
+                                "phone" => "Telefono",
+                                "tablet" => "Tablet",
+                                "send" => "Enviar",
+                                "sended" => "El mensaje ha sido enviado",
+                                "errors" => [
+                                    "vName" => "El nombre es un campo obligatorio",
+                                    "bName" => "El nombre contiene caracteres no validos",
+                                    "vSurname" => "El apellido es un campo obligatorio",
+                                    "bSurname" => "El apellido contiene caracteres no validos",
+                                    "vEmail" => "El correo es un campo obligatorio",
+                                    "bEmail" => "El correo no es correcto o contiene caracteres no validos",
+                                    "vMessage" => "El mensaje es un campo obligatorio",
+                                    "vWhy" => "Debe selecionar el motivo por el que contacta con el administrador",
+                                    "bDevice" => "Debe selecionar una opcion",
+                                ],
                             ],
                         ],
                         

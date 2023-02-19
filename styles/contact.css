@@ -1,0 +1,24 @@
+html body main form {
+  background-color: white;
+  width: fit-content;
+  text-align: center;
+}
+html body main form.send {
+  display: none;
+}
+html body main form p.error {
+  background-color: lightcoral;
+  width: fit-content;
+}
+html body main #sended {
+  display: none;
+  margin: auto;
+  text-align: center;
+}
+html body main #sended.send {
+  background-color: white;
+  display: block;
+  width: fit-content;
+}
+
+/*# sourceMappingURL=contact.css.map */

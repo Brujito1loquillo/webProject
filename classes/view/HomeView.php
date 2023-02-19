@@ -16,7 +16,7 @@ class HomeView extends View {
     }
     
     public function show (string $news, string $destacados) {
-        LogModel::create(new Log("Metodo HomeVew->show($news, $destacados)."));
+        LogModel::create(new Log("Metodo HomeVew->show(\$news, \$destacados)."));
         
         require_once "tmplt/head.php";
         require_once "tmplt/header.php";
@@ -29,9 +29,9 @@ class HomeView extends View {
      * GETS *
      * **** */
     
-    public function getLang() {
-        return $this->lang;
-    }
+//     public function getLang() {
+//         return $this->lang;
+//     }
     
     /* ********* *
      * Overrides *

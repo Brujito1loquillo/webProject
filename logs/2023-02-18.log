@@ -1,4 +1,979 @@
 
+[2023-02-18 21:10:53] => ## Fin de Carga ##
+[2023-02-18 21:10:53] => Carga de main.css.
+[2023-02-18 21:10:53] => Carga de CSS.
+[2023-02-18 21:10:53] => Carga de JS.
+[2023-02-18 21:10:53] => Metodo ContactVew->show().
+[2023-02-18 21:10:53] => Metodo MenuController::getMenu().
+[2023-02-18 21:10:53] => La clase, MenuController, existe y se va a cargar.
+[2023-02-18 21:10:53] => Funcion spl_autoload_register(MenuController).
+[2023-02-18 21:10:53] => Llamada a MenuController::getMenu().
+[2023-02-18 21:10:53] => Metodo LangController::getLang().
+[2023-02-18 21:10:53] => La clase, LangController, existe y se va a cargar.
+[2023-02-18 21:10:53] => Funcion spl_autoload_register(LangController).
+[2023-02-18 21:10:53] => Llamada a LangController::getLang().
+[2023-02-18 21:10:53] => Metodo View::__construct().
+[2023-02-18 21:10:53] => Llamada a View::__construct().
+[2023-02-18 21:10:53] => Metodo ContactView::__construct().
+[2023-02-18 21:10:53] => La clase, View, existe y se va a cargar.
+[2023-02-18 21:10:53] => Funcion spl_autoload_register(View).
+[2023-02-18 21:10:53] => La clase, ContactView, existe y se va a cargar.
+[2023-02-18 21:10:53] => Funcion spl_autoload_register(ContactView).
+[2023-02-18 21:10:53] => Llamada a ContactView->show().
+[2023-02-18 21:10:53] => Metodo ContactController::show().
+[2023-02-18 21:10:53] => La clase, ContactController, existe y se va a cargar.
+[2023-02-18 21:10:53] => Funcion spl_autoload_register(ContactController).
+[2023-02-18 21:10:53] => !!!! OJO CUANDO SE HAYA HECHO EL SANITIZE !!!!
+[2023-02-18 21:10:53] => !!!! SANITIZE !!!!
+[2023-02-18 21:10:53] => Metodo FrontController::dispatch().
+[2023-02-18 21:10:53] => La clase, FrontController, existe y se va a cargar.
+[2023-02-18 21:10:53] => Funcion spl_autoload_register(FrontController).
+[2023-02-18 21:10:53] => Llamada a FrontController::dispatch().
+[2023-02-18 21:10:53] => ## Nueva Carga ##
+
+[2023-02-18 21:10:46] => ## Fin de Carga ##
+[2023-02-18 21:10:46] => Carga de main.css.
+[2023-02-18 21:10:46] => Carga de CSS.
+[2023-02-18 21:10:46] => Carga de JS.
+[2023-02-18 21:10:46] => Metodo ContactVew->show().
+[2023-02-18 21:10:46] => Metodo MenuController::getMenu().
+[2023-02-18 21:10:46] => La clase, MenuController, existe y se va a cargar.
+[2023-02-18 21:10:46] => Funcion spl_autoload_register(MenuController).
+[2023-02-18 21:10:46] => Llamada a MenuController::getMenu().
+[2023-02-18 21:10:46] => Metodo LangController::getLang().
+[2023-02-18 21:10:46] => La clase, LangController, existe y se va a cargar.
+[2023-02-18 21:10:46] => Funcion spl_autoload_register(LangController).
+[2023-02-18 21:10:46] => Llamada a LangController::getLang().
+[2023-02-18 21:10:46] => Metodo View::__construct().
+[2023-02-18 21:10:46] => Llamada a View::__construct().
+[2023-02-18 21:10:46] => Metodo ContactView::__construct().
+[2023-02-18 21:10:46] => La clase, View, existe y se va a cargar.
+[2023-02-18 21:10:46] => Funcion spl_autoload_register(View).
+[2023-02-18 21:10:46] => La clase, ContactView, existe y se va a cargar.
+[2023-02-18 21:10:46] => Funcion spl_autoload_register(ContactView).
+[2023-02-18 21:10:46] => Llamada a ContactView->show().
+[2023-02-18 21:10:46] => Metodo ContactController::show().
+[2023-02-18 21:10:46] => La clase, ContactController, existe y se va a cargar.
+[2023-02-18 21:10:46] => Funcion spl_autoload_register(ContactController).
+[2023-02-18 21:10:46] => !!!! OJO CUANDO SE HAYA HECHO EL SANITIZE !!!!
+[2023-02-18 21:10:46] => !!!! SANITIZE !!!!
+[2023-02-18 21:10:46] => Metodo FrontController::dispatch().
+[2023-02-18 21:10:46] => La clase, FrontController, existe y se va a cargar.
+[2023-02-18 21:10:46] => Funcion spl_autoload_register(FrontController).
+[2023-02-18 21:10:46] => Llamada a FrontController::dispatch().
+[2023-02-18 21:10:46] => ## Nueva Carga ##
+
+[2023-02-18 21:05:14] => ## Fin de Carga ##
+[2023-02-18 21:05:14] => Carga de main.css.
+[2023-02-18 21:05:14] => Carga de CSS.
+[2023-02-18 21:05:14] => Carga de JS.
+[2023-02-18 21:05:14] => Metodo ContactVew->show().
+[2023-02-18 21:05:14] => Metodo MenuController::getMenu().
+[2023-02-18 21:05:14] => La clase, MenuController, existe y se va a cargar.
+[2023-02-18 21:05:14] => Funcion spl_autoload_register(MenuController).
+[2023-02-18 21:05:14] => Llamada a MenuController::getMenu().
+[2023-02-18 21:05:14] => Metodo LangController::getLang().
+[2023-02-18 21:05:14] => La clase, LangController, existe y se va a cargar.
+[2023-02-18 21:05:14] => Funcion spl_autoload_register(LangController).
+[2023-02-18 21:05:14] => Llamada a LangController::getLang().
+[2023-02-18 21:05:14] => Metodo View::__construct().
+[2023-02-18 21:05:14] => Llamada a View::__construct().
+[2023-02-18 21:05:14] => Metodo ContactView::__construct().
+[2023-02-18 21:05:14] => La clase, View, existe y se va a cargar.
+[2023-02-18 21:05:14] => Funcion spl_autoload_register(View).
+[2023-02-18 21:05:14] => La clase, ContactView, existe y se va a cargar.
+[2023-02-18 21:05:14] => Funcion spl_autoload_register(ContactView).
+[2023-02-18 21:05:14] => Llamada a ContactView->show().
+[2023-02-18 21:05:14] => Metodo ContactController::show().
+[2023-02-18 21:05:14] => La clase, ContactController, existe y se va a cargar.
+[2023-02-18 21:05:14] => Funcion spl_autoload_register(ContactController).
+[2023-02-18 21:05:14] => !!!! OJO CUANDO SE HAYA HECHO EL SANITIZE !!!!
+[2023-02-18 21:05:14] => !!!! SANITIZE !!!!
+[2023-02-18 21:05:14] => Metodo FrontController::dispatch().
+[2023-02-18 21:05:14] => La clase, FrontController, existe y se va a cargar.
+[2023-02-18 21:05:14] => Funcion spl_autoload_register(FrontController).
+[2023-02-18 21:05:14] => Llamada a FrontController::dispatch().
+[2023-02-18 21:05:14] => ## Nueva Carga ##
+
+[2023-02-18 21:05:07] => ## Fin de Carga ##
+[2023-02-18 21:05:07] => Carga de main.css.
+[2023-02-18 21:05:07] => Carga de CSS.
+[2023-02-18 21:05:07] => Carga de JS.
+[2023-02-18 21:05:07] => Metodo ErrorView->show(Ha habido una llegada con parametros no controlados.).
+[2023-02-18 21:05:07] => Metodo MenuController::getMenu().
+[2023-02-18 21:05:07] => La clase, MenuController, existe y se va a cargar.
+[2023-02-18 21:05:07] => Funcion spl_autoload_register(MenuController).
+[2023-02-18 21:05:07] => Llamada a MenuController::getMenu().
+[2023-02-18 21:05:07] => Metodo LangController::getLang().
+[2023-02-18 21:05:07] => La clase, LangController, existe y se va a cargar.
+[2023-02-18 21:05:07] => Funcion spl_autoload_register(LangController).
+[2023-02-18 21:05:07] => Llamada a LangController::getLang().
+[2023-02-18 21:05:07] => Metodo View::__construct().
+[2023-02-18 21:05:07] => Llamada a View::__construct().
+[2023-02-18 21:05:07] => Metodo ErrorView::__construct().
+[2023-02-18 21:05:07] => La clase, View, existe y se va a cargar.
+[2023-02-18 21:05:07] => Funcion spl_autoload_register(View).
+[2023-02-18 21:05:07] => La clase, ErrorView, existe y se va a cargar.
+[2023-02-18 21:05:07] => Funcion spl_autoload_register(ErrorView).
+[2023-02-18 21:05:07] => Llamanda a ErrorView->show(Ha habido una llegada con parametros no controlados.)
+[2023-02-18 21:05:07] => Algo ha fallado y se ha recogido una Excepcion: Ha habido una llegada con parametros no controlados.
+[2023-02-18 21:05:07] => Metodo FrontController::dispatch().
+[2023-02-18 21:05:07] => La clase, FrontController, existe y se va a cargar.
+[2023-02-18 21:05:07] => Funcion spl_autoload_register(FrontController).
+[2023-02-18 21:05:07] => Llamada a FrontController::dispatch().
+[2023-02-18 21:05:07] => ## Nueva Carga ##
+
+[2023-02-18 21:05:02] => ## Fin de Carga ##
+[2023-02-18 21:05:02] => Carga de main.css.
+[2023-02-18 21:05:02] => Carga de CSS.
+[2023-02-18 21:05:02] => Carga de JS.
+[2023-02-18 21:05:02] => Metodo ContactVew->show().
+[2023-02-18 21:05:02] => Metodo MenuController::getMenu().
+[2023-02-18 21:05:02] => La clase, MenuController, existe y se va a cargar.
+[2023-02-18 21:05:02] => Funcion spl_autoload_register(MenuController).
+[2023-02-18 21:05:02] => Llamada a MenuController::getMenu().
+[2023-02-18 21:05:02] => Metodo LangController::getLang().
+[2023-02-18 21:05:02] => La clase, LangController, existe y se va a cargar.
+[2023-02-18 21:05:02] => Funcion spl_autoload_register(LangController).
+[2023-02-18 21:05:02] => Llamada a LangController::getLang().
+[2023-02-18 21:05:02] => Metodo View::__construct().
+[2023-02-18 21:05:02] => Llamada a View::__construct().
+[2023-02-18 21:05:02] => Metodo ContactView::__construct().
+[2023-02-18 21:05:02] => La clase, View, existe y se va a cargar.
+[2023-02-18 21:05:02] => Funcion spl_autoload_register(View).
+[2023-02-18 21:05:02] => La clase, ContactView, existe y se va a cargar.
+[2023-02-18 21:05:02] => Funcion spl_autoload_register(ContactView).
+[2023-02-18 21:05:02] => Llamada a ContactView->show().
+[2023-02-18 21:05:02] => Metodo ContactController::show().
+[2023-02-18 21:05:02] => La clase, ContactController, existe y se va a cargar.
+[2023-02-18 21:05:02] => Funcion spl_autoload_register(ContactController).
+[2023-02-18 21:05:02] => !!!! OJO CUANDO SE HAYA HECHO EL SANITIZE !!!!
+[2023-02-18 21:05:02] => !!!! SANITIZE !!!!
+[2023-02-18 21:05:02] => Metodo FrontController::dispatch().
+[2023-02-18 21:05:02] => La clase, FrontController, existe y se va a cargar.
+[2023-02-18 21:05:02] => Funcion spl_autoload_register(FrontController).
+[2023-02-18 21:05:02] => Llamada a FrontController::dispatch().
+[2023-02-18 21:05:02] => ## Nueva Carga ##
+
+[2023-02-18 21:04:51] => ## Fin de Carga ##
+[2023-02-18 21:04:51] => Carga de main.css.
+[2023-02-18 21:04:51] => Carga de CSS.
+[2023-02-18 21:04:51] => Carga de JS.
+[2023-02-18 21:04:51] => Metodo ContactVew->show().
+[2023-02-18 21:04:51] => Metodo MenuController::getMenu().
+[2023-02-18 21:04:51] => La clase, MenuController, existe y se va a cargar.
+[2023-02-18 21:04:51] => Funcion spl_autoload_register(MenuController).
+[2023-02-18 21:04:51] => Llamada a MenuController::getMenu().
+[2023-02-18 21:04:51] => Metodo LangController::getLang().
+[2023-02-18 21:04:51] => La clase, LangController, existe y se va a cargar.
+[2023-02-18 21:04:51] => Funcion spl_autoload_register(LangController).
+[2023-02-18 21:04:51] => Llamada a LangController::getLang().
+[2023-02-18 21:04:51] => Metodo View::__construct().
+[2023-02-18 21:04:51] => Llamada a View::__construct().
+[2023-02-18 21:04:51] => Metodo ContactView::__construct().
+[2023-02-18 21:04:51] => La clase, View, existe y se va a cargar.
+[2023-02-18 21:04:51] => Funcion spl_autoload_register(View).
+[2023-02-18 21:04:51] => La clase, ContactView, existe y se va a cargar.
+[2023-02-18 21:04:51] => Funcion spl_autoload_register(ContactView).
+[2023-02-18 21:04:51] => Llamada a ContactView->show().
+[2023-02-18 21:04:51] => Metodo ContactController::show().
+[2023-02-18 21:04:51] => La clase, ContactController, existe y se va a cargar.
+[2023-02-18 21:04:51] => Funcion spl_autoload_register(ContactController).
+[2023-02-18 21:04:51] => !!!! OJO CUANDO SE HAYA HECHO EL SANITIZE !!!!
+[2023-02-18 21:04:51] => !!!! SANITIZE !!!!
+[2023-02-18 21:04:51] => Metodo FrontController::dispatch().
+[2023-02-18 21:04:51] => La clase, FrontController, existe y se va a cargar.
+[2023-02-18 21:04:51] => Funcion spl_autoload_register(FrontController).
+[2023-02-18 21:04:51] => Llamada a FrontController::dispatch().
+[2023-02-18 21:04:51] => ## Nueva Carga ##
+
+[2023-02-18 21:04:27] => ## Fin de Carga ##
+[2023-02-18 21:04:26] => Carga de main.css.
+[2023-02-18 21:04:26] => Carga de CSS.
+[2023-02-18 21:04:26] => Carga de JS.
+[2023-02-18 21:04:26] => Metodo ContactVew->show().
+[2023-02-18 21:04:26] => Metodo MenuController::getMenu().
+[2023-02-18 21:04:26] => La clase, MenuController, existe y se va a cargar.
+[2023-02-18 21:04:26] => Funcion spl_autoload_register(MenuController).
+[2023-02-18 21:04:26] => Llamada a MenuController::getMenu().
+[2023-02-18 21:04:26] => Metodo LangController::getLang().
+[2023-02-18 21:04:26] => La clase, LangController, existe y se va a cargar.
+[2023-02-18 21:04:26] => Funcion spl_autoload_register(LangController).
+[2023-02-18 21:04:26] => Llamada a LangController::getLang().
+[2023-02-18 21:04:26] => Metodo View::__construct().
+[2023-02-18 21:04:26] => Llamada a View::__construct().
+[2023-02-18 21:04:26] => Metodo ContactView::__construct().
+[2023-02-18 21:04:26] => La clase, View, existe y se va a cargar.
+[2023-02-18 21:04:26] => Funcion spl_autoload_register(View).
+[2023-02-18 21:04:26] => La clase, ContactView, existe y se va a cargar.
+[2023-02-18 21:04:26] => Funcion spl_autoload_register(ContactView).
+[2023-02-18 21:04:26] => Llamada a ContactView->show().
+[2023-02-18 21:04:26] => Metodo ContactController::show().
+[2023-02-18 21:04:26] => La clase, ContactController, existe y se va a cargar.
+[2023-02-18 21:04:26] => Funcion spl_autoload_register(ContactController).
+[2023-02-18 21:04:26] => !!!! OJO CUANDO SE HAYA HECHO EL SANITIZE !!!!
+[2023-02-18 21:04:26] => !!!! SANITIZE !!!!
+[2023-02-18 21:04:26] => Metodo FrontController::dispatch().
+[2023-02-18 21:04:26] => La clase, FrontController, existe y se va a cargar.
+[2023-02-18 21:04:26] => Funcion spl_autoload_register(FrontController).
+[2023-02-18 21:04:26] => Llamada a FrontController::dispatch().
+[2023-02-18 21:04:26] => ## Nueva Carga ##
+
+[2023-02-18 21:04:24] => ## Fin de Carga ##
+[2023-02-18 21:04:24] => Carga de main.css.
+[2023-02-18 21:04:24] => Carga de CSS.
+[2023-02-18 21:04:24] => Carga de JS.
+[2023-02-18 21:04:24] => Metodo ContactVew->show().
+[2023-02-18 21:04:24] => Metodo MenuController::getMenu().
+[2023-02-18 21:04:24] => La clase, MenuController, existe y se va a cargar.
+[2023-02-18 21:04:24] => Funcion spl_autoload_register(MenuController).
+[2023-02-18 21:04:24] => Llamada a MenuController::getMenu().
+[2023-02-18 21:04:24] => Metodo LangController::getLang().
+[2023-02-18 21:04:24] => La clase, LangController, existe y se va a cargar.
+[2023-02-18 21:04:24] => Funcion spl_autoload_register(LangController).
+[2023-02-18 21:04:24] => Llamada a LangController::getLang().
+[2023-02-18 21:04:24] => Metodo View::__construct().
+[2023-02-18 21:04:24] => Llamada a View::__construct().
+[2023-02-18 21:04:24] => Metodo ContactView::__construct().
+[2023-02-18 21:04:24] => La clase, View, existe y se va a cargar.
+[2023-02-18 21:04:24] => Funcion spl_autoload_register(View).
+[2023-02-18 21:04:24] => La clase, ContactView, existe y se va a cargar.
+[2023-02-18 21:04:24] => Funcion spl_autoload_register(ContactView).
+[2023-02-18 21:04:24] => Llamada a ContactView->show().
+[2023-02-18 21:04:24] => Metodo ContactController::show().
+[2023-02-18 21:04:24] => La clase, ContactController, existe y se va a cargar.
+[2023-02-18 21:04:24] => Funcion spl_autoload_register(ContactController).
+[2023-02-18 21:04:24] => !!!! OJO CUANDO SE HAYA HECHO EL SANITIZE !!!!
+[2023-02-18 21:04:24] => !!!! SANITIZE !!!!
+[2023-02-18 21:04:24] => Metodo FrontController::dispatch().
+[2023-02-18 21:04:24] => La clase, FrontController, existe y se va a cargar.
+[2023-02-18 21:04:24] => Funcion spl_autoload_register(FrontController).
+[2023-02-18 21:04:24] => Llamada a FrontController::dispatch().
+[2023-02-18 21:04:24] => ## Nueva Carga ##
+
+[2023-02-18 21:04:23] => ## Fin de Carga ##
+[2023-02-18 21:04:23] => Carga de home.css.
+[2023-02-18 21:04:23] => Carga de main.css.
+[2023-02-18 21:04:23] => Carga de CSS.
+[2023-02-18 21:04:23] => Carga de JS.
+[2023-02-18 21:04:23] => Metodo HomeVew->show(<div><h4>V 0.6</h4><p>Inauguramos la nueva versión de la web, nada que ver con que fallara en cascada estrepitosamente y tuviera que reempezar por 6 vez.</p></div>, <div>
+                        <h4>Formulario de contacto</h4>
+                        <a href="?contact/show">
+                            Ver más
+                        </a>
+                    </div><div>
+                        <h4>Formulario de registro</h4>
+                        <a href="">
+                            Ver más
+                        </a>
+                    </div><div>
+                        <h4>Formulario de registro e inicio de sesión.</h4>
+                        <a href="">
+                            Ver más
+                        </a>
+                    </div><div>
+                        <h4>Mantenimiento</h4>
+                        <a href="">
+                            Ver más
+                        </a>
+                    </div><div>
+                        <h4>Chat</h4>
+                        <a href="">
+                            Ver más
+                        </a>
+                    </div>).
+[2023-02-18 21:04:23] => Llamada a HomeView->show(<div><h4>V 0.6</h4><p>Inauguramos la nueva versión de la web, nada que ver con que fallara en cascada estrepitosamente y tuviera que reempezar por 6 vez.</p></div>, <div>
+                        <h4>Formulario de contacto</h4>
+                        <a href="?contact/show">
+                            Ver más
+                        </a>
+                    </div><div>
+                        <h4>Formulario de registro</h4>
+                        <a href="">
+                            Ver más
+                        </a>
+                    </div><div>
+                        <h4>Formulario de registro e inicio de sesión.</h4>
+                        <a href="">
+                            Ver más
+                        </a>
+                    </div><div>
+                        <h4>Mantenimiento</h4>
+                        <a href="">
+                            Ver más
+                        </a>
+                    </div><div>
+                        <h4>Chat</h4>
+                        <a href="">
+                            Ver más
+                        </a>
+                    </div>).
+[2023-02-18 21:04:23] => Metodo arrayFromPath(Array, lang.practics.7.ufs.2.exs.06).
+[2023-02-18 21:04:23] => Llamada a HomeController::arrayFromPath(Array, lang.practics.7.ufs.2.exs.06).
+[2023-02-18 21:04:23] => Metodo arrayFromPath(Array, lang.practics.7.ufs.2.exs.03).
+[2023-02-18 21:04:23] => Llamada a HomeController::arrayFromPath(Array, lang.practics.7.ufs.2.exs.03).
+[2023-02-18 21:04:23] => Metodo arrayFromPath(Array, lang.practics.7.ufs.2.exs.02).
+[2023-02-18 21:04:23] => Llamada a HomeController::arrayFromPath(Array, lang.practics.7.ufs.2.exs.02).
+[2023-02-18 21:04:23] => Metodo arrayFromPath(Array, lang.practics.7.ufs.1.exs.08).
+[2023-02-18 21:04:23] => Llamada a HomeController::arrayFromPath(Array, lang.practics.7.ufs.1.exs.08).
+[2023-02-18 21:04:23] => Metodo arrayFromPath(Array, lang.practics.7.ufs.1.exs.07).
+[2023-02-18 21:04:23] => Llamada a HomeController::arrayFromPath(Array, lang.practics.7.ufs.1.exs.07).
+[2023-02-18 21:04:23] => Metodo HomeController::getDestacados(HomeView).
+[2023-02-18 21:04:23] => Llamada a HomeController::getDestacados(HomeView).
+[2023-02-18 21:04:23] => Metodo HomeController::getNews(HomeView).
+[2023-02-18 21:04:23] => Llamada a HomceController::getNews(HomeView).
+[2023-02-18 21:04:23] => Metodo MenuController::getMenu().
+[2023-02-18 21:04:23] => La clase, MenuController, existe y se va a cargar.
+[2023-02-18 21:04:23] => Funcion spl_autoload_register(MenuController).
+[2023-02-18 21:04:23] => Llamada a MenuController::getMenu().
+[2023-02-18 21:04:23] => Metodo LangController::getLang().
+[2023-02-18 21:04:23] => La clase, LangController, existe y se va a cargar.
+[2023-02-18 21:04:23] => Funcion spl_autoload_register(LangController).
+[2023-02-18 21:04:23] => Llamada a LangController::getLang().
+[2023-02-18 21:04:23] => Metodo View::__construct().
+[2023-02-18 21:04:23] => Llamada a View::__construct().
+[2023-02-18 21:04:23] => Metodo HomeView::__construct().
+[2023-02-18 21:04:22] => La clase, View, existe y se va a cargar.
+[2023-02-18 21:04:22] => Funcion spl_autoload_register(View).
+[2023-02-18 21:04:22] => La clase, HomeView, existe y se va a cargar.
+[2023-02-18 21:04:22] => Funcion spl_autoload_register(HomeView).
+[2023-02-18 21:04:22] => Metodo HomeController::show().
+[2023-02-18 21:04:22] => La clase, HomeController, existe y se va a cargar.
+[2023-02-18 21:04:22] => Funcion spl_autoload_register(HomeController).
+[2023-02-18 21:04:22] => Metodo FrontController::dispatch().
+[2023-02-18 21:04:22] => La clase, FrontController, existe y se va a cargar.
+[2023-02-18 21:04:22] => Funcion spl_autoload_register(FrontController).
+[2023-02-18 21:04:22] => Llamada a FrontController::dispatch().
+[2023-02-18 21:04:22] => ## Nueva Carga ##
+
+[2023-02-18 21:04:21] => ## Fin de Carga ##
+[2023-02-18 21:04:21] => Carga de main.css.
+[2023-02-18 21:04:21] => Carga de CSS.
+[2023-02-18 21:04:20] => Carga de JS.
+[2023-02-18 21:04:20] => Metodo ContactVew->show().
+[2023-02-18 21:04:20] => Metodo MenuController::getMenu().
+[2023-02-18 21:04:20] => La clase, MenuController, existe y se va a cargar.
+[2023-02-18 21:04:20] => Funcion spl_autoload_register(MenuController).
+[2023-02-18 21:04:20] => Llamada a MenuController::getMenu().
+[2023-02-18 21:04:20] => Metodo LangController::getLang().
+[2023-02-18 21:04:20] => La clase, LangController, existe y se va a cargar.
+[2023-02-18 21:04:20] => Funcion spl_autoload_register(LangController).
+[2023-02-18 21:04:20] => Llamada a LangController::getLang().
+[2023-02-18 21:04:20] => Metodo View::__construct().
+[2023-02-18 21:04:20] => Llamada a View::__construct().
+[2023-02-18 21:04:20] => Metodo ContactView::__construct().
+[2023-02-18 21:04:20] => La clase, View, existe y se va a cargar.
+[2023-02-18 21:04:20] => Funcion spl_autoload_register(View).
+[2023-02-18 21:04:20] => La clase, ContactView, existe y se va a cargar.
+[2023-02-18 21:04:20] => Funcion spl_autoload_register(ContactView).
+[2023-02-18 21:04:20] => Llamada a ContactView->show().
+[2023-02-18 21:04:20] => Metodo ContactController::show().
+[2023-02-18 21:04:20] => La clase, ContactController, existe y se va a cargar.
+[2023-02-18 21:04:20] => Funcion spl_autoload_register(ContactController).
+[2023-02-18 21:04:20] => !!!! OJO CUANDO SE HAYA HECHO EL SANITIZE !!!!
+[2023-02-18 21:04:20] => !!!! SANITIZE !!!!
+[2023-02-18 21:04:20] => Metodo FrontController::dispatch().
+[2023-02-18 21:04:20] => La clase, FrontController, existe y se va a cargar.
+[2023-02-18 21:04:20] => Funcion spl_autoload_register(FrontController).
+[2023-02-18 21:04:20] => Llamada a FrontController::dispatch().
+[2023-02-18 21:04:20] => ## Nueva Carga ##
+
+[2023-02-18 21:04:19] => ## Fin de Carga ##
+[2023-02-18 21:04:19] => Carga de main.css.
+[2023-02-18 21:04:19] => Carga de CSS.
+[2023-02-18 21:04:19] => Carga de JS.
+[2023-02-18 21:04:19] => Metodo ContactVew->show().
+[2023-02-18 21:04:19] => Metodo MenuController::getMenu().
+[2023-02-18 21:04:19] => La clase, MenuController, existe y se va a cargar.
+[2023-02-18 21:04:19] => Funcion spl_autoload_register(MenuController).
+[2023-02-18 21:04:19] => Llamada a MenuController::getMenu().
+[2023-02-18 21:04:19] => Metodo LangController::getLang().
+[2023-02-18 21:04:19] => La clase, LangController, existe y se va a cargar.
+[2023-02-18 21:04:19] => Funcion spl_autoload_register(LangController).
+[2023-02-18 21:04:19] => Llamada a LangController::getLang().
+[2023-02-18 21:04:19] => Metodo View::__construct().
+[2023-02-18 21:04:19] => Llamada a View::__construct().
+[2023-02-18 21:04:19] => Metodo ContactView::__construct().
+[2023-02-18 21:04:19] => La clase, View, existe y se va a cargar.
+[2023-02-18 21:04:19] => Funcion spl_autoload_register(View).
+[2023-02-18 21:04:19] => La clase, ContactView, existe y se va a cargar.
+[2023-02-18 21:04:19] => Funcion spl_autoload_register(ContactView).
+[2023-02-18 21:04:19] => Llamada a ContactView->show().
+[2023-02-18 21:04:19] => Metodo ContactController::show().
+[2023-02-18 21:04:19] => La clase, ContactController, existe y se va a cargar.
+[2023-02-18 21:04:19] => Funcion spl_autoload_register(ContactController).
+[2023-02-18 21:04:19] => !!!! OJO CUANDO SE HAYA HECHO EL SANITIZE !!!!
+[2023-02-18 21:04:19] => !!!! SANITIZE !!!!
+[2023-02-18 21:04:19] => Metodo FrontController::dispatch().
+[2023-02-18 21:04:19] => La clase, FrontController, existe y se va a cargar.
+[2023-02-18 21:04:19] => Funcion spl_autoload_register(FrontController).
+[2023-02-18 21:04:19] => Llamada a FrontController::dispatch().
+[2023-02-18 21:04:19] => ## Nueva Carga ##
+
+[2023-02-18 21:03:59] => ## Fin de Carga ##
+[2023-02-18 21:03:59] => Carga de main.css.
+[2023-02-18 21:03:59] => Carga de CSS.
+[2023-02-18 21:03:59] => Carga de JS.
+[2023-02-18 21:03:59] => Metodo ContactVew->show().
+[2023-02-18 21:03:59] => Metodo MenuController::getMenu().
+[2023-02-18 21:03:59] => La clase, MenuController, existe y se va a cargar.
+[2023-02-18 21:03:59] => Funcion spl_autoload_register(MenuController).
+[2023-02-18 21:03:59] => Llamada a MenuController::getMenu().
+[2023-02-18 21:03:59] => Metodo LangController::getLang().
+[2023-02-18 21:03:59] => La clase, LangController, existe y se va a cargar.
+[2023-02-18 21:03:59] => Funcion spl_autoload_register(LangController).
+[2023-02-18 21:03:59] => Llamada a LangController::getLang().
+[2023-02-18 21:03:59] => Metodo View::__construct().
+[2023-02-18 21:03:59] => Llamada a View::__construct().
+[2023-02-18 21:03:59] => Metodo ContactView::__construct().
+[2023-02-18 21:03:59] => La clase, View, existe y se va a cargar.
+[2023-02-18 21:03:59] => Funcion spl_autoload_register(View).
+[2023-02-18 21:03:59] => La clase, ContactView, existe y se va a cargar.
+[2023-02-18 21:03:59] => Funcion spl_autoload_register(ContactView).
+[2023-02-18 21:03:59] => Llamada a ContactView->show().
+[2023-02-18 21:03:59] => Metodo ContactController::show().
+[2023-02-18 21:03:59] => La clase, ContactController, existe y se va a cargar.
+[2023-02-18 21:03:59] => Funcion spl_autoload_register(ContactController).
+[2023-02-18 21:03:59] => !!!! OJO CUANDO SE HAYA HECHO EL SANITIZE !!!!
+[2023-02-18 21:03:59] => !!!! SANITIZE !!!!
+[2023-02-18 21:03:59] => Metodo FrontController::dispatch().
+[2023-02-18 21:03:59] => La clase, FrontController, existe y se va a cargar.
+[2023-02-18 21:03:59] => Funcion spl_autoload_register(FrontController).
+[2023-02-18 21:03:59] => Llamada a FrontController::dispatch().
+[2023-02-18 21:03:59] => ## Nueva Carga ##
+
+[2023-02-18 20:42:21] => ## Fin de Carga ##
+[2023-02-18 20:42:21] => Carga de main.css.
+[2023-02-18 20:42:21] => Carga de CSS.
+[2023-02-18 20:42:21] => Carga de JS.
+[2023-02-18 20:42:21] => Metodo ContactVew->show().
+[2023-02-18 20:42:21] => Metodo MenuController::getMenu().
+[2023-02-18 20:42:21] => La clase, MenuController, existe y se va a cargar.
+[2023-02-18 20:42:21] => Funcion spl_autoload_register(MenuController).
+[2023-02-18 20:42:21] => Llamada a MenuController::getMenu().
+[2023-02-18 20:42:21] => Metodo LangController::getLang().
+[2023-02-18 20:42:21] => La clase, LangController, existe y se va a cargar.
+[2023-02-18 20:42:21] => Funcion spl_autoload_register(LangController).
+[2023-02-18 20:42:21] => Llamada a LangController::getLang().
+[2023-02-18 20:42:21] => Metodo View::__construct().
+[2023-02-18 20:42:21] => Llamada a View::__construct().
+[2023-02-18 20:42:21] => Metodo ContactView::__construct().
+[2023-02-18 20:42:21] => La clase, View, existe y se va a cargar.
+[2023-02-18 20:42:21] => Funcion spl_autoload_register(View).
+[2023-02-18 20:42:21] => La clase, ContactView, existe y se va a cargar.
+[2023-02-18 20:42:21] => Funcion spl_autoload_register(ContactView).
+[2023-02-18 20:42:21] => Llamada a ContactView->show().
+[2023-02-18 20:42:21] => Metodo ContactController::show().
+[2023-02-18 20:42:21] => La clase, ContactController, existe y se va a cargar.
+[2023-02-18 20:42:21] => Funcion spl_autoload_register(ContactController).
+[2023-02-18 20:42:21] => !!!! OJO CUANDO SE HAYA HECHO EL SANITIZE !!!!
+[2023-02-18 20:42:21] => !!!! SANITIZE !!!!
+[2023-02-18 20:42:21] => Metodo FrontController::dispatch().
+[2023-02-18 20:42:21] => La clase, FrontController, existe y se va a cargar.
+[2023-02-18 20:42:21] => Funcion spl_autoload_register(FrontController).
+[2023-02-18 20:42:21] => Llamada a FrontController::dispatch().
+[2023-02-18 20:42:21] => ## Nueva Carga ##
+[2023-02-18 20:42:01] => Carga de main.css.
+[2023-02-18 20:42:01] => Carga de CSS.
+[2023-02-18 20:42:01] => Carga de JS.
+[2023-02-18 20:42:01] => Metodo ContactVew->show().
+[2023-02-18 20:42:01] => Metodo MenuController::getMenu().
+[2023-02-18 20:42:01] => La clase, MenuController, existe y se va a cargar.
+[2023-02-18 20:42:01] => Funcion spl_autoload_register(MenuController).
+[2023-02-18 20:42:01] => Llamada a MenuController::getMenu().
+[2023-02-18 20:42:01] => Metodo LangController::getLang().
+[2023-02-18 20:42:01] => La clase, LangController, existe y se va a cargar.
+[2023-02-18 20:42:01] => Funcion spl_autoload_register(LangController).
+[2023-02-18 20:42:01] => Llamada a LangController::getLang().
+[2023-02-18 20:42:01] => Metodo View::__construct().
+[2023-02-18 20:42:01] => Llamada a View::__construct().
+[2023-02-18 20:42:01] => Metodo ContactView::__construct().
+[2023-02-18 20:42:01] => La clase, View, existe y se va a cargar.
+[2023-02-18 20:42:01] => Funcion spl_autoload_register(View).
+[2023-02-18 20:42:01] => La clase, ContactView, existe y se va a cargar.
+[2023-02-18 20:42:01] => Funcion spl_autoload_register(ContactView).
+[2023-02-18 20:42:01] => Llamada a ContactView->show().
+[2023-02-18 20:42:01] => Metodo ContactController::show().
+[2023-02-18 20:42:01] => La clase, ContactController, existe y se va a cargar.
+[2023-02-18 20:42:01] => Funcion spl_autoload_register(ContactController).
+[2023-02-18 20:42:01] => !!!! OJO CUANDO SE HAYA HECHO EL SANITIZE !!!!
+[2023-02-18 20:42:01] => !!!! SANITIZE !!!!
+[2023-02-18 20:42:01] => Metodo FrontController::dispatch().
+[2023-02-18 20:42:01] => La clase, FrontController, existe y se va a cargar.
+[2023-02-18 20:42:01] => Funcion spl_autoload_register(FrontController).
+[2023-02-18 20:42:01] => Llamada a FrontController::dispatch().
+[2023-02-18 20:42:01] => ## Nueva Carga ##
+
+[2023-02-18 20:41:32] => ## Fin de Carga ##
+[2023-02-18 20:41:32] => Metodo MenuController::getMenu().
+[2023-02-18 20:41:32] => La clase, MenuController, existe y se va a cargar.
+[2023-02-18 20:41:32] => Funcion spl_autoload_register(MenuController).
+[2023-02-18 20:41:32] => Llamada a MenuController::getMenu().
+[2023-02-18 20:41:32] => Metodo LangController::getLang().
+[2023-02-18 20:41:32] => La clase, LangController, existe y se va a cargar.
+[2023-02-18 20:41:32] => Funcion spl_autoload_register(LangController).
+[2023-02-18 20:41:32] => Llamada a LangController::getLang().
+[2023-02-18 20:41:32] => Metodo View::__construct().
+[2023-02-18 20:41:32] => Llamada a View::__construct().
+[2023-02-18 20:41:32] => Metodo ContactView::__construct().
+[2023-02-18 20:41:32] => La clase, View, existe y se va a cargar.
+[2023-02-18 20:41:32] => Funcion spl_autoload_register(View).
+[2023-02-18 20:41:32] => La clase, ContactView, existe y se va a cargar.
+[2023-02-18 20:41:32] => Funcion spl_autoload_register(ContactView).
+[2023-02-18 20:41:32] => Llamada a ContactView->show().
+[2023-02-18 20:41:32] => Metodo ContactController::show().
+[2023-02-18 20:41:32] => La clase, ContactController, existe y se va a cargar.
+[2023-02-18 20:41:32] => Funcion spl_autoload_register(ContactController).
+[2023-02-18 20:41:32] => !!!! OJO CUANDO SE HAYA HECHO EL SANITIZE !!!!
+[2023-02-18 20:41:32] => !!!! SANITIZE !!!!
+[2023-02-18 20:41:32] => Metodo FrontController::dispatch().
+[2023-02-18 20:41:32] => La clase, FrontController, existe y se va a cargar.
+[2023-02-18 20:41:32] => Funcion spl_autoload_register(FrontController).
+[2023-02-18 20:41:32] => Llamada a FrontController::dispatch().
+[2023-02-18 20:41:32] => ## Nueva Carga ##
+
+[2023-02-18 20:41:16] => ## Fin de Carga ##
+[2023-02-18 20:41:16] => Metodo MenuController::getMenu().
+[2023-02-18 20:41:16] => La clase, MenuController, existe y se va a cargar.
+[2023-02-18 20:41:16] => Funcion spl_autoload_register(MenuController).
+[2023-02-18 20:41:16] => Llamada a MenuController::getMenu().
+[2023-02-18 20:41:16] => Metodo LangController::getLang().
+[2023-02-18 20:41:16] => La clase, LangController, existe y se va a cargar.
+[2023-02-18 20:41:16] => Funcion spl_autoload_register(LangController).
+[2023-02-18 20:41:16] => Llamada a LangController::getLang().
+[2023-02-18 20:41:16] => Metodo View::__construct().
+[2023-02-18 20:41:16] => Llamada a View::__construct().
+[2023-02-18 20:41:16] => Metodo ContactView::__construct().
+[2023-02-18 20:41:16] => La clase, View, existe y se va a cargar.
+[2023-02-18 20:41:16] => Funcion spl_autoload_register(View).
+[2023-02-18 20:41:16] => La clase, ContactView, existe y se va a cargar.
+[2023-02-18 20:41:16] => Funcion spl_autoload_register(ContactView).
+[2023-02-18 20:41:16] => Llamada a ContactView->show().
+[2023-02-18 20:41:16] => Metodo ContactController::show().
+[2023-02-18 20:41:16] => La clase, ContactController, existe y se va a cargar.
+[2023-02-18 20:41:16] => Funcion spl_autoload_register(ContactController).
+[2023-02-18 20:41:16] => !!!! OJO CUANDO SE HAYA HECHO EL SANITIZE !!!!
+[2023-02-18 20:41:16] => !!!! SANITIZE !!!!
+[2023-02-18 20:41:16] => Metodo FrontController::dispatch().
+[2023-02-18 20:41:16] => La clase, FrontController, existe y se va a cargar.
+[2023-02-18 20:41:16] => Funcion spl_autoload_register(FrontController).
+[2023-02-18 20:41:16] => Llamada a FrontController::dispatch().
+[2023-02-18 20:41:16] => ## Nueva Carga ##
+
+[2023-02-18 20:41:07] => ## Fin de Carga ##
+[2023-02-18 20:41:07] => Metodo MenuController::getMenu().
+[2023-02-18 20:41:07] => La clase, MenuController, existe y se va a cargar.
+[2023-02-18 20:41:07] => Funcion spl_autoload_register(MenuController).
+[2023-02-18 20:41:07] => Llamada a MenuController::getMenu().
+[2023-02-18 20:41:07] => Metodo LangController::getLang().
+[2023-02-18 20:41:07] => La clase, LangController, existe y se va a cargar.
+[2023-02-18 20:41:07] => Funcion spl_autoload_register(LangController).
+[2023-02-18 20:41:07] => Llamada a LangController::getLang().
+[2023-02-18 20:41:07] => Metodo View::__construct().
+[2023-02-18 20:41:07] => Llamada a View::__construct().
+[2023-02-18 20:41:07] => Metodo ContactView::__construct().
+[2023-02-18 20:41:07] => La clase, View, existe y se va a cargar.
+[2023-02-18 20:41:07] => Funcion spl_autoload_register(View).
+[2023-02-18 20:41:07] => La clase, ContactView, existe y se va a cargar.
+[2023-02-18 20:41:07] => Funcion spl_autoload_register(ContactView).
+[2023-02-18 20:41:07] => Llamada a ContactView->show().
+[2023-02-18 20:41:07] => Metodo ContactController::show().
+[2023-02-18 20:41:07] => La clase, ContactController, existe y se va a cargar.
+[2023-02-18 20:41:07] => Funcion spl_autoload_register(ContactController).
+[2023-02-18 20:41:07] => !!!! OJO CUANDO SE HAYA HECHO EL SANITIZE !!!!
+[2023-02-18 20:41:07] => !!!! SANITIZE !!!!
+[2023-02-18 20:41:07] => Metodo FrontController::dispatch().
+[2023-02-18 20:41:07] => La clase, FrontController, existe y se va a cargar.
+[2023-02-18 20:41:07] => Funcion spl_autoload_register(FrontController).
+[2023-02-18 20:41:07] => Llamada a FrontController::dispatch().
+[2023-02-18 20:41:07] => ## Nueva Carga ##
+
+[2023-02-18 20:40:47] => ## Fin de Carga ##
+[2023-02-18 20:40:47] => Metodo MenuController::getMenu().
+[2023-02-18 20:40:47] => La clase, MenuController, existe y se va a cargar.
+[2023-02-18 20:40:47] => Funcion spl_autoload_register(MenuController).
+[2023-02-18 20:40:47] => Llamada a MenuController::getMenu().
+[2023-02-18 20:40:47] => Metodo LangController::getLang().
+[2023-02-18 20:40:47] => La clase, LangController, existe y se va a cargar.
+[2023-02-18 20:40:47] => Funcion spl_autoload_register(LangController).
+[2023-02-18 20:40:47] => Llamada a LangController::getLang().
+[2023-02-18 20:40:47] => Metodo View::__construct().
+[2023-02-18 20:40:47] => Llamada a View::__construct().
+[2023-02-18 20:40:47] => Metodo ContactView::__construct().
+[2023-02-18 20:40:47] => La clase, View, existe y se va a cargar.
+[2023-02-18 20:40:47] => Funcion spl_autoload_register(View).
+[2023-02-18 20:40:47] => La clase, ContactView, existe y se va a cargar.
+[2023-02-18 20:40:47] => Funcion spl_autoload_register(ContactView).
+[2023-02-18 20:40:47] => Llamada a ContactView->show().
+[2023-02-18 20:40:47] => Metodo ContactController::show().
+[2023-02-18 20:40:47] => La clase, ContactController, existe y se va a cargar.
+[2023-02-18 20:40:47] => Funcion spl_autoload_register(ContactController).
+[2023-02-18 20:40:47] => !!!! OJO CUANDO SE HAYA HECHO EL SANITIZE !!!!
+[2023-02-18 20:40:47] => !!!! SANITIZE !!!!
+[2023-02-18 20:40:47] => Metodo FrontController::dispatch().
+[2023-02-18 20:40:47] => La clase, FrontController, existe y se va a cargar.
+[2023-02-18 20:40:47] => Funcion spl_autoload_register(FrontController).
+[2023-02-18 20:40:47] => Llamada a FrontController::dispatch().
+[2023-02-18 20:40:47] => ## Nueva Carga ##
+
+[2023-02-18 20:40:42] => ## Fin de Carga ##
+[2023-02-18 20:40:42] => Metodo MenuController::getMenu().
+[2023-02-18 20:40:42] => La clase, MenuController, existe y se va a cargar.
+[2023-02-18 20:40:42] => Funcion spl_autoload_register(MenuController).
+[2023-02-18 20:40:42] => Llamada a MenuController::getMenu().
+[2023-02-18 20:40:42] => Metodo LangController::getLang().
+[2023-02-18 20:40:42] => La clase, LangController, existe y se va a cargar.
+[2023-02-18 20:40:42] => Funcion spl_autoload_register(LangController).
+[2023-02-18 20:40:42] => Llamada a LangController::getLang().
+[2023-02-18 20:40:42] => Metodo View::__construct().
+[2023-02-18 20:40:42] => Llamada a View::__construct().
+[2023-02-18 20:40:42] => Metodo ContactView::__construct().
+[2023-02-18 20:40:42] => La clase, View, existe y se va a cargar.
+[2023-02-18 20:40:42] => Funcion spl_autoload_register(View).
+[2023-02-18 20:40:42] => La clase, ContactView, existe y se va a cargar.
+[2023-02-18 20:40:42] => Funcion spl_autoload_register(ContactView).
+[2023-02-18 20:40:42] => Llamada a ContactView->show().
+[2023-02-18 20:40:42] => Metodo ContactController::show().
+[2023-02-18 20:40:42] => La clase, ContactController, existe y se va a cargar.
+[2023-02-18 20:40:42] => Funcion spl_autoload_register(ContactController).
+[2023-02-18 20:40:42] => !!!! OJO CUANDO SE HAYA HECHO EL SANITIZE !!!!
+[2023-02-18 20:40:42] => !!!! SANITIZE !!!!
+[2023-02-18 20:40:42] => Metodo FrontController::dispatch().
+[2023-02-18 20:40:42] => La clase, FrontController, existe y se va a cargar.
+[2023-02-18 20:40:42] => Funcion spl_autoload_register(FrontController).
+[2023-02-18 20:40:42] => Llamada a FrontController::dispatch().
+[2023-02-18 20:40:42] => ## Nueva Carga ##
+
+[2023-02-18 20:40:39] => ## Fin de Carga ##
+[2023-02-18 20:40:39] => Carga de home.css.
+[2023-02-18 20:40:39] => Carga de main.css.
+[2023-02-18 20:40:39] => Carga de CSS.
+[2023-02-18 20:40:39] => Carga de JS.
+[2023-02-18 20:40:39] => Metodo HomeVew->show(<div><h4>V 0.6</h4><p>Inauguramos la nueva versión de la web, nada que ver con que fallara en cascada estrepitosamente y tuviera que reempezar por 6 vez.</p></div>, <div>
+                        <h4>Formulario de contacto</h4>
+                        <a href="?contact/show">
+                            Ver más
+                        </a>
+                    </div><div>
+                        <h4>Formulario de registro</h4>
+                        <a href="">
+                            Ver más
+                        </a>
+                    </div><div>
+                        <h4>Formulario de registro e inicio de sesión.</h4>
+                        <a href="">
+                            Ver más
+                        </a>
+                    </div><div>
+                        <h4>Mantenimiento</h4>
+                        <a href="">
+                            Ver más
+                        </a>
+                    </div><div>
+                        <h4>Chat</h4>
+                        <a href="">
+                            Ver más
+                        </a>
+                    </div>).
+[2023-02-18 20:40:39] => Llamada a HomeView->show(<div><h4>V 0.6</h4><p>Inauguramos la nueva versión de la web, nada que ver con que fallara en cascada estrepitosamente y tuviera que reempezar por 6 vez.</p></div>, <div>
+                        <h4>Formulario de contacto</h4>
+                        <a href="?contact/show">
+                            Ver más
+                        </a>
+                    </div><div>
+                        <h4>Formulario de registro</h4>
+                        <a href="">
+                            Ver más
+                        </a>
+                    </div><div>
+                        <h4>Formulario de registro e inicio de sesión.</h4>
+                        <a href="">
+                            Ver más
+                        </a>
+                    </div><div>
+                        <h4>Mantenimiento</h4>
+                        <a href="">
+                            Ver más
+                        </a>
+                    </div><div>
+                        <h4>Chat</h4>
+                        <a href="">
+                            Ver más
+                        </a>
+                    </div>).
+[2023-02-18 20:40:39] => Metodo arrayFromPath(Array, lang.practics.7.ufs.2.exs.06).
+[2023-02-18 20:40:39] => Llamada a HomeController::arrayFromPath(Array, lang.practics.7.ufs.2.exs.06).
+[2023-02-18 20:40:39] => Metodo arrayFromPath(Array, lang.practics.7.ufs.2.exs.03).
+[2023-02-18 20:40:39] => Llamada a HomeController::arrayFromPath(Array, lang.practics.7.ufs.2.exs.03).
+[2023-02-18 20:40:39] => Metodo arrayFromPath(Array, lang.practics.7.ufs.2.exs.02).
+[2023-02-18 20:40:39] => Llamada a HomeController::arrayFromPath(Array, lang.practics.7.ufs.2.exs.02).
+[2023-02-18 20:40:39] => Metodo arrayFromPath(Array, lang.practics.7.ufs.1.exs.08).
+[2023-02-18 20:40:39] => Llamada a HomeController::arrayFromPath(Array, lang.practics.7.ufs.1.exs.08).
+[2023-02-18 20:40:39] => Metodo arrayFromPath(Array, lang.practics.7.ufs.1.exs.07).
+[2023-02-18 20:40:39] => Llamada a HomeController::arrayFromPath(Array, lang.practics.7.ufs.1.exs.07).
+[2023-02-18 20:40:39] => Metodo HomeController::getDestacados(HomeView).
+[2023-02-18 20:40:39] => Llamada a HomeController::getDestacados(HomeView).
+[2023-02-18 20:40:39] => Metodo HomeController::getNews(HomeView).
+[2023-02-18 20:40:39] => Llamada a HomceController::getNews(HomeView).
+[2023-02-18 20:40:39] => Metodo MenuController::getMenu().
+[2023-02-18 20:40:39] => La clase, MenuController, existe y se va a cargar.
+[2023-02-18 20:40:39] => Funcion spl_autoload_register(MenuController).
+[2023-02-18 20:40:39] => Llamada a MenuController::getMenu().
+[2023-02-18 20:40:39] => Metodo LangController::getLang().
+[2023-02-18 20:40:39] => La clase, LangController, existe y se va a cargar.
+[2023-02-18 20:40:39] => Funcion spl_autoload_register(LangController).
+[2023-02-18 20:40:39] => Llamada a LangController::getLang().
+[2023-02-18 20:40:39] => Metodo View::__construct().
+[2023-02-18 20:40:39] => Llamada a View::__construct().
+[2023-02-18 20:40:39] => Metodo HomeView::__construct().
+[2023-02-18 20:40:39] => La clase, View, existe y se va a cargar.
+[2023-02-18 20:40:39] => Funcion spl_autoload_register(View).
+[2023-02-18 20:40:39] => La clase, HomeView, existe y se va a cargar.
+[2023-02-18 20:40:39] => Funcion spl_autoload_register(HomeView).
+[2023-02-18 20:40:39] => Metodo HomeController::show().
+[2023-02-18 20:40:39] => La clase, HomeController, existe y se va a cargar.
+[2023-02-18 20:40:39] => Funcion spl_autoload_register(HomeController).
+[2023-02-18 20:40:39] => Metodo FrontController::dispatch().
+[2023-02-18 20:40:39] => La clase, FrontController, existe y se va a cargar.
+[2023-02-18 20:40:39] => Funcion spl_autoload_register(FrontController).
+[2023-02-18 20:40:39] => Llamada a FrontController::dispatch().
+[2023-02-18 20:40:39] => ## Nueva Carga ##
+
+[2023-02-18 20:12:19] => ## Fin de Carga ##
+[2023-02-18 20:12:19] => Carga de main.css.
+[2023-02-18 20:12:19] => Carga de CSS.
+[2023-02-18 20:12:19] => Carga de JS.
+[2023-02-18 20:12:19] => Metodo ErrorView->show(La clase, ContactView, no existe.).
+[2023-02-18 20:12:19] => Metodo MenuController::getMenu().
+[2023-02-18 20:12:19] => La clase, MenuController, existe y se va a cargar.
+[2023-02-18 20:12:19] => Funcion spl_autoload_register(MenuController).
+[2023-02-18 20:12:19] => Llamada a MenuController::getMenu().
+[2023-02-18 20:12:19] => Metodo LangController::getLang().
+[2023-02-18 20:12:19] => La clase, LangController, existe y se va a cargar.
+[2023-02-18 20:12:19] => Funcion spl_autoload_register(LangController).
+[2023-02-18 20:12:19] => Llamada a LangController::getLang().
+[2023-02-18 20:12:19] => Metodo View::__construct().
+[2023-02-18 20:12:19] => Llamada a View::__construct().
+[2023-02-18 20:12:19] => Metodo ErrorView::__construct().
+[2023-02-18 20:12:19] => La clase, View, existe y se va a cargar.
+[2023-02-18 20:12:19] => Funcion spl_autoload_register(View).
+[2023-02-18 20:12:19] => La clase, ErrorView, existe y se va a cargar.
+[2023-02-18 20:12:19] => Funcion spl_autoload_register(ErrorView).
+[2023-02-18 20:12:19] => Llamanda a ErrorView->show(La clase, ContactView, no existe.)
+[2023-02-18 20:12:19] => Algo ha fallado y se ha recogido una Excepcion: La clase, ContactView, no existe.
+[2023-02-18 20:12:19] => La clase, ContactView, no existe y se va a lanzar una Excepcion.
+[2023-02-18 20:12:19] => Funcion spl_autoload_register(ContactView).
+[2023-02-18 20:12:19] => Llamada a ContactView->show().
+[2023-02-18 20:12:19] => Metodo ContactController::show().
+[2023-02-18 20:12:19] => La clase, ContactController, existe y se va a cargar.
+[2023-02-18 20:12:19] => Funcion spl_autoload_register(ContactController).
+[2023-02-18 20:12:19] => !!!! OJO CUANDO SE HAYA HECHO EL SANITIZE !!!!
+[2023-02-18 20:12:19] => !!!! SANITIZE !!!!
+[2023-02-18 20:12:19] => Metodo FrontController::dispatch().
+[2023-02-18 20:12:19] => La clase, FrontController, existe y se va a cargar.
+[2023-02-18 20:12:19] => Funcion spl_autoload_register(FrontController).
+[2023-02-18 20:12:19] => Llamada a FrontController::dispatch().
+[2023-02-18 20:12:19] => ## Nueva Carga ##
+
+[2023-02-18 20:11:06] => ## Fin de Carga ##
+[2023-02-18 20:11:06] => Metodo ContactController::show().
+[2023-02-18 20:11:06] => La clase, ContactController, existe y se va a cargar.
+[2023-02-18 20:11:06] => Funcion spl_autoload_register(ContactController).
+[2023-02-18 20:11:06] => !!!! OJO CUANDO SE HAYA HECHO EL SANITIZE !!!!
+[2023-02-18 20:11:06] => !!!! SANITIZE !!!!
+[2023-02-18 20:11:06] => Metodo FrontController::dispatch().
+[2023-02-18 20:11:06] => La clase, FrontController, existe y se va a cargar.
+[2023-02-18 20:11:06] => Funcion spl_autoload_register(FrontController).
+[2023-02-18 20:11:06] => Llamada a FrontController::dispatch().
+[2023-02-18 20:11:06] => ## Nueva Carga ##
+
+[2023-02-18 20:10:25] => ## Fin de Carga ##
+[2023-02-18 20:10:25] => La clase, ContactController, existe y se va a cargar.
+[2023-02-18 20:10:25] => Funcion spl_autoload_register(ContactController).
+[2023-02-18 20:10:25] => !!!! OJO CUANDO SE HAYA HECHO EL SANITIZE !!!!
+[2023-02-18 20:10:25] => !!!! SANITIZE !!!!
+[2023-02-18 20:10:25] => Metodo FrontController::dispatch().
+[2023-02-18 20:10:25] => La clase, FrontController, existe y se va a cargar.
+[2023-02-18 20:10:25] => Funcion spl_autoload_register(FrontController).
+[2023-02-18 20:10:25] => Llamada a FrontController::dispatch().
+[2023-02-18 20:10:25] => ## Nueva Carga ##
+
+[2023-02-18 20:08:02] => ## Fin de Carga ##
+[2023-02-18 20:08:02] => Carga de main.css.
+[2023-02-18 20:08:02] => Carga de CSS.
+[2023-02-18 20:08:02] => Carga de JS.
+[2023-02-18 20:08:02] => Metodo ErrorView->show(El controlador, ContactController, no existe.).
+[2023-02-18 20:08:02] => Metodo MenuController::getMenu().
+[2023-02-18 20:08:02] => La clase, MenuController, existe y se va a cargar.
+[2023-02-18 20:08:02] => Funcion spl_autoload_register(MenuController).
+[2023-02-18 20:08:02] => Llamada a MenuController::getMenu().
+[2023-02-18 20:08:02] => Metodo LangController::getLang().
+[2023-02-18 20:08:02] => La clase, LangController, existe y se va a cargar.
+[2023-02-18 20:08:02] => Funcion spl_autoload_register(LangController).
+[2023-02-18 20:08:02] => Llamada a LangController::getLang().
+[2023-02-18 20:08:02] => Metodo View::__construct().
+[2023-02-18 20:08:02] => Llamada a View::__construct().
+[2023-02-18 20:08:02] => Metodo ErrorView::__construct().
+[2023-02-18 20:08:02] => La clase, View, existe y se va a cargar.
+[2023-02-18 20:08:02] => Funcion spl_autoload_register(View).
+[2023-02-18 20:08:02] => La clase, ErrorView, existe y se va a cargar.
+[2023-02-18 20:08:02] => Funcion spl_autoload_register(ErrorView).
+[2023-02-18 20:08:02] => Llamanda a ErrorView->show(El controlador, ContactController, no existe.)
+[2023-02-18 20:08:01] => Algo ha fallado y se ha recogido una Excepcion: El controlador, ContactController, no existe.
+[2023-02-18 20:08:01] => !!!! OJO CUANDO SE HAYA HECHO EL SANITIZE !!!!
+[2023-02-18 20:08:01] => !!!! SANITIZE !!!!
+[2023-02-18 20:08:01] => Metodo FrontController::dispatch().
+[2023-02-18 20:08:01] => La clase, FrontController, existe y se va a cargar.
+[2023-02-18 20:08:01] => Funcion spl_autoload_register(FrontController).
+[2023-02-18 20:08:01] => Llamada a FrontController::dispatch().
+[2023-02-18 20:08:01] => ## Nueva Carga ##
+
+[2023-02-18 20:07:48] => ## Fin de Carga ##
+[2023-02-18 20:07:48] => Carga de main.css.
+[2023-02-18 20:07:48] => Carga de CSS.
+[2023-02-18 20:07:48] => Carga de JS.
+[2023-02-18 20:07:48] => Metodo ErrorView->show(El controlador, ContactController, no existe.).
+[2023-02-18 20:07:48] => Metodo MenuController::getMenu().
+[2023-02-18 20:07:48] => La clase, MenuController, existe y se va a cargar.
+[2023-02-18 20:07:48] => Funcion spl_autoload_register(MenuController).
+[2023-02-18 20:07:48] => Llamada a MenuController::getMenu().
+[2023-02-18 20:07:48] => Metodo LangController::getLang().
+[2023-02-18 20:07:48] => La clase, LangController, existe y se va a cargar.
+[2023-02-18 20:07:48] => Funcion spl_autoload_register(LangController).
+[2023-02-18 20:07:48] => Llamada a LangController::getLang().
+[2023-02-18 20:07:48] => Metodo View::__construct().
+[2023-02-18 20:07:48] => Llamada a View::__construct().
+[2023-02-18 20:07:48] => Metodo ErrorView::__construct().
+[2023-02-18 20:07:48] => La clase, View, existe y se va a cargar.
+[2023-02-18 20:07:48] => Funcion spl_autoload_register(View).
+[2023-02-18 20:07:48] => La clase, ErrorView, existe y se va a cargar.
+[2023-02-18 20:07:48] => Funcion spl_autoload_register(ErrorView).
+[2023-02-18 20:07:48] => Llamanda a ErrorView->show(El controlador, ContactController, no existe.)
+[2023-02-18 20:07:48] => Algo ha fallado y se ha recogido una Excepcion: El controlador, ContactController, no existe.
+[2023-02-18 20:07:48] => !!!! OJO CUANDO SE HAYA HECHO EL SANITIZE !!!!
+[2023-02-18 20:07:48] => !!!! SANITIZE !!!!
+[2023-02-18 20:07:48] => Metodo FrontController::dispatch().
+[2023-02-18 20:07:48] => La clase, FrontController, existe y se va a cargar.
+[2023-02-18 20:07:48] => Funcion spl_autoload_register(FrontController).
+[2023-02-18 20:07:48] => Llamada a FrontController::dispatch().
+[2023-02-18 20:07:48] => ## Nueva Carga ##
+
+[2023-02-18 20:04:13] => ## Fin de Carga ##
+[2023-02-18 20:04:13] => Carga de main.css.
+[2023-02-18 20:04:13] => Carga de CSS.
+[2023-02-18 20:04:13] => Carga de JS.
+[2023-02-18 20:04:13] => Metodo ErrorView->show(El controlador, ContactController, no existe.).
+[2023-02-18 20:04:13] => Metodo MenuController::getMenu().
+[2023-02-18 20:04:12] => La clase, MenuController, existe y se va a cargar.
+[2023-02-18 20:04:12] => Funcion spl_autoload_register(MenuController).
+[2023-02-18 20:04:12] => Llamada a MenuController::getMenu().
+[2023-02-18 20:04:12] => Metodo LangController::getLang().
+[2023-02-18 20:04:12] => La clase, LangController, existe y se va a cargar.
+[2023-02-18 20:04:12] => Funcion spl_autoload_register(LangController).
+[2023-02-18 20:04:12] => Llamada a LangController::getLang().
+[2023-02-18 20:04:12] => Metodo View::__construct().
+[2023-02-18 20:04:12] => Llamada a View::__construct().
+[2023-02-18 20:04:12] => Metodo ErrorView::__construct().
+[2023-02-18 20:04:12] => La clase, View, existe y se va a cargar.
+[2023-02-18 20:04:12] => Funcion spl_autoload_register(View).
+[2023-02-18 20:04:12] => La clase, ErrorView, existe y se va a cargar.
+[2023-02-18 20:04:12] => Funcion spl_autoload_register(ErrorView).
+[2023-02-18 20:04:12] => Llamanda a ErrorView->show(El controlador, ContactController, no existe.)
+[2023-02-18 20:04:12] => Algo ha fallado y se ha recogido una Excepcion: El controlador, ContactController, no existe.
+[2023-02-18 20:04:12] => !!!! OJO CUANDO SE HAYA HECHO EL SANITIZE !!!!
+[2023-02-18 20:04:12] => !!!! SANITIZE !!!!
+[2023-02-18 20:04:12] => Metodo FrontController::dispatch().
+[2023-02-18 20:04:12] => La clase, FrontController, existe y se va a cargar.
+[2023-02-18 20:04:12] => Funcion spl_autoload_register(FrontController).
+[2023-02-18 20:04:12] => Llamada a FrontController::dispatch().
+[2023-02-18 20:04:12] => ## Nueva Carga ##
+
+[2023-02-18 20:01:40] => ## Fin de Carga ##
+[2023-02-18 20:01:40] => Carga de main.css.
+[2023-02-18 20:01:40] => Carga de CSS.
+[2023-02-18 20:01:40] => Carga de JS.
+[2023-02-18 20:01:40] => Metodo ErrorView->show(El controlador, , no existe.).
+[2023-02-18 20:01:40] => Metodo MenuController::getMenu().
+[2023-02-18 20:01:40] => La clase, MenuController, existe y se va a cargar.
+[2023-02-18 20:01:40] => Funcion spl_autoload_register(MenuController).
+[2023-02-18 20:01:40] => Llamada a MenuController::getMenu().
+[2023-02-18 20:01:40] => Metodo LangController::getLang().
+[2023-02-18 20:01:40] => La clase, LangController, existe y se va a cargar.
+[2023-02-18 20:01:40] => Funcion spl_autoload_register(LangController).
+[2023-02-18 20:01:40] => Llamada a LangController::getLang().
+[2023-02-18 20:01:40] => Metodo View::__construct().
+[2023-02-18 20:01:40] => Llamada a View::__construct().
+[2023-02-18 20:01:40] => Metodo ErrorView::__construct().
+[2023-02-18 20:01:39] => La clase, View, existe y se va a cargar.
+[2023-02-18 20:01:39] => Funcion spl_autoload_register(View).
+[2023-02-18 20:01:39] => La clase, ErrorView, existe y se va a cargar.
+[2023-02-18 20:01:39] => Funcion spl_autoload_register(ErrorView).
+[2023-02-18 20:01:39] => Llamanda a ErrorView->show(El controlador, , no existe.)
+[2023-02-18 20:01:39] => Algo ha fallado y se ha recogido una Excepcion: El controlador, , no existe.
+[2023-02-18 20:01:39] => !!!! SANITIZE !!!!
+[2023-02-18 20:01:39] => Metodo FrontController::dispatch().
+[2023-02-18 20:01:39] => La clase, FrontController, existe y se va a cargar.
+[2023-02-18 20:01:39] => Funcion spl_autoload_register(FrontController).
+[2023-02-18 20:01:39] => Llamada a FrontController::dispatch().
+[2023-02-18 20:01:39] => ## Nueva Carga ##
+
+[2023-02-18 20:01:28] => ## Fin de Carga ##
+[2023-02-18 20:01:28] => Carga de main.css.
+[2023-02-18 20:01:28] => Carga de CSS.
+[2023-02-18 20:01:28] => Carga de JS.
+[2023-02-18 20:01:28] => Metodo ErrorView->show(El controlador, , no existe.).
+[2023-02-18 20:01:28] => Metodo MenuController::getMenu().
+[2023-02-18 20:01:28] => La clase, MenuController, existe y se va a cargar.
+[2023-02-18 20:01:28] => Funcion spl_autoload_register(MenuController).
+[2023-02-18 20:01:28] => Llamada a MenuController::getMenu().
+[2023-02-18 20:01:28] => Metodo LangController::getLang().
+[2023-02-18 20:01:28] => La clase, LangController, existe y se va a cargar.
+[2023-02-18 20:01:28] => Funcion spl_autoload_register(LangController).
+[2023-02-18 20:01:28] => Llamada a LangController::getLang().
+[2023-02-18 20:01:28] => Metodo View::__construct().
+[2023-02-18 20:01:28] => Llamada a View::__construct().
+[2023-02-18 20:01:28] => Metodo ErrorView::__construct().
+[2023-02-18 20:01:28] => La clase, View, existe y se va a cargar.
+[2023-02-18 20:01:28] => Funcion spl_autoload_register(View).
+[2023-02-18 20:01:28] => La clase, ErrorView, existe y se va a cargar.
+[2023-02-18 20:01:28] => Funcion spl_autoload_register(ErrorView).
+[2023-02-18 20:01:28] => Llamanda a ErrorView->show(El controlador, , no existe.)
+[2023-02-18 20:01:28] => Algo ha fallado y se ha recogido una Excepcion: El controlador, , no existe.
+[2023-02-18 20:01:28] => !!!! SANITIZE !!!!
+[2023-02-18 20:01:28] => Metodo FrontController::dispatch().
+[2023-02-18 20:01:28] => La clase, FrontController, existe y se va a cargar.
+[2023-02-18 20:01:28] => Funcion spl_autoload_register(FrontController).
+[2023-02-18 20:01:28] => Llamada a FrontController::dispatch().
+[2023-02-18 20:01:28] => ## Nueva Carga ##
+
+[2023-02-18 19:56:04] => ## Fin de Carga ##
+[2023-02-18 19:56:04] => Carga de main.css.
+[2023-02-18 19:56:04] => Carga de CSS.
+[2023-02-18 19:56:04] => Carga de JS.
+[2023-02-18 19:56:04] => Metodo ErrorView->show(El controlador, , no existe.).
+[2023-02-18 19:56:04] => Metodo MenuController::getMenu().
+[2023-02-18 19:56:04] => La clase, MenuController, existe y se va a cargar.
+[2023-02-18 19:56:04] => Funcion spl_autoload_register(MenuController).
+[2023-02-18 19:56:04] => Llamada a MenuController::getMenu().
+[2023-02-18 19:56:04] => Metodo LangController::getLang().
+[2023-02-18 19:56:04] => La clase, LangController, existe y se va a cargar.
+[2023-02-18 19:56:04] => Funcion spl_autoload_register(LangController).
+[2023-02-18 19:56:04] => Llamada a LangController::getLang().
+[2023-02-18 19:56:04] => Metodo View::__construct().
+[2023-02-18 19:56:04] => Llamada a View::__construct().
+[2023-02-18 19:56:04] => Metodo ErrorView::__construct().
+[2023-02-18 19:56:04] => La clase, View, existe y se va a cargar.
+[2023-02-18 19:56:04] => Funcion spl_autoload_register(View).
+[2023-02-18 19:56:04] => La clase, ErrorView, existe y se va a cargar.
+[2023-02-18 19:56:04] => Funcion spl_autoload_register(ErrorView).
+[2023-02-18 19:56:04] => Llamanda a ErrorView->show(El controlador, , no existe.)
+[2023-02-18 19:56:04] => Algo ha fallado y se ha recogido una Excepcion: El controlador, , no existe.
+[2023-02-18 19:56:04] => Metodo FrontController::dispatch().
+[2023-02-18 19:56:04] => La clase, FrontController, existe y se va a cargar.
+[2023-02-18 19:56:04] => Funcion spl_autoload_register(FrontController).
+[2023-02-18 19:56:04] => Llamada a FrontController::dispatch().
+[2023-02-18 19:56:04] => ## Nueva Carga ##
+
 [2023-02-18 19:50:52] => ## Fin de Carga ##
 [2023-02-18 19:50:52] => Carga de main.css.
 [2023-02-18 19:50:52] => Carga de CSS.
