@@ -408,4 +408,42 @@ Tareas:
 	- Controller
 		- Sanitize
 
-Al lio.
+Seguimos con M7 UF1 E08 Formulario de registro.
+
+# 2023-02-20 18:20
+Practica M7 UF1 E08 lista.
+Se me ha olividado apuntar que no he hecho la parte de la validacion de los datos tanto de esta como de la anterior.
+Me los pondre como todos de baja prioridad y voy a continuar con la siguiente practica.
+
+Tareas:
+
+- Alta
+	- M7 UF2
+		- E02 (Necesito M7 UF1 E08)
+		- E03
+	- M7 UF2 E06 (Necesita M7 UF2 E03 Y E04)
+	- Tmplts
+		- Aside
+			- Recursos
+	- PhP Blog
+	- Pagina que muestra la conexión de las aulas del instituto
+- Media
+	- M7 UF1
+		- E01
+		- E04
+	- LangController
+		- showLangs()
+	- MenuController
+		- Pagina para modulos (depende de la logica del contenido del Home)
+			- Pagina par ufs
+				- Menus parciales
+	- Fichero de lengauje
+- Baja
+	- Controller
+		- Sanitize
+	- M7 UF1 E07
+		- Validacion de datos
+	- M7 UF1 E08
+		- Validación de datos
+
+Voy a hacer commit y seguimos.

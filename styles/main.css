@@ -48,6 +48,7 @@ html body aside {
 html body main {
   background-color: #999;
   grid-area: main;
+  overflow: auto;
 }
 
 /*# sourceMappingURL=main.css.map */

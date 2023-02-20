@@ -162,10 +162,34 @@ $lang = [
                         "08" => [
                             "title" => "Formulario de registro",
                             "short" => "",
-                            "href" => "",
+                            "href" => "?register/show",
                             
                             "text" => [
-                                "text1" => "",
+                                "userAndPasswd" => "Usuario y contraseña",
+                                "username" => "Nombre de usuario / Correo electronico",
+                                "passwd" => "Contraseña",
+                                "repeatPasswd" => "Repite la contraseña",
+                                "personal" => "Infromación personal",
+                                "dni" => "DNI",
+                                "name" => "Nombre",
+                                "surname" => "Apellido",
+                                "birth" => "Fecha de nacimiento",
+                                "gender" => "Sexo",
+                                "male" => "Hombre",
+                                "female" => "Mujer",
+                                "dir" => "Dirección",
+                                "adr" => "Direción",
+                                "pcode" => "Codigo postal",
+                                "loc" => "Localidad",
+                                "prov" => "Provincia",
+                                "phone" => "Numero de teléfono",
+                                "userImage" => "Imagen de perfil",
+                                "image" => "Imagen",
+                                "send" => "Enviar",
+                                "opc" => "Información opcional",
+                                "errors" => [
+                                    "dImage" => "Ha ocurrido algun problema con el directorio de las imagenes de perfil.\n Por favor, <a href=\"?contact/show\">contacte con el administrador</a>. Muchas gracias."
+                                ],
                             ],
                         ],
                     ],
@@ -230,14 +254,16 @@ $lang = [
     ],
     
     "destacados" => [
+        "lang.practics.7.ufs.1.exs.08",
+        "lang.practics.7.ufs.1.exs.07",
+        
         // "lang.practics.7.ufs.1.exs.01",
         // "lang.practics.7.ufs.1.exs.02",
         // "lang.practics.7.ufs.1.exs.03",
         // "lang.practics.7.ufs.1.exs.04",
         // "lang.practics.7.ufs.1.exs.05",
         // "lang.practics.7.ufs.1.exs.06",
-        "lang.practics.7.ufs.1.exs.07",
-        "lang.practics.7.ufs.1.exs.08",
+        
         // "lang.practics.7.ufs.2.exs.01",
         "lang.practics.7.ufs.2.exs.02",
         "lang.practics.7.ufs.2.exs.03",
