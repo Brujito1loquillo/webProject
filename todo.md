@@ -419,7 +419,7 @@ Tareas:
 
 - Alta
 	- M7 UF2
-		- E02 (Necesito M7 UF1 E08)
+		- E02
 		- E03
 	- M7 UF2 E06 (Necesita M7 UF2 E03 Y E04)
 	- Tmplts
@@ -447,3 +447,47 @@ Tareas:
 		- Validación de datos
 
 Voy a hacer commit y seguimos.
+
+## 20:02
+Me voy a ensayo, he hecho la base de datos (como la tenia Toni), ya trabajare en una mejor version
+de la base de datos en otro momento, eso si, he tenido que corregir errores del script que generaba
+la base de datos. (Nota mental: leer los inserts que hace toni en el script para entender un poco
+que valores son permitidos y cuales no).
+
+Tareas:
+
+- Alta
+	- M7 UF2
+		- E02
+		- E03
+	- M7 UF2 E06 (Necesita M7 UF2 E03 Y E04)
+	- Tmplts
+		- Aside
+			- Recursos
+	- PhP Blog
+	- Pagina que muestra la conexión de las aulas del instituto
+- Media
+	- M7 UF1
+		- E01
+		- E04
+	- LangController
+		- showLangs()
+	- MenuController
+		- Pagina para modulos (depende de la logica del contenido del Home)
+			- Pagina par ufs
+				- Menus parciales
+	- Fichero de lengauje
+- Baja
+	- Controller
+		- Sanitize
+	- M7 UF1 E07
+		- Validacion de datos
+	- M7 UF1 E08
+		- Validación de datos
+			- Mirar los inserts de Toni
+	- Base de datos
+		- Actualizar la tabla para que solo te deje introducir valores validos
+
+En si misma, la tarea M7 UF2 E02 es hacer la persistencia para la actividad M7 UF1 E08 y añadir la
+funcionalidad de poder hacer login.
+Voy a hacer un commit para subir el script sql y me voy a preparar para ir a ensayo.
